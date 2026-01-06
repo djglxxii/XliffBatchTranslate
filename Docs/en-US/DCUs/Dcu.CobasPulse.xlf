@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+
+        <body>
+            <trans-unit id="DeviceConfigurations.Pulse.Settings.Title">
+                <source>Settings</source>
+                <target>Settings</target>
+            </trans-unit>
+  
+           <trans-unit id="DeviceConfigurations.Pulse.DeviceSettings.Title">
+              <source>Device Settings</source>
+              <target>Device Settings</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.DateTime.Title">
+              <source>Date/Time Settings</source>
+              <target>Date/Time Settings</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Access.Title">
+              <source>Access Settings</source>
+              <target>Access Settings</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.RetentionSynch.Title">
+              <source>Retention and Synchronization Settings</source>
+              <target>Retention and Synchronization Settings</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Connectivity.Title">
+              <source>Connectivity</source>
+              <target>Connectivity</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.TestCapabilities.Title">
+              <source>Test Capabilities</source>
+              <target>Test Capabilities</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.QCSetttings.Title">
+              <source>QC Test Settings</source>
+              <target>QC Test Settings</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.StatTests.Title">
+              <source>Stat Test Settings</source>
+              <target>Stat Test Settings</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.CommentSettings.Title">
+              <source>Comment Settings</source>
+              <target>Comment Settings</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.PatientTest.Title">
+              <source>Patient Test</source>
+              <target>Patient Test</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.OperatorId.Title">
+              <source>Operator ID</source>
+              <target>Operator ID</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.QCTest.Title">
+              <source>QC Test</source>
+              <target>QC Test</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.OperatorIdEntry.Title">
+              <source>Operator ID Entry</source>
+              <target>Operator ID Entry</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.OperatorIdEntrySettings.Title">
+              <source>Operator ID Settings</source>
+              <target>Operator ID Settings</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.OperatorPasswordSettings.Title">
+              <source>Operator Password Settings</source>
+              <target>Operator Password Settings</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.PatientIdEntry.Title">
+              <source>Patient ID Entry</source>
+              <target>Patient ID Entry</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.PatientIdEntrySettings.Title">
+              <source>Patient ID Settings</source>
+              <target>Patient ID Settings</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.SpecimenTypes.Title">
+              <source>Specimen Types</source>
+              <target>Specimen Types</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Workflow.Title">
+              <source>Workflow</source>
+              <target>Workflow</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Ranges.Title">
+              <source>Ranges</source>
+              <target>Ranges</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Barcodes.Title">
+              <source>Barcode Symbology</source>
+              <target>Barcode Symbology</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.PatientBarcodes.Title">
+              <source>Patient ID Barcode Selections</source>
+              <target>Patient ID Barcode Selections</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.OperatorBarcodes.Title">
+              <source>Operator ID Barcode Selections</source>
+              <target>Operator ID Barcode Selections</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.BarcodeSettings.Title">
+              <source>Barcode Settings</source>
+              <target>Barcode Settings</target>
+           </trans-unit>
+              
+           <trans-unit id="DeviceConfigurations.Pulse.QCRangeDeviations.Title">
+              <source>QC Range Deviations</source>
+              <target>QC Range Deviations</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ActivityTurnOffInSeconds.Suffix">
+                <source>Seconds</source>
+                <target>Seconds</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Pulse.Settings.ActivityTurnOffInSeconds">
+                <source>Activity Turn Off</source>
+                <target>Activity Turn Off</target>
+            </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.LiftToWake">
+              <source>Lift to Wake</source>
+              <target>Lift to Wake</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DateFormat">
+              <source>Date Format</source>
+              <target>Date Format</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.TimeFormat">
+              <source>Time Format</source>
+              <target>Time Format</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.InstrumentLocale">
+              <source>Locale</source>
+              <target>Locale</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DateTimeEditingAccess">
+              <source>Date Time Editing Access</source>
+              <target>Date Time Editing Access</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Site">
+              <source>Site</source>
+              <target>Site</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Location">
+              <source>Location</source>
+              <target>Location</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Name">
+              <source>Name</source>
+              <target>Name</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.LaunchAppLibraryOnTurnOn">
+              <source>Launch App Library on Turn On</source>
+              <target>Launch App Library on Turn On</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.AdminAccess">
+              <source>Allow Access to Admin Submenu</source>
+              <target>Allow Access to Admin Submenu</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.MessageOfTheDay">
+              <source>Message of the Day</source>
+              <target>Message of the Day</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.LogInsulin">
+              <source>Log Insulin</source>
+              <target>Log Insulin</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.StripEjectConfiguration">
+              <source>Strip Eject Configuration</source>
+              <target>Strip Eject Configuration</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.mg_per_dL">
+              <source>mg/dL</source>
+              <target>mg/dL</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.mmol_per_L">
+              <source>mmol/L</source>
+              <target>mmol/L</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.NormalRange">
+              <source>Normal Range</source>
+              <target>Normal Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CriticalRange">
+              <source>Critical Range</source>
+              <target>Critical Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ReportableRange">
+              <source>Reportable Range</source>
+              <target>Reportable Range</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.NormalRangeLoLimit">
+              <source>Low Limit</source>
+              <target>Low Limit</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.NormalRangeHiLimit">
+              <source>High Limit</source>
+              <target>High Limit</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CriticalRangeLoLimit">
+              <source>Low Limit</source>
+              <target>Low Limit</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CriticalRangeHiLimit">
+              <source>High Limit</source>
+              <target>High Limit</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ReportableRangeLoLimit">
+              <source>Low Limit</source>
+              <target>Low Limit</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ReportableRangeHiLimit">
+              <source>High Limit</source>
+              <target>High Limit</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DisplayCriticalRangeLoMessage">
+              <source>Critical Low Message</source>
+              <target>Critical Low Message</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DisplayCriticalRangeHiMessage">
+              <source>Critical High Message</source>
+              <target>Critical High Message</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DisplayReportableRangeLoMessage">
+              <source>Reportable Low Message</source>
+              <target>Reportable Low Message</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DisplayReportableRangeHiMessage">
+              <source>Reportable High Message</source>
+              <target>Reportable High Message</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation0">
+              <source>L1 Custom Deviation, Version 0</source>
+              <target>L1 Custom Deviation, Version 0</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation1">
+              <source>L1 Custom Deviation, Version 1</source>
+              <target>L1 Custom Deviation, Version 1</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation2">
+              <source>L1 Custom Deviation, Version 2</source>
+              <target>L1 Custom Deviation, Version 2</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation3">
+              <source>L1 Custom Deviation, Version 3</source>
+              <target>L1 Custom Deviation, Version 3</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation4">
+              <source>L1 Custom Deviation, Version 4</source>
+              <target>L1 Custom Deviation, Version 4</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation5">
+              <source>L1 Custom Deviation, Version 5</source>
+              <target>L1 Custom Deviation, Version 5</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation6">
+              <source>L1 Custom Deviation, Version 6</source>
+              <target>L1 Custom Deviation, Version 6</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation7">
+              <source>L1 Custom Deviation, Version 7</source>
+              <target>L1 Custom Deviation, Version 7</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation8">
+              <source>L1 Custom Deviation, Version 8</source>
+              <target>L1 Custom Deviation, Version 8</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L1Deviation9">
+              <source>L1 Custom Deviation, Version 9</source>
+              <target>L1 Custom Deviation, Version 9</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation0">
+              <source>L2 Custom Deviation, Version 0</source>
+              <target>L2 Custom Deviation, Version 0</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation1">
+              <source>L2 Custom Deviation, Version 1</source>
+              <target>L2 Custom Deviation, Version 1</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation2">
+              <source>L2 Custom Deviation, Version 2</source>
+              <target>L2 Custom Deviation, Version 2</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation3">
+              <source>L2 Custom Deviation, Version 3</source>
+              <target>L2 Custom Deviation, Version 3</target>
+           </trans-unit>    
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation4">
+              <source>L2 Custom Deviation, Version 4</source>
+              <target>L2 Custom Deviation, Version 4</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation5">
+              <source>L2 Custom Deviation, Version 5</source>
+              <target>L2 Custom Deviation, Version 5</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation6">
+              <source>L2 Custom Deviation, Version 6</source>
+              <target>L2 Custom Deviation, Version 6</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation7">
+              <source>L2 Custom Deviation, Version 7</source>
+              <target>L2 Custom Deviation, Version 7</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation8">
+              <source>L2 Custom Deviation, Version 8</source>
+              <target>L2 Custom Deviation, Version 8</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.L2Deviation9">
+              <source>L2 Custom Deviation, Version 9</source>
+              <target>L2 Custom Deviation, Version 9</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.BelowReportableRangeLoMessage">
+              <source>Below Reportable Range Low Message</source>
+              <target>Below Reportable Range Low Message</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.AboveReportableRangeHiMessage">
+              <source>Above Reportable Range High Message</source>
+              <target>Above Reportable Range High Message</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.BelowCriticalRangeLoMessage">
+              <source>Below Critical Range Low Message</source>
+              <target>Below Critical Range Low Message</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.AboveCriticalRangeHiMessage">
+              <source>Above Critical Range High Message</source>
+              <target>Above Critical Range High Message</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.NormalRangeLowError">
+              <source>Must be &lt;= High and within Critical Range</source>
+              <target>Must be &lt;= High and within Critical Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.NormalRangeHighError">
+              <source>Must be &gt;= Low and within Critical Range</source>
+              <target>Must be &gt;= Low and within Critical Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CriticalRangeLowError">
+              <source>Must contain Normal Range and be within Reportable Range</source>
+              <target>Must contain Normal Range and be within Reportable Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CriticalRangeHighError">
+              <source>Must contain Normal Range and be within Reportable Range</source>
+              <target>Must contain Normal Range and be within Reportable Range</target>
+           </trans-unit>     
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ReportableRangeLowError">
+              <source>Must contain Critical Range</source>
+              <target>Must contain Critical Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ReportableRangeHighError">
+              <source>Must contain Critical Range</source>
+              <target>Must contain Critical Range</target>
+           </trans-unit>     
+              
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CommentsRequiredPatientTesting">
+              <source>Comments Required for Patient Testing</source>
+              <target>Comments Required for Patient Testing</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CommentsRequiredLevelPatientTesting">
+              <source>Comment Requirement Out of Range Level</source>
+              <target>Comment Requirement Out of Range Level</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CommentsRequiredQcTesting">
+              <source>Comments Required for QC Testing</source>
+              <target>Comments Required for QC Testing</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CustomComments">
+              <source>Custom Comments</source>
+              <target>Custom Comments</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.EmergencyWorkflow">
+              <source>Emergency Workflow</source>
+              <target>Emergency Workflow</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.EmergencyId">
+              <source>Emergency ID</source>
+              <target>Emergency ID</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.StatTests">
+              <source>Allow Stat Tests</source>
+              <target>Allow Stat Tests</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.StatTestsNumber">
+              <source>Number of Allowed Stat Tests</source>
+              <target>Number of Allowed Stat Tests</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Tests.Suffix">
+              <source>Tests</source>
+              <target>Tests</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.CleaningRequired">
+              <source>Require Cleaning After Measurement</source>
+              <target>Require Cleaning After Measurement</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.StripEjectConfirmation">
+              <source>Strip Eject Confirmation</source>
+              <target>Strip Eject Confirmation</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.SampleTypeCapillary">
+              <source>Capillary</source>
+              <target>Capillary</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.SampleTypeVenous">
+              <source>Venous</source>
+              <target>Venous</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.SampleTypeArterial">
+              <source>Arterial</source>
+              <target>Arterial</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.SampleTypeHeelStick">
+              <source>Heel Stick</source>
+              <target>Heel Stick</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.PatientId.Title">
+              <source>Patient ID</source>
+              <target>Patient ID</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.PatientIdEntryTypes">
+              <source>Patient ID Entry Types</source>
+              <target>Patient ID Entry Types</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.PatientIdKeyboardType">
+              <source>Keyboard Entry Type</source>
+              <target>Keyboard Entry Type</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.OperatorIdEntryTypes">
+              <source>Operator ID Entry Types</source>
+              <target>Operator ID Entry Types</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Keyboard">
+              <source>Keyboard</source>
+              <target>Keyboard</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Barcode">
+              <source>Barcode</source>
+              <target>Barcode</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.RFID">
+              <source>RFID</source>
+              <target>RFID</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.KeyboardType">
+              <source>Keyboard Type</source>
+              <target>Keyboard Type</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Pattern_KB">
+              <source>Keyboard Entered Pattern</source>
+              <target>Keyboard Entered Pattern</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Pattern_BCS">
+              <source>Barcode Scanned Pattern</source>
+              <target>Barcode Scanned Pattern</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Pattern_RFID">
+              <source>RFID Read Pattern</source>
+              <target>RFID Read Pattern</target>
+           </trans-unit>
+          
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.PatientIdValidation">
+              <source>Patient ID Validation Type</source>
+              <target>Patient ID Validation Type</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.PatientTestSeries">
+              <source>Patient Test Series</source>
+              <target>Patient Test Series</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.PatientIdConfirmation">
+              <source>Patient ID Confirmation</source>
+              <target>Patient ID Confirmation</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.PatientIdAutoComplete">
+              <source>Patient ID Auto Complete</source>
+              <target>Patient ID Auto Complete</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.TagConfiguration">
+              <source>RFID Tag Configuration</source>
+              <target>RFID Tag Configuration</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.OperatorIdValidation">
+              <source>Operator ID Validation Type</source>
+              <target>Operator ID Validation Type</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.OperatorIdAutoComplete">
+              <source>Operator ID Auto Complete</source>
+              <target>Operator ID Auto Complete</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.TagRecordRFID">
+              <source>RFID Tag Record</source>
+              <target>RFID Tag Record</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.OperatorInactivityTimeout">
+              <source>Operator ID Valid in Sleep Mode</source>
+              <target>Operator ID Valid in Sleep Mode</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.OperatorInactivityTimeout.Suffix">
+              <source>secs</source>
+              <target>secs</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.OperatorCertExpirationWarningInDays">
+              <source>Certification Expiration Warning</source>
+              <target>Certification Expiration Warning</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.OperatorCertExpirationWarningInDays.Suffix">
+              <source>days</source>
+              <target>days</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.OperatorPwHashing">
+              <source>Operator Password Hashing</source>
+              <target>Operator Password Hashing</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.MinimalPasswordLength">
+              <source>Minimum Password Length</source>
+              <target>Minimum Password Length</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.BarcodeSelections">
+              <source>Supported Barcode Types</source>
+              <target>Supported Barcode Types</target>
+           </trans-unit>          
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.BcsCodeI2of5Checksum">
+              <source>Interleaved 2 Of 5 Checksum</source>
+              <target>Interleaved 2 Of 5 Checksum</target>
+           </trans-unit>     
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.BcsBarcodeFocusTimespan">
+              <source>Barcode Focus Timespan</source>
+              <target>Barcode Focus Timespan</target>
+           </trans-unit>     
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.SpecimenTypeSelections">
+              <source>Supported Specimen Types</source>
+              <target>Supported Specimen Types</target>
+           </trans-unit>    
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.LinearityEnabled">
+              <source>Linearity Enabled</source>
+              <target>Linearity Enabled</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.LinearityLotSelectionByList">
+              <source>Linearity Lot Selection by List</source>
+              <target>Linearity Lot Selection by List</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ProficiencyEnabled">
+              <source>Proficiency Enabled</source>
+              <target>Proficiency Enabled</target>
+           </trans-unit>
+              
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ConfigurationQrCodeAccess">
+              <source>Allow Access to QR Configuration Code Submenu</source>
+              <target>Allow Access to QR Configuration Code Submenu</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.LotManagementAccess">
+              <source>Allow Access to Lot Management Submenu</source>
+              <target>Allow Access to Lot Management Submenu</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.SetupPassword">
+              <source>Setup Password</source>
+              <target>Setup Password</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ResultDeletionAlgorithm">
+              <source>Result Deletion Algorithm</source>
+              <target>Result Deletion Algorithm</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ResultRetentionTimeInDays">
+              <source>Result Retention</source>
+              <target>Result Retention</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Days.Suffix">
+              <source>Days</source>
+              <target>Days</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Hours.Suffix">
+              <source>Hours</source>
+              <target>Hours</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Mins.Suffix">
+              <source>Mins</source>
+              <target>Mins</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Secs.Suffix">
+              <source>Secs</source>
+              <target>Secs</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.Milliseconds.Suffix">
+              <source>ms</source>
+              <target>ms</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ResultUploadRequired">
+              <source>Result Upload Required Before Deletion</source>
+              <target>Result Upload Required Before Deletion</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.AuditTrailRetentionTimeInDays">
+              <source>Result Audit Trail Retention</source>
+              <target>Result Audit Trail Retention</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsSynchronizationWarningHours">
+              <source>Synchronization Warning Time</source>
+              <target>Synchronization Warning Time</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsSynchronizationLockoutHours">
+              <source>Lockout Time After Synchronization Warning</source>
+              <target>Lockout Time After Synchronization Warning</target>
+           </trans-unit>    
+            <trans-unit id="DeviceConfigurations.Pulse.Settings.CleaningAlertHours">
+              <source>Cleaning Alert Time</source>
+              <target>Cleaning Alert Time</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ConversationTimeoutInSeconds">
+              <source>Conversation Timeout</source>
+              <target>Conversation Timeout</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.ConnectionTimeoutInSeconds">
+              <source>Connection Timeout</source>
+              <target>Connection Timeout</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsTlsLevel">
+              <source>TLS Level</source>
+              <target>TLS Level</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsTlsCertificationCheck">
+              <source>TLS Certification Check</source>
+              <target>TLS Certification Check</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsTlsCertificate">
+              <source>TLS Certificate</source>
+              <target>TLS Certificate</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsTlsCertificatePassword">
+              <source>TLS Certificate Password</source>
+              <target>TLS Certificate Password</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsSyncIntervalInMins">
+              <source>Synchronization Interval</source>
+              <target>Synchronization Interval</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsTlsCertificatePassword.Confirm">
+              <source>Confirm TLS Certificate Password</source>
+              <target>Confirm TLS Certificate Password</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsTlsCertificatePassword.Validation.Error">
+              <source>Password may not exceed 64 characters</source>
+              <target>Password may not exceed 64 characters</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.DmsTlsCertificate.FileSizeError">
+              <source>File cannot exceed 37500 bytes</source>
+              <target>File cannot exceed 37500 bytes</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.QcResultDisplay">
+              <source>Display Numeric QC Result</source>
+              <target>Display Numeric QC Result</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.QcLotSelectionByList">
+              <source>QC Lot Selection By List</source>
+              <target>QC Lot Selection By List</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.QcAlgorithm">
+              <source>QC Algorithm</source>
+              <target>QC Algorithm</target>
+           </trans-unit>           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.QcHours">
+              <source>QC Hours</source>
+              <target>QC Hours</target>
+           </trans-unit>          
+            <trans-unit id="DeviceConfigurations.Pulse.Settings.QcShiftLength">
+              <source>QC Shift Length</source>
+              <target>QC Shift Length</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.QcShiftStart">
+              <source>QC Shift Start</source>
+              <target>QC Shift Start</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.QcStripCount">
+              <source>QC Strip Count</source>
+              <target>QC Strip Count</target>
+           </trans-unit>           
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.QcTimeOfDay">
+              <source>QC Time of Day</source>
+              <target>QC Time of Day</target>
+           </trans-unit>              
+           <trans-unit id="DeviceConfigurations.Pulse.Settings.QcNeededForNewStripLots">
+              <source>QC PASS Needed For New Strip Lots</source>
+              <target>QC PASS Needed For New Strip Lots</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfiguration.Pulse.Settings.QcTimeOfDay0">
+              <source>Time of Day 1</source>
+              <target>Time of Day 1</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfiguration.Pulse.Settings.QcTimeOfDay1">
+              <source>Time of Day 2</source>
+              <target>Time of Day 2</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfiguration.Pulse.Settings.QcTimeOfDay2">
+              <source>Time of Day 3</source>
+              <target>Time of Day 3</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfiguration.Pulse.Settings.QcTimeOfDay3">
+              <source>Time of Day 4</source>
+              <target>Time of Day 4</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfiguration.Pulse.Settings.QcTimeOfDay4">
+              <source>Time of Day 5</source>
+              <target>Time of Day 5</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfiguration.Pulse.Settings.QcTimeOfDay5">
+              <source>Time of Day 6</source>
+              <target>Time of Day 6</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Locale_enUS">
+              <source>en-US</source>
+              <target>en-US</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.DateFormat0">
+              <source>DD-MMM-YYYY</source>
+              <target>DD-MMM-YYYY</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.DateFormat1">
+              <source>MMM DD, YYYY</source>
+              <target>MMM DD, YYYY</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.DateFormat2">
+              <source>MM/DD/YYYY</source>
+              <target>MM/DD/YYYY</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.DateFormat3">
+              <source>DD.MM.YYYY</source>
+              <target>DD.MM.YYYY</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.TimeFormatHours24">
+              <source>24 Hour</source>
+              <target>24 Hour</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.TimeFormatHours12">
+              <source>12 Hour (AM/PM)</source>
+              <target>12 Hour (AM/PM)</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ViaDMS">
+              <source>Via DMS</source>
+              <target>Via DMS</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.UnlimitedAccess">
+              <source>Unlimited Access</source>
+              <target>Unlimited Access</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ViaSetupPassword">
+              <source>Via Setup Password</source>
+              <target>Via Setup Password</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ViaOperatorPrivilege">
+              <source>Via Operator Privilege</source>
+              <target>Via Operator Privilege</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Disabled">
+              <source>Disabled</source>
+              <target>Disabled</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ViaTestScreenOnly">
+              <source>Via Test Screen Only</source>
+              <target>Via Test Screen Only</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ViaTestScreenAndAfterGlucoseTest">
+              <source>Via Test Screen and After Glucose Test</source>
+              <target>Via Test Screen and After Glucose Test</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Alphanumeric">
+              <source>Alphanumeric</source>
+              <target>Alphanumeric</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Numeric">
+              <source>Numeric</source>
+              <target>Numeric</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ListBased">
+              <source>List Based</source>
+              <target>List Based</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ListBasedAllowNew">
+              <source>List Based, Allow New</source>
+              <target>List Based, Allow New</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.PatternBasedOnly">
+              <source>Pattern Based Only</source>
+              <target>Pattern Based Only</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ListBasedWithPassword">
+              <source>List Based with Password</source>
+              <target>List Based with Password</target>
+           </trans-unit>
+                     
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.NDEFRecord">
+              <source>NDEF Record</source>
+              <target>NDEF Record</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.UniqueId">
+              <source>Unique ID</source>
+              <target>Unique ID</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.AfterResultConfirmation">
+              <source>Eject Strip After Result Confirmation</source>
+              <target>Eject Strip After Result Confirmation</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.BeforeResultConfirmation">
+              <source>Eject Strip Before Result Confirmation</source>
+              <target>Eject Strip Before Result Confirmation</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Automatic">
+              <source>Automatic</source>
+              <target>Automatic</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Fifo">
+              <source>FIFO</source>
+              <target>FIFO</target>
+           </trans-unit>
+
+           
+           <!-- OTE tab -->
+            <trans-unit id="DeviceConfigurations.Pulse.OTE.Title">
+                <source>Other Tests</source>
+                <target>Other Tests</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.Pulse.OTE.AvailableTestsTitle">
+                <source>Available Tests</source>
+                <target>Available Tests</target>
+            </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.OTE.SettingsTitle">
+              <source>Settings</source>
+              <target>Settings</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.OTE.FreeTextCommentAllowed">
+              <source>Free Text Comment Allowed</source>
+              <target>Free Text Comment Allowed</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.OTE.TestItemsTitle">
+              <source>Test Items</source>
+              <target>Test Items</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.OTE.LotEntryTitle">
+              <source>Lot Entry</source>
+              <target>Lot Entry</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Barcode">
+              <source>Barcode</source>
+              <target>Barcode</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.BarcodeKeyboard">
+              <source>Barcode/Keyboard</source>
+              <target>Barcode/Keyboard</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.BarcodeListSelection">
+              <source>Barcode/List Selection</source>
+              <target>Barcode/List Selection</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.BarcodeKeyboardListSelection">
+              <source>Barcode/Keyboard/List Selection</source>
+              <target>Barcode/Keyboard/List Selection</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ListSelection">
+              <source>List Selection</source>
+              <target>List Selection</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ListSelectionKeyboard">
+              <source>List Selection/Keyboard</source>
+              <target>List Selection/Keyboard</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Keyboard">
+              <source>Keyboard</source>
+              <target>Keyboard</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.RFID">
+              <source>RFID</source>
+              <target>RFID</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Optional">
+              <source>Optional</source>
+              <target>Optional</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.OutOfRange">
+              <source>Out of Range</source>
+              <target>Out of Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.FailedQC">
+              <source>Failed QC</source>
+              <target>Failed QC</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Required">
+              <source>Required</source>
+              <target>Required</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.RequiredIfOutOfCriticalRange">
+              <source>Required If Out Of Critical Range</source>
+              <target>Required If Out Of Critical Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.RequiredIfOutOfNormalRange">
+              <source>Required If Out Of Normal Range</source>
+              <target>Required If Out Of Normal Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.RequiredIfOutOfReportableRange">
+              <source>Required If Out Of Reportable Range</source>
+              <target>Required If Out Of Reportable Range</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.RequiredIfOutOfSystemMeasurementRange">
+              <source>Required If Out Of Measurement Range</source>
+              <target>Required If Out Of Measurement Range</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.AlwaysOk">
+              <source>Always OK</source>
+              <target>Always OK</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Hours">
+              <source>Hours</source>
+              <target>Hours</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.HoursRotate">
+              <source>Hours, Rotate</source>
+              <target>Hours, Rotate</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.LastQcOk">
+              <source>Last QC OK</source>
+              <target>Last QC OK</target>
+           </trans-unit>   
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Shift">
+              <source>Shift</source>
+              <target>Shift</target>
+           </trans-unit>          
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.ShiftRotate">
+              <source>Shift, Rotate</source>
+              <target>Shift, Rotate</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.StripCount">
+              <source>Strip Count</source>
+              <target>Strip Count</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.StripCountRotate">
+              <source>Strip Count, Rotate</source>
+              <target>Strip Count, Rotate</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.TimeOfDay">
+              <source>Time Of Day</source>
+              <target>Time Of Day</target>
+           </trans-unit>   
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.TimeOfDayRotate">
+              <source>Time Of Day, Rotate</source>
+              <target>Time Of Day, Rotate</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Capillary">
+              <source>Capillary</source>
+              <target>Capillary</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Venous">
+              <source>Venous</source>
+              <target>Venous</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Arterial">
+              <source>Arterial</source>
+              <target>Arterial</target>
+           </trans-unit>   
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.HeelStick">
+              <source>Heel Stick</source>
+              <target>Heel Stick</target>
+           </trans-unit>   
+           
+            <trans-unit id="DeviceConfigurations.Pulse.Lists.Aztec">
+              <source>Aztec</source>
+              <target>Aztec</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Codabar">
+              <source>Codabar</source>
+              <target>Codabar</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Code128">
+              <source>Code 128</source>
+              <target>Code 128</target>
+           </trans-unit>   
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Code39">
+              <source>Code 39</source>
+              <target>Code 39</target>
+           </trans-unit>             
+            <trans-unit id="DeviceConfigurations.Pulse.Lists.Code93">
+              <source>Code 93</source>
+              <target>Code 93</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.DataMatrix">
+              <source>Data Matrix</source>
+              <target>Data Matrix</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Ean13">
+              <source>EAN-13</source>
+              <target>EAN-13</target>
+           </trans-unit>   
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.DatabarLimited">
+              <source>Databar Limited</source>
+              <target>Databar Limited</target>
+           </trans-unit>   
+            <trans-unit id="DeviceConfigurations.Pulse.Lists.Interleaved2Of5">
+              <source>Interleaved 2 Of 5</source>
+              <target>Interleaved 2 Of 5</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Pdf417">
+              <source>PDF417</source>
+              <target>PDF417</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Qr">
+              <source>QR</source>
+              <target>QR</target>
+           </trans-unit>
+           
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.TlsDisabled">
+              <source>TLS Disabled</source>
+              <target>TLS Disabled</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.FipsNonApprovedMode">
+              <source>FIPS Non-Approved Mode</source>
+              <target>FIPS Non-Approved Mode</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.FipsApprovedMode">
+              <source>FIPS Approved Mode</source>
+              <target>FIPS Approved Mode</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Deactivated">
+              <source>Deactivated</source>
+              <target>Deactivated</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Warning">
+              <source>Warning</source>
+              <target>Warning</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.Lists.Strict">
+              <source>Strict</source>
+              <target>Strict</target>
+           </trans-unit>
+           
+           <!-- Test Names -->
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.vua_ms_patient">
+              <source>Visual UA (Multistix) Patient</source>
+              <target>Visual UA (Multistix) Patient</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.vua_ms_control">
+              <source>Visual UA (Multistix) Control</source>
+              <target>Visual UA (Multistix) Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.vua_cs_patient">
+              <source>Visual UA (Chemstrip) Patient</source>
+              <target>Visual UA (Chemstrip) Patient</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.vua_cs_control">
+              <source>Visual UA (Chemstrip) Control</source>
+              <target>Visual UA (Chemstrip) Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.rapid_strep_patient">
+              <source>Rapid Strep Patient</source>
+              <target>Rapid Strep Patient</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.rapid_strep_control">
+              <source>Rapid Strep Control</source>
+              <target>Rapid Strep Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.rapid_dat_patient">
+              <source>Rapid DAT Patient</source>
+              <target>Rapid DAT Patient</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.rapid_dat_control">
+              <source>Rapid DAT Control</source>
+              <target>Rapid DAT Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.pregnancy_patient">
+              <source>Pregnancy Patient</source>
+              <target>Pregnancy Patient</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.pregnancy_control">
+              <source>Pregnancy Control</source>
+              <target>Pregnancy Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.ketones_patient">
+              <source>Ketones Patient</source>
+              <target>Ketones Patient</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.gastric_occult_patient">
+              <source>Gastric Occult Patient</source>
+              <target>Gastric Occult Patient</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestName.fecal_occult_patient">
+              <source>Fecal Occult Patient</source>
+              <target>Fecal Occult Patient</target>
+           </trans-unit>
+           
+           <!-- Visual UA -->
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_ms_strip_lot">
+              <source>Strip Lot</source>
+              <target>Strip Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_cs_strip_lot">
+              <source>Strip Lot</source>
+              <target>Strip Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_ms_control_lot">
+              <source>Control Lot</source>
+              <target>Control Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_cs_control_lot">
+              <source>Control Lot</source>
+              <target>Control Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_color">
+              <source>Color</source>
+              <target>Color</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_clarity">
+              <source>Clarity</source>
+              <target>Clarity</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_glucose_ms">
+              <source>Glucose</source>
+              <target>Glucose</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_glucose_cs">
+              <source>Glucose</source>
+              <target>Glucose</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_bilirubin_ms">
+              <source>Bilirubin</source>
+              <target>Bilirubin</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_bilirubin_cs">
+              <source>Bilirubin</source>
+              <target>Bilirubin</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_ketones_ms">
+              <source>Ketones</source>
+              <target>Ketones</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_ketones_cs">
+              <source>Ketones</source>
+              <target>Ketones</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_sg">
+              <source>SG</source>
+              <target>SG</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_blood_ms">
+              <source>Blood</source>
+              <target>Blood</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_blood_cs">
+              <source>Blood</source>
+              <target>Blood</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_ph_ms">
+              <source>pH</source>
+              <target>pH</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_ph_cs">
+              <source>pH</source>
+              <target>pH</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_protein_ms">
+              <source>Protein</source>
+              <target>Protein</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_protein_cs">
+              <source>Protein</source>
+              <target>Protein</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_urobilinogen_ms">
+              <source>Urobilinogen</source>
+              <target>Urobilinogen</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_urobilinogen_cs">
+              <source>Urobilinogen</source>
+              <target>Urobilinogen</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_nitrite">
+              <source>Nitrite</source>
+              <target>Nitrite</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_leukocytes_ms">
+              <source>Leukocytes</source>
+              <target>Leukocytes</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.vua_leukocytes_cs">
+              <source>Leukocytes</source>
+              <target>Leukocytes</target>
+           </trans-unit>
+
+           <!-- Rapid Strep  -->
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_strep_kit_lot">
+              <source>Kit Lot</source>
+              <target>Kit Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_strep_control_lot">
+              <source>QC Lot</source>
+              <target>QC Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_strep_control_bar_patient">
+              <source>Control Line</source>
+              <target>Control Line</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_strep_result_patient">
+              <source>Result</source>
+              <target>Result</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_strep_control_bar_control">
+              <source>Control Line</source>
+              <target>Control Line</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_strep_result_control">
+              <source>QC Result</source>
+              <target>QC Result</target>
+           </trans-unit>
+
+           <!-- Rapid DAT -->
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_kit_lot">
+              <source>Kit Lot</source>
+              <target>Kit Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_control_lot">
+              <source>QC Lot</source>
+              <target>QC Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_control_bar_patient">
+              <source>Control Line</source>
+              <target>Control Line</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_control_bar_control">
+              <source>Control Line</source>
+              <target>Control Line</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_result_control">
+              <source>QC Result</source>
+              <target>QC Result</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_cocaine">
+              <source>Cocaine</source>
+              <target>Cocaine</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_barbiturate">
+              <source>Barbiturate</source>
+              <target>Barbiturate</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_pcp">
+              <source>PCP</source>
+              <target>PCP</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_met">
+              <source>MET</source>
+              <target>MET</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_tca">
+              <source>TCA</source>
+              <target>TCA</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_morphine">
+              <source>Morphine</source>
+              <target>Morphine</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_amphetamine">
+              <source>Amphetamine</source>
+              <target>Amphetamine</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_thc">
+              <source>THC</source>
+              <target>THC</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_bnz">
+              <source>BNZ</source>
+              <target>BNZ</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_mdma">
+              <source>MDMA</source>
+              <target>MDMA</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_methadone">
+              <source>Methadone</source>
+              <target>Methadone</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.rapid_dat_pxp">
+              <source>PXP</source>
+              <target>PXP</target>
+           </trans-unit>
+         
+           <!-- Pregnancy -->
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.pregnancy_kit_lot">
+              <source>Kit Lot</source>
+              <target>Kit Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.pregnancy_control_lot">
+              <source>QC Lot</source>
+              <target>QC Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.pregnancy_control_bar_patient">
+              <source>Control Line</source>
+              <target>Control Line</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.pregnancy_control_bar_control">
+              <source>Control Line</source>
+              <target>Control Line</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.pregnancy_result_control">
+              <source>QC Result</source>
+              <target>QC Result</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.pregnancy_result_patient">
+              <source>Result</source>
+              <target>Result</target>
+           </trans-unit>
+           
+           <!-- Ketones -->
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.ketones_strip_lot">
+              <source>Strip Lot</source>
+              <target>Strip Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.ketones_result_patient">
+              <source>Result</source>
+              <target>Result</target>
+           </trans-unit>
+           
+           <!-- Gastric Occult -->
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.gastric_occult_card_lot">
+              <source>Card Lot</source>
+              <target>Card Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.gastric_occult_developer_lot">
+              <source>Developer Lot</source>
+              <target>Developer Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.gastric_occult_positive_control">
+              <source>Positive Control</source>
+              <target>Positive Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.gastric_occult_negative_control">
+              <source>Negative Control</source>
+              <target>Negative Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.gastric_occult_result_patient">
+              <source>Result</source>
+              <target>Result</target>
+           </trans-unit>
+
+           <!-- Fecal Occult -->
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.fecal_occult_card_lot">
+              <source>Card Lot</source>
+              <target>Card Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.fecal_occult_developer_lot">
+              <source>Developer Lot</source>
+              <target>Developer Lot</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.fecal_occult_positive_control">
+              <source>Positive Control</source>
+              <target>Positive Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.fecal_occult_negative_control">
+              <source>Negative Control</source>
+              <target>Negative Control</target>
+           </trans-unit>
+           <trans-unit id="DeviceConfigurations.Pulse.TestStep.fecal_occult_result_patient">
+              <source>Result</source>
+              <target>Result</target>
+           </trans-unit>
+           
+        </body>
+    </file>
+</xliff>

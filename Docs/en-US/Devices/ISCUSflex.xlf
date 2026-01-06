@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.7911">
+                <source>Elevated</source>
+                <target>Elevated</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7912">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.7901">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7921">
+                <source>Calibrator</source>
+                <target>Calibrator</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7931">
+                <source>Reagent</source>
+                <target>Reagent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7932">
+                <source>Reagent</source>
+                <target>Reagent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7933">
+                <source>Reagent</source>
+                <target>Reagent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7934">
+                <source>Reagent</source>
+                <target>Reagent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7935">
+                <source>Reagent</source>
+                <target>Reagent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7936">
+                <source>Reagent</source>
+                <target>Reagent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7991">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.7901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7911">
+                <source>Control Elevated</source>
+                <target>Control Elevated</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7912">
+                <source>Control Low</source>
+                <target>Control Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7951">
+                <source>Calibration</source>
+                <target>Calibration</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7961">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.7901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7902">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7903">
+                <source>Calibration</source>
+                <target>Calibration</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7904">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.7901">
+                <source>Microdialysate</source>
+                <target>Microdialysate</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.7901">
+                <source>Microdialysis</source>
+                <target>Microdialysis</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7902">
+                <source>Glucose</source>
+                <target>Glucose</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7903">
+                <source>Lactate</source>
+                <target>Lactate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7904">
+                <source>Pyruvate</source>
+                <target>Pyruvate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7905">
+                <source>Glycerol</source>
+                <target>Glycerol</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7906">
+                <source>Urea</source>
+                <target>Urea</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7907">
+                <source>Glutamate</source>
+                <target>Glutamate</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.79001">
+                <source>Glucose</source>
+                <target>Glucose</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79002">
+                <source>Lactate</source>
+                <target>Lactate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79003">
+                <source>Glycerol</source>
+                <target>Glycerol</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79004">
+                <source>Pyruvate</source>
+                <target>Pyruvate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79005">
+                <source>Urea</source>
+                <target>Urea</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79006">
+                <source>Glutamate</source>
+                <target>Glutamate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79007">
+                <source>L/P Ratio</source>
+                <target>L/P Ratio</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79008">
+                <source>L/G Ratio</source>
+                <target>L/G Ratio</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79009">
+                <source>Vial ID</source>
+                <target>Vial ID</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79014">
+                <source>Calibrator Name</source>
+                <target>Calibrator Name</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79015">
+                <source>Glucose CAL</source>
+                <target>Glucose CAL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79016">
+                <source>Lactate CAL</source>
+                <target>Lactate CAL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79017">
+                <source>Glycerol CAL</source>
+                <target>Glycerol CAL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79018">
+                <source>Pyruvate CAL</source>
+                <target>Pyruvate CAL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79019">
+                <source>Urea CAL</source>
+                <target>Urea CAL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.79020">
+                <source>Glutamate CAL</source>
+                <target>Glutamate CAL</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

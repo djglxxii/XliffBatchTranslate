@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.52801">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.52801">
+                <source>Membrane Device</source>
+                <target>Membrane Device</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.52802">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.52801">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.52802">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.52801">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.52802">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.52801">
+                <source>Stool Sample</source>
+                <target>Stool Sample</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.528001">
+                <source>C. difficile Toxin</source>
+                <target>C. difficile Toxin</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.528002">
+                <source>Control Line</source>
+                <target>Control Line</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.528003">
+                <source>Diluent</source>
+                <target>Diluent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.528004">
+                <source>Conjugate</source>
+                <target>Conjugate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.528005">
+                <source>Wash Buffer</source>
+                <target>Wash Buffer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.528006">
+                <source>Substrate</source>
+                <target>Substrate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.528007">
+                <source>Kit Lot</source>
+                <target>Kit Lot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.528008">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

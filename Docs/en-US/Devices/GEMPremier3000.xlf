@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.1">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.2">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.8">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.13">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.14">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.15">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.16">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.17">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.18">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.19">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.20">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.21">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1820">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1821">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1823">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1824">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1825">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1801">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1802">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1803">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1804">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1805">
+                <source>Yellow</source>
+                <target>Yellow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1806">
+                <source>Orange</source>
+                <target>Orange</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1807">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1808">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1826">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1827">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1830">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1831">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1832">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1833">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1834">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1835">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1836">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1837">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1838">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1839">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1840">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1841">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.8">
+                <source>ContrIL 7</source>
+                <target>ContrIL 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9">
+                <source>ContrIL 9</source>
+                <target>ContrIL 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10">
+                <source>critCheck</source>
+                <target>critCheck</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.11">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.13">
+                <source>PVP</source>
+                <target>PVP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.14">
+                <source>critPVP</source>
+                <target>critPVP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.15">
+                <source>Other</source>
+                <target>Other</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1801">
+                <source>Multi-4</source>
+                <target>Multi-4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1802">
+                <source>GEM OPL</source>
+                <target>GEM OPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1804">
+                <source>PCL EQC</source>
+                <target>PCL EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1806">
+                <source>CVP 1</source>
+                <target>CVP 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1807">
+                <source>CVP 2</source>
+                <target>CVP 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1808">
+                <source>CVP 3</source>
+                <target>CVP 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1809">
+                <source>CVP 4</source>
+                <target>CVP 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1815">
+                <source>GEM Check Coag</source>
+                <target>GEM Check Coag</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1820">
+                <source>PCL QC</source>
+                <target>PCL QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1821">
+                <source>PCL QC</source>
+                <target>PCL QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1822">
+                <source>PCL QC</source>
+                <target>PCL QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1823">
+                <source>PCL QC</source>
+                <target>PCL QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1824">
+                <source>PCL QC</source>
+                <target>PCL QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1825">
+                <source>PCL QC</source>
+                <target>PCL QC</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.1801">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1802">
+                <source>QC ContrIL 7 - Low</source>
+                <target>QC ContrIL 7 - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1803">
+                <source>QC ContrIL 7 - Normal</source>
+                <target>QC ContrIL 7 - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1804">
+                <source>QC ContrIL 7 - High</source>
+                <target>QC ContrIL 7 - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1805">
+                <source>QC ContrIL 9 - Low</source>
+                <target>QC ContrIL 9 - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1806">
+                <source>QC ContrIL 9 - Normal</source>
+                <target>QC ContrIL 9 - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1807">
+                <source>QC ContrIL 9 - High</source>
+                <target>QC ContrIL 9 - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1808">
+                <source>QC critCheck - Low</source>
+                <target>QC critCheck - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1809">
+                <source>QC critCheck - Normal</source>
+                <target>QC critCheck - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1810">
+                <source>QC PVP - Level 1</source>
+                <target>QC PVP - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1811">
+                <source>QC PVP - Level 2</source>
+                <target>QC PVP - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1812">
+                <source>QC PVP - Level 3</source>
+                <target>QC PVP - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1813">
+                <source>QC PVP - Level 4</source>
+                <target>QC PVP - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1814">
+                <source>QC PVP - Level 5</source>
+                <target>QC PVP - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1815">
+                <source>QC critPVP - Level 1</source>
+                <target>QC critPVP - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1816">
+                <source>QC critPVP - Level 2</source>
+                <target>QC critPVP - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1817">
+                <source>QC critPVP - Level 3</source>
+                <target>QC critPVP - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1818">
+                <source>QC critPVP - Level 4</source>
+                <target>QC critPVP - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1819">
+                <source>QC Other - Level 1</source>
+                <target>QC Other - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1820">
+                <source>QC Other - Level 2</source>
+                <target>QC Other - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1821">
+                <source>QC Other - Level 3</source>
+                <target>QC Other - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1822">
+                <source>QC Other - Level 4</source>
+                <target>QC Other - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1823">
+                <source>QC Other - Level 5</source>
+                <target>QC Other - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1824">
+                <source>QC Multi-4 - Level 1</source>
+                <target>QC Multi-4 - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1825">
+                <source>QC Multi-4 - Level 2</source>
+                <target>QC Multi-4 - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1826">
+                <source>QC Multi-4 - Level 3</source>
+                <target>QC Multi-4 - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1827">
+                <source>QC Multi-4 - Level 4</source>
+                <target>QC Multi-4 - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1828">
+                <source>QC GEM OPL - Yellow</source>
+                <target>QC GEM OPL - Yellow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1829">
+                <source>QC GEM OPL - Orange</source>
+                <target>QC GEM OPL - Orange</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1830">
+                <source>QC PCL EQC - Normal</source>
+                <target>QC PCL EQC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1831">
+                <source>QC PCL EQC - Abnormal</source>
+                <target>QC PCL EQC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1832">
+                <source>QC GEM Check Coag - Normal</source>
+                <target>QC GEM Check Coag - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1833">
+                <source>QC GEM Check Coag - Abnormal</source>
+                <target>QC GEM Check Coag - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1834">
+                <source>QC PCL QC - Normal</source>
+                <target>QC PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1835">
+                <source>QC PCL QC - Abnormal</source>
+                <target>QC PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1836">
+                <source>QC PCL QC - Normal</source>
+                <target>QC PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1837">
+                <source>QC PCL QC - Abnormal</source>
+                <target>QC PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1838">
+                <source>QC PCL QC - Normal</source>
+                <target>QC PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1839">
+                <source>QC PCL QC - Abnormal</source>
+                <target>QC PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1840">
+                <source>QC PCL QC - Normal</source>
+                <target>QC PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1841">
+                <source>QC PCL QC - Abnormal</source>
+                <target>QC PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1842">
+                <source>QC PCL QC - Normal</source>
+                <target>QC PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1843">
+                <source>QC PCL QC - Abnormal</source>
+                <target>QC PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1844">
+                <source>QC PCL QC - Normal</source>
+                <target>QC PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1845">
+                <source>QC PCL QC - Abnormal</source>
+                <target>QC PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1846">
+                <source>QC Unknown</source>
+                <target>QC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1847">
+                <source>Calibration</source>
+                <target>Calibration</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1848">
+                <source>CVP Unknown</source>
+                <target>CVP Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1849">
+                <source>CVP 1</source>
+                <target>CVP 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1850">
+                <source>CVP 2</source>
+                <target>CVP 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1851">
+                <source>CVP 3</source>
+                <target>CVP 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1852">
+                <source>CVP 4</source>
+                <target>CVP 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1853">
+                <source>QC Parallel ContrIL 7 - Low</source>
+                <target>QC Parallel ContrIL 7 - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1854">
+                <source>QC Parallel ContrIL 7 - Normal</source>
+                <target>QC Parallel ContrIL 7 - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1855">
+                <source>QC Parallel ContrIL 7 - High</source>
+                <target>QC Parallel ContrIL 7 - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1856">
+                <source>QC Parallel ContrIL 9 - Low</source>
+                <target>QC Parallel ContrIL 9 - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1857">
+                <source>QC Parallel ContrIL 9 - Normal</source>
+                <target>QC Parallel ContrIL 9 - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1858">
+                <source>QC Parallel ContrIL 9 - High</source>
+                <target>QC Parallel ContrIL 9 - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1859">
+                <source>QC Parallel critCheck - Low</source>
+                <target>QC Parallel critCheck - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1860">
+                <source>QC Parallel critCheck - Normal</source>
+                <target>QC Parallel critCheck - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1861">
+                <source>QC Parallel PVP - Level 1</source>
+                <target>QC Parallel PVP - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1862">
+                <source>QC Parallel PVP - Level 2</source>
+                <target>QC Parallel PVP - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1863">
+                <source>QC Parallel PVP - Level 3</source>
+                <target>QC Parallel PVP - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1864">
+                <source>QC Parallel PVP - Level 4</source>
+                <target>QC Parallel PVP - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1865">
+                <source>QC Parallel PVP - Level 5</source>
+                <target>QC Parallel PVP - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1866">
+                <source>QC Parallel critPVP - Level 1</source>
+                <target>QC Parallel critPVP - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1867">
+                <source>QC Parallel critPVP - Level 2</source>
+                <target>QC Parallel critPVP - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1868">
+                <source>QC Parallel critPVP - Level 3</source>
+                <target>QC Parallel critPVP - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1869">
+                <source>QC Parallel critPVP - Level 4</source>
+                <target>QC Parallel critPVP - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1870">
+                <source>QC Parallel Other - Level 1</source>
+                <target>QC Parallel Other - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1871">
+                <source>QC Parallel Other - Level 2</source>
+                <target>QC Parallel Other - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1872">
+                <source>QC Parallel Other - Level 3</source>
+                <target>QC Parallel Other - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1873">
+                <source>QC Parallel Other - Level 4</source>
+                <target>QC Parallel Other - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1874">
+                <source>QC Parallel Other - Level 5</source>
+                <target>QC Parallel Other - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1875">
+                <source>QC Parallel Multi-4 - Level 1</source>
+                <target>QC Parallel Multi-4 - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1876">
+                <source>QC Parallel Multi-4 - Level 2</source>
+                <target>QC Parallel Multi-4 - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1877">
+                <source>QC Parallel Multi-4 - Level 3</source>
+                <target>QC Parallel Multi-4 - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1878">
+                <source>QC Parallel Multi-4 - Level 4</source>
+                <target>QC Parallel Multi-4 - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1879">
+                <source>QC Parallel GEM OPL - Yellow</source>
+                <target>QC Parallel GEM OPL - Yellow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1880">
+                <source>QC Parallel GEM OPL - Orange</source>
+                <target>QC Parallel GEM OPL - Orange</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1881">
+                <source>QC Parallel PCL EQC - Normal</source>
+                <target>QC Parallel PCL EQC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1882">
+                <source>QC Parallel PCL EQC - Abnormal</source>
+                <target>QC Parallel PCL EQC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1883">
+                <source>QC GEM Check Coag - Normal</source>
+                <target>QC GEM Check Coag - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1884">
+                <source>QC GEM Check Coag - Abnormal</source>
+                <target>QC GEM Check Coag - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1885">
+                <source>QC Parallel PCL QC - Normal</source>
+                <target>QC Parallel PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1886">
+                <source>QC Parallel PCL QC - Abnormal</source>
+                <target>QC Parallel PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1887">
+                <source>QC Parallel PCL QC - Normal</source>
+                <target>QC Parallel PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1888">
+                <source>QC Parallel PCL QC - Abnormal</source>
+                <target>QC Parallel PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1889">
+                <source>QC Parallel PCL QC - Normal</source>
+                <target>QC Parallel PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1890">
+                <source>QC Parallel PCL QC - Abnormal</source>
+                <target>QC Parallel PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1891">
+                <source>QC Parallel PCL QC - Normal</source>
+                <target>QC Parallel PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1892">
+                <source>QC Parallel PCL QC - Abnormal</source>
+                <target>QC Parallel PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1893">
+                <source>QC Parallel PCL QC - Normal</source>
+                <target>QC Parallel PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1894">
+                <source>QC Parallel PCL QC - Abnormal</source>
+                <target>QC Parallel PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1895">
+                <source>QC Parallel PCL QC - Normal</source>
+                <target>QC Parallel PCL QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1896">
+                <source>QC Parallel PCL QC - Abnormal</source>
+                <target>QC Parallel PCL QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1897">
+                <source>QC Parallel Unknown</source>
+                <target>QC Parallel Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18001">
+                <source>QC ContrIL 7 - Unknown</source>
+                <target>QC ContrIL 7 - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18002">
+                <source>QC ContrIL 9 - Unknown</source>
+                <target>QC ContrIL 9 - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18003">
+                <source>QC critCheck - Unknown</source>
+                <target>QC critCheck - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18004">
+                <source>QC PVP - Unknown</source>
+                <target>QC PVP - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18005">
+                <source>QC critPVP - Unknown</source>
+                <target>QC critPVP - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18006">
+                <source>QC Other - Unknown</source>
+                <target>QC Other - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18007">
+                <source>QC Multi-4 - Unknown</source>
+                <target>QC Multi-4 - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18008">
+                <source>QC GEM OPL - Unknown</source>
+                <target>QC GEM OPL - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18009">
+                <source>QC PCL EQC - Unknown</source>
+                <target>QC PCL EQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18010">
+                <source>QC GEM Check Coag - Unknown</source>
+                <target>QC GEM Check Coag - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18011">
+                <source>QC PCL QC - Unknown</source>
+                <target>QC PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18012">
+                <source>QC PCL QC - Unknown</source>
+                <target>QC PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18013">
+                <source>QC PCL QC - Unknown</source>
+                <target>QC PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18014">
+                <source>QC PCL QC - Unknown</source>
+                <target>QC PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18015">
+                <source>QC PCL QC - Unknown</source>
+                <target>QC PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18016">
+                <source>QC PCL QC - Unknown</source>
+                <target>QC PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18020">
+                <source>QC Parallel ContrIL 7 - Unknown</source>
+                <target>QC Parallel ContrIL 7 - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18021">
+                <source>QC Parallel ContrIL 9 - Unknown</source>
+                <target>QC Parallel ContrIL 9 - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18022">
+                <source>QC Parallel critCheck - Unknown</source>
+                <target>QC Parallel critCheck - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18023">
+                <source>QC Parallel PVP - Unknown</source>
+                <target>QC Parallel PVP - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18024">
+                <source>QC Parallel critPVP - Unknown</source>
+                <target>QC Parallel critPVP - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18025">
+                <source>QC Parallel Other - Unknown</source>
+                <target>QC Parallel Other - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18026">
+                <source>QC Parallel Multi-4 - Unknown</source>
+                <target>QC Parallel Multi-4 - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18027">
+                <source>QC Parallel GEM OPL - Unknown</source>
+                <target>QC Parallel GEM OPL - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18028">
+                <source>QC Parallel PCL EQC - Unknown</source>
+                <target>QC Parallel PCL EQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18029">
+                <source>QC GEM Check Coag - Unknown</source>
+                <target>QC GEM Check Coag - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18030">
+                <source>QC Parallel PCL QC - Unknown</source>
+                <target>QC Parallel PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18031">
+                <source>QC Parallel PCL QC - Unknown</source>
+                <target>QC Parallel PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18032">
+                <source>QC Parallel PCL QC - Unknown</source>
+                <target>QC Parallel PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18033">
+                <source>QC Parallel PCL QC - Unknown</source>
+                <target>QC Parallel PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18034">
+                <source>QC Parallel PCL QC - Unknown</source>
+                <target>QC Parallel PCL QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.18035">
+                <source>QC Parallel PCL QC - Unknown</source>
+                <target>QC Parallel PCL QC - Unknown</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.15">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.16">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.17">
+                <source>Calibration</source>
+                <target>Calibration</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.19">
+                <source>QC Parallel</source>
+                <target>QC Parallel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.1801">
+                <source>CVP</source>
+                <target>CVP</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.1">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.2">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.3">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.4">
+                <source>Other</source>
+                <target>Other</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.1801">
+                <source>Arterial Bypass</source>
+                <target>Arterial Bypass</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.1802">
+                <source>Venous Bypass</source>
+                <target>Venous Bypass</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.1803">
+                <source>Capillary Bypass</source>
+                <target>Capillary Bypass</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.1804">
+                <source>Other Bypass</source>
+                <target>Other Bypass</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.30">
+                <source>LOCal</source>
+                <target>LOCal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.31">
+                <source>1PtCal</source>
+                <target>1PtCal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.32">
+                <source>2PtCal</source>
+                <target>2PtCal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1830">
+                <source>ACT-LR</source>
+                <target>ACT-LR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1831">
+                <source>ACT</source>
+                <target>ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1832">
+                <source>PT</source>
+                <target>PT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1833">
+                <source>Citrate PT</source>
+                <target>Citrate PT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1834">
+                <source>APTT</source>
+                <target>APTT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1835">
+                <source>Citrate APTT</source>
+                <target>Citrate APTT</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.185">
+                <source>pH</source>
+                <target>pH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.186">
+                <source>pCO2</source>
+                <target>pCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.187">
+                <source>pO2</source>
+                <target>pO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.188">
+                <source>Na+</source>
+                <target>Na+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.189">
+                <source>K+</source>
+                <target>K+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.190">
+                <source>Ca++</source>
+                <target>Ca++</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.191">
+                <source>Glu</source>
+                <target>Glu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.192">
+                <source>Lac</source>
+                <target>Lac</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.193">
+                <source>Hct</source>
+                <target>Hct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.194">
+                <source>THb</source>
+                <target>THb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.195">
+                <source>O2Hb</source>
+                <target>O2Hb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.196">
+                <source>COHb</source>
+                <target>COHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.197">
+                <source>MetHb</source>
+                <target>MetHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.198">
+                <source>HHb</source>
+                <target>HHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.199">
+                <source>SO2</source>
+                <target>SO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.200">
+                <source>HCO3-</source>
+                <target>HCO3-</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.201">
+                <source>HCO3std</source>
+                <target>HCO3std</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.202">
+                <source>TCO2</source>
+                <target>TCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.203">
+                <source>BE(B)</source>
+                <target>BE(B)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.204">
+                <source>BEecf</source>
+                <target>BEecf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.205">
+                <source>pH(T)</source>
+                <target>pH(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.206">
+                <source>pCO2(T)</source>
+                <target>pCO2(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.207">
+                <source>pO2(T)</source>
+                <target>pO2(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.208">
+                <source>A-aDO2</source>
+                <target>A-aDO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.209">
+                <source>SO2c</source>
+                <target>SO2c</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.210">
+                <source>Ca++(7.4)</source>
+                <target>Ca++(7.4)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.211">
+                <source>THbc</source>
+                <target>THbc</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.212">
+                <source>O2ct</source>
+                <target>O2ct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.213">
+                <source>O2cap</source>
+                <target>O2cap</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.214">
+                <source>pAO2</source>
+                <target>pAO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.215">
+                <source>paO2/pAO2</source>
+                <target>paO2/pAO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.216">
+                <source>RI</source>
+                <target>RI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.217">
+                <source>CaO2</source>
+                <target>CaO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.218">
+                <source>CvO2</source>
+                <target>CvO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.219">
+                <source>CcO2</source>
+                <target>CcO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.220">
+                <source>a-vDO2</source>
+                <target>a-vDO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.221">
+                <source>Qsp/Qt</source>
+                <target>Qsp/Qt</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.222">
+                <source>P50</source>
+                <target>P50</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.223">
+                <source>Pat Temp</source>
+                <target>Pat Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.224">
+                <source>FetHb</source>
+                <target>FetHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.225">
+                <source>O2</source>
+                <target>O2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.226">
+                <source>FiO2</source>
+                <target>FiO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.227">
+                <source>APTT-P</source>
+                <target>APTT-P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.228">
+                <source>PT-P</source>
+                <target>PT-P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.229">
+                <source>PT INR</source>
+                <target>PT INR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.230">
+                <source>ACT</source>
+                <target>ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.231">
+                <source>ACT-LR</source>
+                <target>ACT-LR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.232">
+                <source>VT</source>
+                <target>VT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.233">
+                <source>Mode</source>
+                <target>Mode</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.234">
+                <source>Mech Rate</source>
+                <target>Mech Rate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.235">
+                <source>Spon Rate</source>
+                <target>Spon Rate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.236">
+                <source>Peak Press</source>
+                <target>Peak Press</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.237">
+                <source>MAP</source>
+                <target>MAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.238">
+                <source>Itime(sec)</source>
+                <target>Itime(sec)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.239">
+                <source>Itime(%)</source>
+                <target>Itime(%)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.240">
+                <source>PEEP</source>
+                <target>PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.241">
+                <source>CPAP</source>
+                <target>CPAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.242">
+                <source>BIPAP(I)</source>
+                <target>BIPAP(I)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.243">
+                <source>BIPAP(E)</source>
+                <target>BIPAP(E)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.244">
+                <source>Ca++ Slope</source>
+                <target>Ca++ Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.245">
+                <source>Ca++ Drift A</source>
+                <target>Ca++ Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.246">
+                <source>Ca++ Measured A</source>
+                <target>Ca++ Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.247">
+                <source>Ca++ Drift B</source>
+                <target>Ca++ Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.248">
+                <source>Ca++ Measured B</source>
+                <target>Ca++ Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.249">
+                <source>Glu Slope</source>
+                <target>Glu Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.250">
+                <source>Glu Drift A</source>
+                <target>Glu Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.251">
+                <source>Glu Measured A</source>
+                <target>Glu Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.252">
+                <source>Glu Drift B</source>
+                <target>Glu Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.253">
+                <source>Glu Measured B</source>
+                <target>Glu Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.254">
+                <source>Hct Slope</source>
+                <target>Hct Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.255">
+                <source>Hct Drift A</source>
+                <target>Hct Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.256">
+                <source>Hct Measured A</source>
+                <target>Hct Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.257">
+                <source>Hct Drift B</source>
+                <target>Hct Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.258">
+                <source>Hct Measured B</source>
+                <target>Hct Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.259">
+                <source>K+ Slope</source>
+                <target>K+ Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.260">
+                <source>K+ Drift A</source>
+                <target>K+ Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.261">
+                <source>K+ Measured A</source>
+                <target>K+ Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.262">
+                <source>K+ Drift B</source>
+                <target>K+ Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.263">
+                <source>K+ Measured B</source>
+                <target>K+ Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.264">
+                <source>Lac Slope</source>
+                <target>Lac Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.265">
+                <source>Lac Drift A</source>
+                <target>Lac Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.266">
+                <source>Lac Measured A</source>
+                <target>Lac Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.267">
+                <source>Lac Drift B</source>
+                <target>Lac Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.268">
+                <source>Lac Measured B</source>
+                <target>Lac Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.269">
+                <source>Na+ Slope</source>
+                <target>Na+ Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.270">
+                <source>Na+ Drift A</source>
+                <target>Na+ Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.271">
+                <source>Na+ Measured A</source>
+                <target>Na+ Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.272">
+                <source>Na+ Drift B</source>
+                <target>Na+ Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.273">
+                <source>Na+ Measured B</source>
+                <target>Na+ Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.274">
+                <source>pCO2 Slope</source>
+                <target>pCO2 Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.275">
+                <source>pCO2 Drift A</source>
+                <target>pCO2 Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.276">
+                <source>pCO2 Measured A</source>
+                <target>pCO2 Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.277">
+                <source>pCO2 Drift B</source>
+                <target>pCO2 Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.278">
+                <source>pCO2 Measured B</source>
+                <target>pCO2 Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.279">
+                <source>pH Slope</source>
+                <target>pH Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.280">
+                <source>pH Drift A</source>
+                <target>pH Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.281">
+                <source>pH Measured A</source>
+                <target>pH Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.282">
+                <source>pH Drift B</source>
+                <target>pH Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.283">
+                <source>pH Measured B</source>
+                <target>pH Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.284">
+                <source>pO2 Slope</source>
+                <target>pO2 Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.285">
+                <source>pO2 DriftA</source>
+                <target>pO2 DriftA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.286">
+                <source>pO2 Measured A</source>
+                <target>pO2 Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.287">
+                <source>pO2 Drift B</source>
+                <target>pO2 Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.288">
+                <source>pO2 Measured B</source>
+                <target>pO2 Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.291">
+                <source>pH Drift C</source>
+                <target>pH Drift C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.292">
+                <source>pH Measured C</source>
+                <target>pH Measured C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.293">
+                <source>pCO2 Drift C</source>
+                <target>pCO2 Drift C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.294">
+                <source>pCO2 Measured C</source>
+                <target>pCO2 Measured C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.295">
+                <source>pO2 Drift C</source>
+                <target>pO2 Drift C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.296">
+                <source>pO2 Measured C</source>
+                <target>pO2 Measured C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.297">
+                <source>External Device ID</source>
+                <target>External Device ID</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.18001">
+                <source>Qsp/Qt(est)</source>
+                <target>Qsp/Qt(est)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.18002">
+                <source>P/F Ratio</source>
+                <target>P/F Ratio</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.18100">
+                <source>Container</source>
+                <target>Container</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Settings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.DeviceSettings">
+        <source>Device Settings</source>
+        <target>Device Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Beeper">
+        <source>Beeper</source>
+        <target>Beeper</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.AutoPrint">
+        <source>Auto-Print</source>
+        <target>Auto-Print</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.DateFormat">
+        <source>Date Format</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.TimeMode">
+        <source>Time Mode</source>
+        <target>Time Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.BunDisplay">
+        <source>BUN/Urea Display</source>
+        <target>BUN/Urea Display</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Comments">
+        <source>Comments</source>
+        <target>Comments</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.PatComments">
+        <source>Patient Comments</source>
+        <target>Patient Comments</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.QcComments">
+        <source>QC Comments</source>
+        <target>QC Comments</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.CalculatedValues">
+        <source>Calculated Values</source>
+        <target>Calculated Values</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ThbEntry1">
+        <source>tHb for BEb calculation</source>
+        <target>tHb for BEb calculation</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ThbEntry2">
+        <source>If calculated tHb not available</source>
+        <target>If calculated tHb not available</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Formulas">
+        <source>Formulas</source>
+        <target>Formulas</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Formula1">
+        <source>BE/HCO3 Calculations</source>
+        <target>BE/HCO3 Calculations</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Formula2">
+        <source>pO2 Temperature</source>
+        <target>pO2 Temperature</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.DataEntry">
+        <source>Data Entry</source>
+        <target>Data Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.PatIdMin">
+        <source>Patient ID Min</source>
+        <target>Patient ID Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.PatIdMax">
+        <source>Patient ID Max</source>
+        <target>Patient ID Max</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.PrintUserId">
+        <source>Print User ID</source>
+        <target>Print User ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.TestInfo">
+        <source>Test Information</source>
+        <target>Test Information</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.O2Therapy">
+        <source>Oxygen Therapy</source>
+        <target>Oxygen Therapy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.PatTemp">
+        <source>Patient Temperature</source>
+        <target>Patient Temperature</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.SampleType">
+        <source>Sample Type</source>
+        <target>Sample Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.SampleSite">
+        <source>Sample Site</source>
+        <target>Sample Site</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Off">
+        <source>Off</source>
+        <target>Off</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Immediate">
+        <source>Immediate</source>
+        <target>Immediate</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Delayed">
+        <source>Delayed</source>
+        <target>Delayed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.MDY">
+        <source>MM/DD/YY</source>
+        <target>MM/DD/YY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.YMD">
+        <source>YY/MM/DD</source>
+        <target>YY/MM/DD</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.DMY">
+        <source>DD/MM/YY</source>
+        <target>DD/MM/YY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.T12">
+        <source>AM/PM</source>
+        <target>AM/PM</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.T24">
+        <source>24 Hr.</source>
+        <target>24 Hr.</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Bun">
+        <source>BUN</source>
+        <target>BUN</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Urea">
+        <source>Urea</source>
+        <target>Urea</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ThbDef">
+        <source>Default (15 g/dL)</source>
+        <target>Default (15 g/dL)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ThbMan">
+        <source>Manually Entered</source>
+        <target>Manually Entered</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ThbCal">
+        <source>Calculated (from Hct)</source>
+        <target>Calculated (from Hct)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Formula1Sev">
+        <source>Severinghaus/NCCLS</source>
+        <target>Severinghaus/NCCLS</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Formula1Sig">
+        <source>Siggaard-Andersen</source>
+        <target>Siggaard-Andersen</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Formula2Sev">
+        <source>Severinghaus</source>
+        <target>Severinghaus</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Formula2Kel">
+        <source>Kelman-Nunn</source>
+        <target>Kelman-Nunn</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.DEF">
+        <source>ABG, Na+, K+, iCa, Hct</source>
+        <target>ABG, Na+, K+, iCa, Hct</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.BG_HL">
+        <source>ABG, Hct/Lytes</source>
+        <target>ABG, Hct/Lytes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.BG_L_H">
+        <source>ABG, Lytes, Hct</source>
+        <target>ABG, Lytes, Hct</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.H8">
+        <source>8 Hrs</source>
+        <target>8 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.H12">
+        <source>12 Hrs</source>
+        <target>12 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.H24">
+        <source>24 Hrs</source>
+        <target>24 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.T1">
+        <source>1</source>
+        <target>1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.T2">
+        <source>2</source>
+        <target>2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.T3">
+        <source>3</source>
+        <target>3</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.FIO2Only">
+        <source>FIO2 Only</source>
+        <target>FIO2 Only</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Detailed">
+        <source>Detailed Input</source>
+        <target>Detailed Input</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ABG">
+        <source>ABG</source>
+        <target>ABG</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Ranges">
+        <source>Ranges</source>
+        <target>Ranges</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.CartridgeEnable">
+        <source>Enable {{resourceName}}</source>
+        <target>Enable {{resourceName}}</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ValueEnable">
+        <source>{{resourceName}} Enabled</source>
+        <target>{{resourceName}} Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.UserSelects">
+        <source>User Selects</source>
+        <target>User Selects</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Choices">
+        <source>Choices</source>
+        <target>Choices</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.CorrEnable">
+        <source>Correlation Enabled for {{resourceName}}</source>
+        <target>Correlation Enabled for {{resourceName}}</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Slope">
+        <source>Slope</source>
+        <target>Slope</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Intercept">
+        <source>Intercept</source>
+        <target>Intercept</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.LockEnable">
+        <source>Lockout Enabled for {{resourceName}}</source>
+        <target>Lockout Enabled for {{resourceName}}</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ShiftLength">
+        <source>Shift Length</source>
+        <target>Shift Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Shift1Start">
+        <source>Shift 1 Start</source>
+        <target>Shift 1 Start</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Shift1Test">
+        <source>Shift 1 Tests</source>
+        <target>Shift 1 Tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Shift2Test">
+        <source>Shift 2 Tests</source>
+        <target>Shift 2 Tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Shift3Test">
+        <source>Shift 3 Tests</source>
+        <target>Shift 3 Tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Shift1Lock">
+        <source>Shift 1 Lockout</source>
+        <target>Shift 1 Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Shift2Lock">
+        <source>Shift 2 Lockout</source>
+        <target>Shift 2 Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Shift3Lock">
+        <source>Shift 3 Lockout</source>
+        <target>Shift 3 Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RepRangeWarning">
+        <source>WARNING - If changing reportable range, verify material ranges are within new ranges before downloading.</source>
+        <target>WARNING - If changing reportable range, verify material ranges are within new ranges before downloading.</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RefRangeName">
+        <source>Reference Range Description</source>
+        <target>Reference Range Description</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RefRangeNameError">
+        <source>Text input must be 0 - 12 characters</source>
+        <target>Text input must be 0 - 12 characters</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RestoreRep">
+        <source>Restore Reportable Defaults</source>
+        <target>Restore Reportable Defaults</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RestoreRef">
+        <source>Restore Reference Defaults</source>
+        <target>Restore Reference Defaults</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Analyte">
+        <source>Parameter</source>
+        <target>Parameter</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Units">
+        <source>Units</source>
+        <target>Units</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RepLo">
+        <source>Reportable Low</source>
+        <target>Reportable Low</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RepHi">
+        <source>Reportable High</source>
+        <target>Reportable High</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RefLo">
+        <source>Reference Low</source>
+        <target>Reference Low</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.RefHi">
+        <source>Reference High</source>
+        <target>Reference High</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Products">
+        <source>Products</source>
+        <target>Products</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.ProductSetup">
+        <source>Product Setup</source>
+        <target>Product Setup</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Enabled">
+        <source>Enabled</source>
+        <target>Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Cartridge.CC">
+        <source>Combo Cartridge</source>
+        <target>Combo #[Shared.Cartridge]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Cartridge.BG">
+        <source>Blood Gas Cartridge</source>
+        <target>Blood Gas #[Shared.Cartridge]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Cartridge.H3">
+        <source>H3 Cartridge</source>
+        <target>H3 #[Shared.Cartridge]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Cartridge.H4">
+        <source>H4 Cartridge</source>
+        <target>H4 #[Shared.Cartridge]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Cartridge.GL">
+        <source>GL Cartridge</source>
+        <target>GL #[Shared.Cartridge]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Cartridge.EQC">
+        <source>EQC</source>
+        <target>EQC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.Bypass">
+        <source>Bypass</source>
+        <target>Bypass</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.AnalyteCorrelation">
+        <source>Parameter Correlation</source>
+        <target>Parameter Correlation</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.LqcLockout">
+        <source>LQC Lockout</source>
+        <target>LQC Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.EqcLockout">
+        <source>EQC Lockout</source>
+        <target>EQC Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IrmaTrupoint.AutoEqc">
+        <source>Auto EQC</source>
+        <target>Auto EQC</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

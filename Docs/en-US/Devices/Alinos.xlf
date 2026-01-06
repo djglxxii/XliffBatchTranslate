@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.5411">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5412">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5421">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5422">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5431">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5432">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5441">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5442">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5451">
+                <source>Neg</source>
+                <target>Neg</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5452">
+                <source>Pos</source>
+                <target>Pos</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5461">
+                <source>Neg</source>
+                <target>Neg</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5462">
+                <source>Pos</source>
+                <target>Pos</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.5401">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5402">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5403">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5404">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5405">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5406">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5411">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5412">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5413">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5414">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5415">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5416">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.5401">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5410">
+                <source>QC ACR Unknown</source>
+                <target>QC ACR Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5411">
+                <source>QC ACR Level 1</source>
+                <target>QC ACR Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5412">
+                <source>QC ACR Level 2</source>
+                <target>QC ACR Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5420">
+                <source>QC CRP Unknown</source>
+                <target>QC CRP Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5421">
+                <source>QC CRP Level 1</source>
+                <target>QC CRP Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5422">
+                <source>QC CRP Level 2</source>
+                <target>QC CRP Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5430">
+                <source>QC HbA1c Unknown</source>
+                <target>QC HbA1c Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5431">
+                <source>QC HbA1c Level 1</source>
+                <target>QC HbA1c Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5432">
+                <source>QC HbA1c Level 2</source>
+                <target>QC HbA1c Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5440">
+                <source>QC Lipids</source>
+                <target>QC Lipids</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5450">
+                <source>QC Flu A+B Unknown</source>
+                <target>QC Flu A+B Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5451">
+                <source>QC Flu A+B Negative</source>
+                <target>QC Flu A+B Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5452">
+                <source>QC Flu A+B Positive</source>
+                <target>QC Flu A+B Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5460">
+                <source>QC S. pneumoniae Unknown</source>
+                <target>QC S. pneumoniae Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5461">
+                <source>QC S. pneumoniae Negative</source>
+                <target>QC S. pneumoniae Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5462">
+                <source>QC S. pneumoniae Positive</source>
+                <target>QC S. pneumoniae Positive</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.5401">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5402">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.5401">
+                <source>UR</source>
+                <target>UR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5402">
+                <source>BLD</source>
+                <target>BLD</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.5401">
+                <source>ACR</source>
+                <target>ACR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5402">
+                <source>CRP</source>
+                <target>CRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5403">
+                <source>HbA1c</source>
+                <target>HbA1c</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5404">
+                <source>Lipid Panel</source>
+                <target>Lipid Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5405">
+                <source>Flu A+B</source>
+                <target>Flu A+B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5406">
+                <source>S. pneumoniae</source>
+                <target>S. pneumoniae</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.54001">
+                <source>Alb</source>
+                <target>Alb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54002">
+                <source>Creat</source>
+                <target>Creat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54003">
+                <source>CRP</source>
+                <target>CRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54004">
+                <source>HbA1c</source>
+                <target>HbA1c</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54005">
+                <source>Chol</source>
+                <target>Chol</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54006">
+                <source>Trig</source>
+                <target>Trig</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54007">
+                <source>HDL</source>
+                <target>HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54011">
+                <source>Flu A</source>
+                <target>Flu A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54012">
+                <source>Flu B</source>
+                <target>Flu B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54021">
+                <source>S. pneumoniae</source>
+                <target>S. pneumoniae</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54101">
+                <source>ACR</source>
+                <target>ACR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54102">
+                <source>eAG</source>
+                <target>eAG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54103">
+                <source>LDL</source>
+                <target>LDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54104">
+                <source>non-HDL</source>
+                <target>non-HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.54105">
+                <source>Chol/HDL</source>
+                <target>Chol/HDL</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

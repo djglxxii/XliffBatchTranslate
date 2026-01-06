@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.3201">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3202">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.3201">
+                <source>Card</source>
+                <target>Card</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3202">
+                <source>Developer</source>
+                <target>Developer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3203">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.3201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3202">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3203">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.3201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.3202">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.32001">
+                <source>Gastric Occult</source>
+                <target>Gastric Occult</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.32002">
+                <source>Positive Control</source>
+                <target>Positive Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.32003">
+                <source>Negative Control</source>
+                <target>Negative Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.32004">
+                <source>pH</source>
+                <target>pH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.32005">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.32006">
+                <source>Developer QC</source>
+                <target>Developer QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.32007">
+                <source>Slide QC</source>
+                <target>Slide QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.32008">
+                <source>Kit Lot</source>
+                <target>Kit Lot</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.4101">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4102">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4103">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4111">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4112">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4113">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4121">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4122">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4123">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4131">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4132">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4133">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4141">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4142">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4143">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4171">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4172">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4173">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.4101">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4102">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4103">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4104">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4105">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4110">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4111">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4112">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4113">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4114">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4120">
+                <source>Temp Card</source>
+                <target>Temp Card</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4140">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.4101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4102">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4103">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4104">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4105">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4110">
+                <source>EQC - Level 1</source>
+                <target>EQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4111">
+                <source>EQC - Level 2</source>
+                <target>EQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4112">
+                <source>EQC - Level 3</source>
+                <target>EQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4113">
+                <source>EQC - Unknown</source>
+                <target>EQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4120">
+                <source>Temp Test</source>
+                <target>Temp Test</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4121">
+                <source>Temp Test</source>
+                <target>Temp Test</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4132">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4133">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4134">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4135">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4142">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4143">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4144">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4145">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4152">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4153">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4154">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4155">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4162">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4163">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4164">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4165">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.4101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.4102">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.4103">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.4104">
+                <source>Temp</source>
+                <target>Temp</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.4101">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.4102">
+                <source>Cord</source>
+                <target>Cord</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.4103">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.4104">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.4105">
+                <source>Mixed Venous</source>
+                <target>Mixed Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.4106">
+                <source>Neonate</source>
+                <target>Neonate</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.4101">
+                <source>CC</source>
+                <target>CC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.4102">
+                <source>BG</source>
+                <target>BG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.4103">
+                <source>H4</source>
+                <target>H4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.4104">
+                <source>H3</source>
+                <target>H3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.4105">
+                <source>GL</source>
+                <target>GL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.4107">
+                <source>Temp</source>
+                <target>Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.4120">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.41001">
+                <source>Temp(M)</source>
+                <target>Temp(M)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41002">
+                <source>pH</source>
+                <target>pH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41003">
+                <source>pCO2</source>
+                <target>pCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41004">
+                <source>pO2</source>
+                <target>pO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41005">
+                <source>iCa</source>
+                <target>iCa</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41006">
+                <source>Na+</source>
+                <target>Na+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41007">
+                <source>K+</source>
+                <target>K+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41008">
+                <source>Hct</source>
+                <target>Hct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41009">
+                <source>Cl-</source>
+                <target>Cl-</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41010">
+                <source>Urea</source>
+                <target>Urea</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41011">
+                <source>BUN</source>
+                <target>BUN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41014">
+                <source>Glu</source>
+                <target>Glu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41015">
+                <source>BP</source>
+                <target>BP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41020">
+                <source>EQC Status</source>
+                <target>EQC Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41021">
+                <source>Temp Status</source>
+                <target>Temp Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41030">
+                <source>HCO3-</source>
+                <target>HCO3-</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41031">
+                <source>TCO2</source>
+                <target>TCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41032">
+                <source>BEb</source>
+                <target>BEb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41033">
+                <source>BEecf</source>
+                <target>BEecf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41034">
+                <source>O2Sat</source>
+                <target>O2Sat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41035">
+                <source>tHb</source>
+                <target>tHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41036">
+                <source>iCa(N)</source>
+                <target>iCa(N)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41037">
+                <source>pH(C)</source>
+                <target>pH(C)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41038">
+                <source>pCO2(C)</source>
+                <target>pCO2(C)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41039">
+                <source>pO2(C)</source>
+                <target>pO2(C)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41041">
+                <source>Temp(D)</source>
+                <target>Temp(D)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41042">
+                <source>Temp(I)</source>
+                <target>Temp(I)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41043">
+                <source>Hgb</source>
+                <target>Hgb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41050">
+                <source>Patient Status</source>
+                <target>Patient Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41051">
+                <source>Specimen Source</source>
+                <target>Specimen Source</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41052">
+                <source>Therapy Mode</source>
+                <target>Therapy Mode</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41053">
+                <source>FIO2</source>
+                <target>FIO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41054">
+                <source>Oxygen Flow</source>
+                <target>Oxygen Flow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41055">
+                <source>Oxygen Pressure</source>
+                <target>Oxygen Pressure</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41056">
+                <source>Tidal Volume</source>
+                <target>Tidal Volume</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41057">
+                <source>Rate</source>
+                <target>Rate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41058">
+                <source>PEEP</source>
+                <target>PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41059">
+                <source>Specimen Type</source>
+                <target>Specimen Type</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41060">
+                <source>Pressure Support</source>
+                <target>Pressure Support</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.41061">
+                <source>Bypass Correlation</source>
+                <target>Bypass Correlation</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

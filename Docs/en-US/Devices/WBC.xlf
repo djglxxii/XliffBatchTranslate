@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.43201">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.43202">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.43203">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.43201">
+                <source>Cuvette</source>
+                <target>Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.43202">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.43201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.43202">
+                <source>QC - Level 1</source>
+                <target>QC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.43203">
+                <source>QC - Level 2</source>
+                <target>QC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.43204">
+                <source>QC - Level 3</source>
+                <target>QC - Level 3</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.43201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.43202">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.432001">
+                <source>WBC</source>
+                <target>WBC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.432002">
+                <source>Control - Level 1</source>
+                <target>Control - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.432003">
+                <source>Control - Level 2</source>
+                <target>Control - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.432004">
+                <source>Control - Level 3</source>
+                <target>Control - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.432005">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

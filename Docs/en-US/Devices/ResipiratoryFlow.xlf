@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3002001">
+                <source>PIF</source>
+                <target>PIF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002002">
+                <source>PEF</source>
+                <target>PEF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002003">
+                <source>PSF</source>
+                <target>PSF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002004">
+                <source>EEF</source>
+                <target>EEF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002005">
+                <source>Flow</source>
+                <target>Flow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002006">
+                <source>Flow pattern</source>
+                <target>Flow pattern</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002007">
+                <source>Flow assist</source>
+                <target>Flow assist</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002008">
+                <source>Flow insp</source>
+                <target>Flow insp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002009">
+                <source>Flow exp</source>
+                <target>Flow exp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002010">
+                <source>Flow peak</source>
+                <target>Flow peak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002011">
+                <source>Flow trig</source>
+                <target>Flow trig</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002012">
+                <source>Flow sens</source>
+                <target>Flow sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002013">
+                <source>Bias Flow</source>
+                <target>Bias Flow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3002014">
+                <source>Flow cycle</source>
+                <target>Flow cycle</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

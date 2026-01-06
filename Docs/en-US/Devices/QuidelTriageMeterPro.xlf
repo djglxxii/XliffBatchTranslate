@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.1">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.2">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7">
+                <source>QC Simulator</source>
+                <target>QC Simulator</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1708">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1709">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1710">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1711">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1712">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1713">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1714">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1715">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1716">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1717">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1718">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1719">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1720">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1721">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1722">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1723">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1724">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1725">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1726">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1727">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1728">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1729">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1730">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1731">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1732">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1733">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1734">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1735">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1736">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1737">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1738">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1739">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1740">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1741">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1742">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1743">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1744">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1745">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1746">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1747">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1748">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1749">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.1701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1702">
+                <source>QC BNP</source>
+                <target>QC BNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1703">
+                <source>QC CARDIAC</source>
+                <target>QC CARDIAC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1704">
+                <source>QC DRUG SCREEN</source>
+                <target>QC DRUG SCREEN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1705">
+                <source>QC PROFILER CP</source>
+                <target>QC PROFILER CP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1706">
+                <source>QC S.O.B.</source>
+                <target>QC S.O.B.</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1707">
+                <source>QC TRG. CARDIAC</source>
+                <target>QC TRG. CARDIAC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1710">
+                <source>QC Simulator</source>
+                <target>QC Simulator</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1711">
+                <source>QC MPO</source>
+                <target>QC MPO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1712">
+                <source>QC Cardio Profiler with MPO</source>
+                <target>QC Cardio Profiler with MPO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1713">
+                <source>QC Stroke</source>
+                <target>QC Stroke</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1714">
+                <source>QC TOX with PCP &amp; THC</source>
+                <target>QC TOX with PCP &amp; THC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1715">
+                <source>QC TOX with APAP &amp; PCP</source>
+                <target>QC TOX with APAP &amp; PCP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1716">
+                <source>QC TOX with APAP &amp; THC</source>
+                <target>QC TOX with APAP &amp; THC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1717">
+                <source>QC D-Dimer</source>
+                <target>QC D-Dimer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1718">
+                <source>QC Cardio Profiler</source>
+                <target>QC Cardio Profiler</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1719">
+                <source>QC TOX DS</source>
+                <target>QC TOX DS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1720">
+                <source>QC CARDIO2</source>
+                <target>QC CARDIO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1721">
+                <source>QC CARDIO3</source>
+                <target>QC CARDIO3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1722">
+                <source>QC Troponin I</source>
+                <target>QC Troponin I</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1723">
+                <source>QC TOX DS 9</source>
+                <target>QC TOX DS 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1724">
+                <source>QC TOX DS 10</source>
+                <target>QC TOX DS 10</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1725">
+                <source>QC TNI</source>
+                <target>QC TNI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1726">
+                <source>QC TNI/CKMB</source>
+                <target>QC TNI/CKMB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1727">
+                <source>QC TOX DS 7</source>
+                <target>QC TOX DS 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1728">
+                <source>QC TOX DS 94600</source>
+                <target>QC TOX DS 94600</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1730">
+                <source>Misc. Test</source>
+                <target>Misc. Test</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.1">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.2">
+                <source>QC Sample</source>
+                <target>QC Sample</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.3">
+                <source>QC Simulator</source>
+                <target>QC Simulator</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.1701">
+                <source>Misc. Test</source>
+                <target>Misc. Test</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.1">
+                <source>BNP</source>
+                <target>BNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.2">
+                <source>CARDIAC</source>
+                <target>CARDIAC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.3">
+                <source>DRUG SCREEN</source>
+                <target>DRUG SCREEN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.4">
+                <source>PROFILER CP</source>
+                <target>PROFILER CP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1701">
+                <source>S.O.B.</source>
+                <target>S.O.B.</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1702">
+                <source>TRG. CARDIAC</source>
+                <target>TRG. CARDIAC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1703">
+                <source>MPO</source>
+                <target>MPO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1704">
+                <source>CARDIOPROFLR</source>
+                <target>CARDIOPROFLR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1705">
+                <source>STROKE</source>
+                <target>STROKE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1706">
+                <source>TOX:PCP,THC</source>
+                <target>TOX:PCP,THC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1707">
+                <source>TOX:APAP,PCP</source>
+                <target>TOX:APAP,PCP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1708">
+                <source>TOX:APAP,THC</source>
+                <target>TOX:APAP,THC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1709">
+                <source>D-DIMER</source>
+                <target>D-DIMER</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1710">
+                <source>CARDIO PRFLR</source>
+                <target>CARDIO PRFLR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1711">
+                <source>TOX DS</source>
+                <target>TOX DS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1712">
+                <source>CARDIO2</source>
+                <target>CARDIO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1713">
+                <source>CARDIO3</source>
+                <target>CARDIO3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1714">
+                <source>Troponin I</source>
+                <target>Troponin I</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1715">
+                <source>TOX DS 9</source>
+                <target>TOX DS 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1716">
+                <source>TOX DS 10</source>
+                <target>TOX DS 10</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1717">
+                <source>TNI</source>
+                <target>TNI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1718">
+                <source>TNI / CKMB</source>
+                <target>TNI / CKMB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1719">
+                <source>TOX DS 7</source>
+                <target>TOX DS 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1720">
+                <source>TOX DS 94600</source>
+                <target>TOX DS 94600</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.1">
+                <source>CKMB</source>
+                <target>CKMB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.2">
+                <source>MYO</source>
+                <target>MYO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3">
+                <source>TNI</source>
+                <target>TNI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.4">
+                <source>BNP</source>
+                <target>BNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.5">
+                <source>AMP</source>
+                <target>AMP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.6">
+                <source>mAMP</source>
+                <target>mAMP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.7">
+                <source>BAR</source>
+                <target>BAR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.8">
+                <source>BZO</source>
+                <target>BZO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.9">
+                <source>TCA</source>
+                <target>TCA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.10">
+                <source>PCP</source>
+                <target>PCP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.11">
+                <source>OPI</source>
+                <target>OPI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.12">
+                <source>COC</source>
+                <target>COC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.13">
+                <source>THC</source>
+                <target>THC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.14">
+                <source>Custom1</source>
+                <target>Custom1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.15">
+                <source>Custom2</source>
+                <target>Custom2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.16">
+                <source>Custom3</source>
+                <target>Custom3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17">
+                <source>Laser</source>
+                <target>Laser</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.18">
+                <source>Calib</source>
+                <target>Calib</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19">
+                <source>Align</source>
+                <target>Align</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17001">
+                <source>DDIM</source>
+                <target>DDIM</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17005">
+                <source>MPO</source>
+                <target>MPO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17006">
+                <source>STR</source>
+                <target>STR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17007">
+                <source>MMP9</source>
+                <target>MMP9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17008">
+                <source>S100</source>
+                <target>S100</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17009">
+                <source>APAP</source>
+                <target>APAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17010">
+                <source>CAR</source>
+                <target>CAR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17011">
+                <source>MTD</source>
+                <target>MTD</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.17012">
+                <source>EDDP</source>
+                <target>EDDP</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

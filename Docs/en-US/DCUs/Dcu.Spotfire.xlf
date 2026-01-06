@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.Spotfire.Title">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Spotfire.AutomaticLogout">
+        <source>Automatic Logout (Minutes)</source>
+        <target>Automatic Logout (Minutes)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Spotfire.BarcodeBadge">
+        <source>Barcode Badge Access</source>
+        <target>Barcode Badge Access</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Spotfire.InitialLotLockout">
+        <source>Initial Lot Lockout</source>
+        <target>Initial Lot Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Spotfire.AutomaticResultProcessing">
+        <source>Automatic Result Processing</source>
+        <target>Automatic Result Processing</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Spotfire.SendFailedResults">
+        <source>Send Failed Results</source>
+        <target>Send Failed Results</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Spotfire.SendControlTmValues">
+        <source>Send Control Tm Values</source>
+        <target>Send Control Tm Values</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Spotfire.Never">
+        <source>Never</source>
+        <target>Never</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Spotfire.MeterSettingsTitle">
+        <source>Meter Settings</source>
+        <target>Meter Settings</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

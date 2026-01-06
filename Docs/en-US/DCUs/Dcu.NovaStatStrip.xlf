@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Settings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DockLockout">
+        <source>Dock Lockout</source>
+        <target>Dock Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DiscardResultsOlder">
+        <source>Discard Results Older Than</source>
+        <target>Discard Results Older Than</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OverwriteOldestResults">
+        <source>Overwrite Oldest Results When Database is Full</source>
+        <target>Overwrite Oldest Results When Database is Full</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PostAlertBeforeDock">
+        <source>Post Alert Before Docking is Required</source>
+        <target>Post Alert Before Docking is Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OnDockingEvent">
+        <source>On Docking Event</source>
+        <target>On Docking Event</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DockLockModeCd.Lock">
+        <source>Lock</source>
+        <target>Lock</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DockLockModeCd.Notify">
+        <source>Notify</source>
+        <target>Notify</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DockLockModeCd.None">
+        <source>None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowSupOvrDockLock">
+        <source>Allow Supervisor to Override Dock Lockout State</source>
+        <target>Allow Supervisor to Override Dock Lockout State</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.LockoutIntervalType">
+        <source>Lockout Interval Type</source>
+        <target>Lockout Interval Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DockLockInterval.Elapsed">
+        <source>Dock Interval</source>
+        <target>Dock Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DockLockInterval.Shift">
+        <source>Shift Times</source>
+        <target>Shift Times</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.TimeBeforeDockingRequired">
+        <source>Time Before Docking Required</source>
+        <target>Time Before Docking Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Shift1">
+        <source>Shift 1</source>
+        <target>Shift 1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Shift2">
+        <source>Shift 2</source>
+        <target>Shift 2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Shift3">
+        <source>Shift 3</source>
+        <target>Shift 3</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLockout">
+        <source>QC Lockout</source>
+        <target>QC Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcPostAlert">
+        <source>Post Alert Before QC is Required</source>
+        <target>Post Alert Before QC is Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLockoutEvent">
+        <source>On QC-Lockout Event</source>
+        <target>On QC-Lockout Event</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLockModeCd.Lock">
+        <source>Lock</source>
+        <target>Lock</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLockModeCd.Notify">
+        <source>Notify</source>
+        <target>Notify</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLockModeCd.None">
+        <source>None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLevel1Req">
+        <source>Level 1 Required for QC</source>
+        <target>Level 1 Required for QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLevel2Req">
+        <source>Level 2 Required for QC</source>
+        <target>Level 2 Required for QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLevel3Req">
+        <source>Level 3 Required for QC</source>
+        <target>Level 3 Required for QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcTestTimeReq">
+        <source>Time Before QC Testing Required</source>
+        <target>Time Before QC Testing Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLockInterval.Elapsed">
+        <source>QC Interval</source>
+        <target>QC Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLockInterval.Shift">
+        <source>Shift Times</source>
+        <target>Shift Times</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.LogoffMaster">
+        <source>Logoff/Master</source>
+        <target>Logoff/Master</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLogoffMode">
+        <source>Operator Logoff Mode</source>
+        <target>Operator Logoff Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLogoffModeCd.Manual">
+        <source>Manual</source>
+        <target>Manual</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLogoffModeCd.Test">
+        <source>Test</source>
+        <target>Test</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLogoffModeCd.Elapsed">
+        <source>Elapsed</source>
+        <target>Elapsed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLogoffIfInactive">
+        <source>Logoff if Inactive for</source>
+        <target>Logoff if Inactive for</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer">
+        <source>Meter Sleep Timer</source>
+        <target>Meter Sleep Timer</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.ZeroMin">
+        <source>0 minutes</source>
+        <target>0 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.TwoMin">
+        <source>2 minutes</source>
+        <target>2 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.ThreeMin">
+        <source>3 minutes</source>
+        <target>3 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.FourMin">
+        <source>4 minutes</source>
+        <target>4 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.FiveMin">
+        <source>5 minutes</source>
+        <target>5 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.SixMin">
+        <source>6 minutes</source>
+        <target>6 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.SevenMin">
+        <source>7 minutes</source>
+        <target>7 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.EightMin">
+        <source>8 minutes</source>
+        <target>8 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.NineMin">
+        <source>9 minutes</source>
+        <target>9 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MeterSleepTimer.TenMin">
+        <source>10 minutes</source>
+        <target>10 minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DateFormat">
+        <source>Date Format</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DateFormat.ddMM">
+        <source>dd/MM</source>
+        <target>dd/MM</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DateFormat.MMdd">
+        <source>MM/dd</source>
+        <target>MM/dd</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.TimeFormat">
+        <source>Time Format</source>
+        <target>Time Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.TimeFormat.12Hr">
+        <source>12-Hour</source>
+        <target>12-Hour</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.TimeFormat.24Hr">
+        <source>24-Hour</source>
+        <target>24-Hour</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QueryWiFiWait">
+        <source>Query WiFi Wait Time</source>
+        <target>Query WiFi Wait Time</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivilegeScreens">
+        <source>Privilege Screens</source>
+        <target>Privilege Screens</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivLevel.Supervisor">
+        <source>Supervisor</source>
+        <target>Supervisor</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivLevel.Operator">
+        <source>Operator</source>
+        <target>Operator</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivLevel.Both">
+        <source>Supervisor &amp; Operator</source>
+        <target>Supervisor &amp; Operator</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivChangeMeterName">
+        <source>Change Meter Name</source>
+        <target>Change Meter Name</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivAllowResetFac">
+        <source>Allow Reset Facility</source>
+        <target>Allow Reset Facility</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivConfigNetworkSetup">
+        <source>Configure Network Setup</source>
+        <target>Configure Network Setup</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivMarkResultsNotSent">
+        <source>Mark the Results at the Meter as 'Not Sent'?</source>
+        <target>Mark the Results at the Meter as 'Not Sent'?</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivAllowCorrTesting">
+        <source>Allow Correlation Testing</source>
+        <target>Allow Correlation Testing</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivAllowLinTesting">
+        <source>Allow Linearity Testing</source>
+        <target>Allow Linearity Testing</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivAllowProfTesting">
+        <source>Allow Proficiency Testing</source>
+        <target>Allow Proficiency Testing</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PrivAllowDockLockOverride">
+        <source>Allow Dock Lockout State Override</source>
+        <target>Allow Dock Lockout State Override</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.LotEntry">
+        <source>Lot Entry</source>
+        <target>Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ViewLotList">
+        <source>View Lot List</source>
+        <target>View Lot List</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.LinearityLotEntry">
+        <source>Linearity</source>
+        <target>Linearity</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ValidateLinearityLots">
+        <source>Validate Linearity Lots</source>
+        <target>Validate Linearity Lots</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLotEntry">
+        <source>QC</source>
+        <target>QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ValidateQcLots">
+        <source>Validate QC Lot Entry</source>
+        <target>Validate QC Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.StripLotEntry">
+        <source>Strip</source>
+        <target>Strip</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.StripLotRememberLast">
+        <source>Remember Last Strip Lot Entered</source>
+        <target>Remember Last Strip Lot Entered</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.StripLotValidate">
+        <source>Validate Strip Lot Entry</source>
+        <target>Validate Strip Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ProficiencyLotEntry">
+        <source>Proficiency</source>
+        <target>Proficiency</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ProficiencyLotMinLength">
+        <source>Proficiency Lot Min Length</source>
+        <target>Proficiency Lot Min Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ProficiencyLotMinLengthMsg">
+        <source>Must be less than or equal to Proficiency Lot Max Length</source>
+        <target>Must be less than or equal to Proficiency Lot Max Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ProficiencyLotMaxLength">
+        <source>Proficiency Lot Max Length</source>
+        <target>Proficiency Lot Max Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ProficiencyLotMaxLengthMsg">
+        <source>Must be greater than or equal to Proficiency Lot Min Length</source>
+        <target>Must be greater than or equal to Proficiency Lot Min Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ProficiencyLotSuperOverride">
+        <source>Allow Supervisor Override of Invalid Proficiency Lots</source>
+        <target>Allow Supervisor Override of Invalid Proficiency Lots</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ProficiencyLotValidate">
+        <source>Validate Proficiency Lots</source>
+        <target>Validate Proficiency Lots</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Operator">
+        <source>Operator</source>
+        <target>Operator</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Login">
+        <source>Login</source>
+        <target>Login</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OperatorLoginMinLength">
+        <source>Operator Login Min Length</source>
+        <target>Operator Login Min Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OperatorLoginMaxLength">
+        <source>Operator Login Max Length</source>
+        <target>Operator Login Max Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLoginDisplayCd">
+        <source>Operator Name/ID Display Options</source>
+        <target>Operator Name/ID Display Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLoginDisplayCd.Name">
+        <source>Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLoginDisplayCd.Id">
+        <source>ID</source>
+        <target>ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLoginDisplayCd.NameOrId">
+        <source>Name or ID</source>
+        <target>Name or ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.OpLoginDisplayCd.None">
+        <source>Nothing</source>
+        <target>Nothing</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowSupervisorOverrideInvalidLogin">
+        <source>Allow Supervisor Override of Invalid Login</source>
+        <target>Allow Supervisor Override of Invalid Login</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ValidateOperatorId">
+        <source>Validate Operator IDs</source>
+        <target>Validate Operator IDs</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Patient">
+        <source>Patient</source>
+        <target>Patient</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatientId">
+        <source>Patient ID</source>
+        <target>Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatIdFailCommentReq">
+        <source>Require Comment if Patient ID Not Recognized</source>
+        <target>Require Comment if Patient ID Not Recognized</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatIdFailDowntimeEnable">
+        <source>Allow Downtime Override</source>
+        <target>Allow Downtime Override</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatIdFailNewPtEnable">
+        <source>Allow New Patient ID Override</source>
+        <target>Allow New Patient ID Override</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MinLength">
+        <source>Min Length</source>
+        <target>Min Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MaxLength">
+        <source>Max Length</source>
+        <target>Max Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatIdValidation">
+        <source>Validate Patient IDs</source>
+        <target>Validate Patient IDs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatIdSupOverrideEnable">
+        <source>Allow Supervisor Override of Invalid Patient ID</source>
+        <target>Allow Supervisor Override of Invalid Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.TypeSelection">
+        <source>Type Selection</source>
+        <target>Type Selection</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowTypeSelection">
+        <source>Allow Patient Type Selection</source>
+        <target>Allow Patient Type Selection</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.CriticallyIllPatientText">
+        <source>Patient Type Text (Critically Ill Patient)</source>
+        <target>Patient Type Text (Critically Ill Patient)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.NotCriticallyIllPatientText">
+        <source>Patient Type Text (Not Critically Ill Patient)</source>
+        <target>Patient Type Text (Not Critically Ill Patient)</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Results">
+        <source>Results</source>
+        <target>Results</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.CommentReqCd.Allowed">
+        <source>Allowed</source>
+        <target>Allowed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.CommentReqCd.Required">
+        <source>Required</source>
+        <target>Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsCriticalRangeCommentReq">
+        <source>Require Comment if Patient Result Exceeds Abnormal Range</source>
+        <target>Require Comment if Patient Result Exceeds Abnormal Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsAbnormalRangeCommentReq">
+        <source>Require Comment if Patient Result Exceeds Normal Range</source>
+        <target>Require Comment if Patient Result Exceeds Normal Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsTechnicalRangeCommentReq">
+        <source>Require Comment if Patient Result Exceeds Technical Range</source>
+        <target>Require Comment if Patient Result Exceeds Technical Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsNormalRangeCommentReq">
+        <source>Require Comment if Patient Result In Normal Range</source>
+        <target>Require Comment if Patient Result In Normal Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsRejectEnable">
+        <source>Enable Reject Patient Results</source>
+        <target>Enable Reject Patient Results</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsRejectResultCommentReq">
+        <source>Require Comment if Patient Result is Rejected</source>
+        <target>Require Comment if Patient Result is Rejected</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsRejectSupOverrideReq">
+        <source>Require Supervisor Override if Patient Result is Rejected</source>
+        <target>Require Supervisor Override if Patient Result is Rejected</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Linearity">
+        <source>Linearity</source>
+        <target>Linearity</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.LinObsFailCommentReqCd">
+        <source>Include Comment if Linearity Result Out of Range</source>
+        <target>Include Comment if Linearity Result Out of Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.LinObsPassCommentReqCd">
+        <source>Include Comment if Linearity Result In Range</source>
+        <target>Include Comment if Linearity Result In Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.LinObsValueDisplay">
+        <source>Display Linearity Result Values</source>
+        <target>Display Linearity Result Values</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Qc">
+        <source>QC</source>
+        <target>QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcObsFailCommentReqCd">
+        <source>Include Comment if QC Result Out of Range</source>
+        <target>Include Comment if QC Result Out of Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcObsPassCommentReqCd">
+        <source>Include Comment if QC Result In Range</source>
+        <target>Include Comment if QC Result In Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcObsValueDisplay">
+        <source>Display QC Result Values</source>
+        <target>Display QC Result Values</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Comments">
+        <source>Comments</source>
+        <target>Comments</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.CommentsFreeTextEnable">
+        <source>Enable Free Text Comments</source>
+        <target>Enable Free Text Comments</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.CommentsFreeTextChartableEnable">
+        <source>Make Free Text Comments Chartable</source>
+        <target>Make Free Text Comments Chartable</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.CommentsFreeTextFlaggedEnable">
+        <source>Make Free Text Comments Flaggable</source>
+        <target>Make Free Text Comments Flaggable</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.TestRanges">
+        <source>Test Ranges</source>
+        <target>Test Ranges</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeMeasLo">
+        <source>Measured Lo</source>
+        <target>Measured Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeMeasLoMsg">
+        <source>Must be less than or equal to AMR Lo</source>
+        <target>Must be less than or equal to AMR Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeMeasHi">
+        <source>Measured Hi</source>
+        <target>Measured Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeMeasHiMsg">
+        <source>Must be greater than or equal to AMR Hi</source>
+        <target>Must be greater than or equal to AMR Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeAmrLo">
+        <source>AMR Lo</source>
+        <target>AMR Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeAmrLoMsg">
+        <source>Must be greater than or equal to Measured Lo and less than or equal to Critical Lo</source>
+        <target>Must be greater than or equal to Measured Lo and less than or equal to Critical Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeAmrHi">
+        <source>AMR Hi</source>
+        <target>AMR Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeAmrHiMsg">
+        <source>Must be greater than or equal to Critical Hi and less than or equal to Measured Hi</source>
+        <target>Must be greater than or equal to Critical Hi and less than or equal to Measured Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeNormLo">
+        <source>Normal Lo</source>
+        <target>Normal Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeNormLoMsg">
+        <source>Must be greater than or equal to Critical Lo and less than or equal to Normal Hi</source>
+        <target>Must be greater than or equal to Critical Lo and less than or equal to Normal Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeNormHi">
+        <source>Normal Hi</source>
+        <target>Normal Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeNormHiMsg">
+        <source>Must be greater than or equal to Normal Lo and less than or equal to Critical Hi</source>
+        <target>Must be greater than or equal to Normal Lo and less than or equal to Critical Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeCritLo">
+        <source>Critical Lo</source>
+        <target>Critical Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeCritLoMsg">
+        <source>Must be greater than or equal to AMR Lo and less than or equal to Normal Lo</source>
+        <target>Must be greater than or equal to AMR Lo and less than or equal to Normal Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeCritHi">
+        <source>Critical Hi</source>
+        <target>Critical Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RangeCritHiMsg">
+        <source>Must be greater than or equal to Normal Hi and less than or equal to AMR Hi</source>
+        <target>Must be greater than or equal to Normal Hi and less than or equal to AMR Hi</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Slope">
+        <source>Slope</source>
+        <target>Slope</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Intercept">
+        <source>Intercept</source>
+        <target>Intercept</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsReviewNoLogin">
+        <source>Operator Login Not Required for Data Review</source>
+        <target>Operator Login Not Required for Data Review</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ProfRejectEnable">
+        <source>Enable Reject of Proficiency Results</source>
+        <target>Enable Reject of Proficiency Results</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.egfrTitle">
+        <source>eGFR</source>
+        <target>eGFR</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.HeightUnits">
+        <source>Height Units</source>
+        <target>Height Units</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatHtUnits.Centimeters">
+        <source>cm</source>
+        <target>cm</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatHtUnits.Inches">
+        <source>in</source>
+        <target>in</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.WeightUnits">
+        <source>Weight Units</source>
+        <target>Weight Units</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatWtUnits.Kilograms">
+        <source>kg</source>
+        <target>kg</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.PatWtUnits.Pounds">
+        <source>lbs</source>
+        <target>lbs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AdultMethod">
+        <source>Adult Method</source>
+        <target>Adult Method</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.GFRAdultMethodCd.MDRD">
+        <source>MDRD</source>
+        <target>MDRD</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.GFRAdultMethodCd.CG">
+        <source>CG</source>
+        <target>CG</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.egfrCritLoMsg">
+        <source>Must be less than or equal to Normal Lo</source>
+        <target>Must be less than or equal to Normal Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.egfrNormLoMsg">
+        <source>Must be greater than or equal to Critial Lo</source>
+        <target>Must be greater than or equal to Critial Lo</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SampleId">
+        <source>Sample ID</source>
+        <target>Sample ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SampleIdentification">
+        <source>Sample Identification</source>
+        <target>Sample Identification</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsIdMethodCd.PatientId">
+        <source>Patient ID</source>
+        <target>Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsIdMethodCd.AccessionNo">
+        <source>Accession Number</source>
+        <target>Accession Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ObsIdMethodCd.Both">
+        <source>Either</source>
+        <target>Either</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AccessionNoPrompt">
+        <source>Accession Number Prompt at the Meter</source>
+        <target>Accession Number Prompt at the Meter</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SampleIdPrompt">
+        <source>Sample Identification Prompt at the Meter</source>
+        <target>Sample Identification Prompt at the Meter</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowSampleTypeSel">
+        <source>Allow Sample Type Selection</source>
+        <target>Allow Sample Type Selection</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SpecimenType">
+        <source>Specimen Type</source>
+        <target>Specimen Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowSpecimenTypeSel">
+        <source>Allow Specimen Type Selection</source>
+        <target>Allow Specimen Type Selection</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SpecimenTypes.Arterial">
+        <source>Arterial</source>
+        <target>Arterial</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SpecimenTypes.Venous">
+        <source>Venous</source>
+        <target>Venous</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SpecimenTypes.Capillary">
+        <source>Capillary</source>
+        <target>Capillary</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SpecimenTypes.SuppressPrompt">
+        <source>Suppress Prompt</source>
+        <target>Suppress Prompt</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SpecimenTypes.WholeBlood">
+        <source>Whole Blood</source>
+        <target>Whole Blood</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SpecimenTypes.NeonatalArterial">
+        <source>Neonatal Arterial</source>
+        <target>Neonatal Arterial</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SpecimenTypes.NeonatalHeelStick">
+        <source>Neonatal Heel Stick</source>
+        <target>Neonatal Heel Stick</target>
+      </trans-unit>
+      
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ScanEnableCd">
+        <source>Barcode Scanner Allowed for this Entry</source>
+        <target>Barcode Scanner Allowed for this Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ScanEnableCd.Required">
+        <source>Required</source>
+        <target>Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ScanEnableCd.Allowed">
+        <source>Allowed</source>
+        <target>Allowed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ScanEnableCd.Disabled">
+        <source>Disabled</source>
+        <target>Disabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DisableAutoAcceptScan">
+        <source>Disable Automatically Accepting Scanned Entries</source>
+        <target>Disable Automatically Accepting Scanned Entries</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.SupervisorOverride">
+        <source>Supervisor Override</source>
+        <target>Supervisor Override</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowSupervisorOverrideInvalid">
+        <source>Allow Supervisor Override of Invalid Entries</source>
+        <target>Allow Supervisor Override of Invalid Entries</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowAlphanumEntry">
+        <source>Allow Alphanumeric Entry</source>
+        <target>Allow Alphanumeric Entry</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Barcodes">
+        <source>Barcodes</source>
+        <target>Barcodes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.UseCodabar">
+        <source>Use Codabar</source>
+        <target>Use Codabar</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.UseCode128">
+        <source>Use Code128</source>
+        <target>Use Code128</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.UseCode39">
+        <source>Use Code39</source>
+        <target>Use Code39</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.UseCode93">
+        <source>Use Code93</source>
+        <target>Use Code93</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.UseI2of5">
+        <source>Use Interleave 2 of 5</source>
+        <target>Use Interleave 2 of 5</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Use2D">
+        <source>Use 2D Bar codes</source>
+        <target>Use 2D Bar codes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Mask">
+        <source>Mask</source>
+        <target>Mask</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MaskError">
+        <source>Must be 0-60 characters in the set: 0-9 A-Z a-z ~ ` ! @ # $ % ^ &amp; * ( ) _ + | - = \ { } [ ] : &quot; ; &apos; &lt; &gt; ? , . / – &lt;space&gt;</source>
+        <target>Must be 0-60 characters in the set: 0-9 A-Z a-z ~ ` ! @ # $ % ^ &amp; * ( ) _ + | - = \ { } [ ] : &quot; ; &apos; &lt; &gt; ? , . / – &lt;space&gt;</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.RejectFailScan">
+        <source>Reject if Fail to Scan</source>
+        <target>Reject if Fail to Scan</target>
+      </trans-unit>
+    
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ManualTestEntry">
+        <source>Manual Test Entry</source>
+        <target>Manual Test Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowOverrideInvalid">
+        <source>Allow Override of Invalid Entries</source>
+        <target>Allow Override of Invalid Entries</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.AllowOverrideExpired">
+        <source>Allow Override of Expired Entries</source>
+        <target>Allow Override of Expired Entries</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.ValidateLotEntry">
+        <source>Validate Lot Entry</source>
+        <target>Validate Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.DeveloperLot">
+        <source>Developer Lot</source>
+        <target>Developer Lot</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.QcLot">
+        <source>QC Lot</source>
+        <target>QC Lot</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.CardStripLot">
+        <source>Card/Strip Lot</source>
+        <target>Card/Strip Lot</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MtePatient">
+        <source>Patient Buttons</source>
+        <target>Patient Buttons</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.MteQcButtons">
+        <source>QC Buttons</source>
+        <target>QC Buttons</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.NovaStatStrip.Alias">
+        <source>Alias</source>
+        <target>Alias</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

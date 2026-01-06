@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2"
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+    
+    <!-- All/Patient Test Options -->
+    
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.AllTestOptions">
+        <source>Tab title for Abbott Glucose Settings Tab</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientTestOptions">
+        <source>Tab title for Abbott Glucose Patient Tab</source>
+        <target>Patient</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OperatorIDTitle">
+        <source>Title for Abbott Glucose Operator ID Options Card</source>
+        <target>Operator ID Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientIDTitle">
+        <source>Title for Abbott Glucose Patient ID Options Card</source>
+        <target>Patient ID Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OperatorIDSettings">
+        <source>Title for Abbott Glucose Operator ID Settings Card</source>
+        <target>Operator ID Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientIDSettings">
+        <source>Title for Abbott Glucose Patient ID Settings Card</source>
+        <target>Patient ID Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EntryMode">
+        <source>Label for Abbott Glucose Operator ID Entry Mode selection dropdown</source>
+        <target>Entry Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DisableManualEntry">
+        <source>Label for Abbott Glucose Operator ID disable manual entry checkbox</source>
+        <target>Disable Manual Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.RepeatManualIdEntry">
+        <source>Label for Abbott Glucose Patient ID repeat manual entry checkbox</source>
+        <target>Repeat Manual ID Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.MinLength">
+        <source>Label for Abbott Glucose Operator ID min length input</source>
+        <target>Min Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.MaxLength">
+        <source>Label for Abbott Glucose Operator ID max length input</source>
+        <target>Max Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OperatorIDBarcode">
+        <source>Title of Operator ID Barcode Types card</source>
+        <target>Operator ID Barcode Types</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientIDBarcode">
+        <source>Title of Patient ID Barcode Types card</source>
+        <target>Patient ID Barcode Types</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.2DBarcode">
+        <source>Title 2D Barcode Types card</source>
+        <target>2D Barcode Types</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.UploadIntervalSecurity">
+        <source>Title of Operator Upload Interval Security card</source>
+        <target>Upload Interval Security</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OperatorIDSettingsLabel">
+        <source>Label for Operator ID Settings Section on Operator ID Options Card</source>
+        <target>Operator ID Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientIDSettingsLabel">
+        <source>Label for Patient ID Settings Section on Operator ID Options Card</source>
+        <target>Patient ID Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ManualCheckEntryDigit">
+        <source>Label for ID Settings Manual Entry Check Digit Select</source>
+        <target>Manual Entry Check Digit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SelectTruncationType">
+        <source>Label for ID Settings Truncation Type Select</source>
+        <target>Truncation Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OperatorIDTruncationLabel">
+        <source>Label for Operator ID Truncation Section</source>
+        <target>Operator ID Truncate Digits</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OperatorIDPromptLabel">
+        <source>Label for Operator ID Prompt Input</source>
+        <target>Operator ID Prompt</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientIDTruncationLabel">
+        <source>Label for Patient ID Truncation Section</source>
+        <target>Patient ID Truncate Digits</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientIDPromptLabel">
+        <source>Label for Patient ID Prompt Input</source>
+        <target>Patient ID Prompt</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.First">
+        <source>Label for Operator ID Truncation First Input</source>
+        <target>First</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Last">
+        <source>Label for Operator ID Truncation Last Input</source>
+        <target>Last</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Days">
+        <source>Days Unit for Upload Interval Security and Days in HoursDaysList</source>
+        <target>Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Hours">
+        <source>Hours Unit for Upload Interval Security and Hours in HoursDaysList</source>
+        <target>Hours</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ExpirationInterval">
+        <source>Label for Upload Interval Input</source>
+        <target>Expiration Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SelectionPatternError">
+        <source>Error displayed with Truncation Selection input is not formatted correctly</source>
+        <target>Input must be a comma seperated list of integers and/or integer ranges i.e. 1, 2-6, 12, 15-20</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SelectionOrderError">
+        <source>Error displayed with Truncation Selection input is not in increasing order</source>
+        <target>Numbers must be in ascending order</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SelectionPatternOutOfRangeError">
+        <source>Error displayed with Truncation Selection input includes a number not in [1, 64]</source>
+        <target>Digits must be in range 1 to 64</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SelectionPatternRequiredError">
+        <source>Error displayed with Truncation Selection is blank but must have a value</source>
+        <target>Entry Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SelectionPatternMinLengthError">
+        <source>Error displayed with Truncation Selection does not include enough digits</source>
+        <target>Number of digits in selection must be greater than Min Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SelectionPatternMaxLengthError">
+        <source>Error displayed with Truncation Selection includes too many digits</source>
+        <target>Number of digits in selection must be less than Max Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.BarcodeError">
+        <source>Error displayed on Disable Manual Entry Checkbox when no barcode types are active</source>
+        <target>At least one barcode type must be enabled if manual entry is disabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ExpirationIntervalPatternError">
+        <source>Error displayed on Upload Interval Security when the user enters non-integer values</source>
+        <target>Value must be an integer</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.AtLeastOneControlTestError">
+        <source>Error displayed on Control Test Options when the user does not select at least one test type</source>
+        <target>At least one test type must be selected</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.IntegerError">
+        <source>Error displayed on numeric control which must be an integer</source>
+        <target>Must be an integer</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.LowerThanCriticalLow">
+        <source>Validation Error on Action Range Low when Lower Than Critical Low</source>
+        <target>Must be higher than Critical Low (if active)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.HigherThanActionHigh">
+        <source>Validation Error on Action Range Low when Higher Than Action High</source>
+        <target>Must be lower than Action High</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.LowerThanActionLow">
+        <source>Validation Error on Action Range High when Lower Than Action Low</source>
+        <target>Must be higher than Action Low</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.LowerThanActionHigh">
+        <source>Validation Error on Critical Range High when Lower Than Action High</source>
+        <target>Must be higher than Action High (if active)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.HigherThanCriticalHigh">
+        <source>Validation Error on Action Range High when higher Than Critical High</source>
+        <target>Must be lower than Critical High (if active)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.HigherThanActionLowOrCriticalHigh">
+        <source>Validation Error on Critical Range Low when higher than Action Low or Critical High</source>
+        <target>Must be lower than Critical High and Action Low (if active)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.LowerThanActionHighOrCriticalLow">
+        <source>Validation Error on Critical Range High when lower than Action High or Critical Low</source>
+        <target>Must be higher than Critical Low and Action High (if active)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.TestTypeOptions">
+        <source>Tab title for Test Type Tab</source>
+        <target>Test Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.GlucoseTestTypeOptions">
+        <source>Card title for Glucose Test Type Options Card</source>
+        <target>Glucose Test Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SampleType">
+        <source>Label for sample type select on Glucose Test options card</source>
+        <target>Sample Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ActionRange">
+        <source>Label for action range checkbox on Test Types Tab</source>
+        <target>Action Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Low">
+        <source>Label for low range input on Test Types Tab</source>
+        <target>Low</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.High">
+        <source>Label for high range input on Test Types Tab</source>
+        <target>High</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CriticalRange">
+        <source>Label for critical range checkbox on Test Types Tab</source>
+        <target>Critical Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.KetoneTestOptions">
+        <source>Title for Ketone Test Options card on Test Types Tab</source>
+        <target>Ketone Test Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Enabled">
+        <source>Enabled as in active or turned on</source>
+        <target>Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OtherTests">
+        <source>Title for Other Test Type Options card on Test Types Tab</source>
+        <target>Other Test Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ProficiencyTestsEnabled">
+        <source>Label for Proficiency Tests Enabled checkbox on Test Types Tab</source>
+        <target>Proficiency Tests Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.LinearityTestsEnabled">
+        <source>Label for Linearity Tests Enabled checkbox on Test Types Tab</source>
+        <target>Linearity Tests Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextEntry">
+        <source>Title for Free Text Entry card on Test Types Tab</source>
+        <target>Free Text Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeText1">
+        <source>lable for Free Text 1 select on Test Types Tab</source>
+        <target>Free Text 1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeText1Prompt">
+        <source>lable for Free Text 1 Prompt select on Test Types Tab</source>
+        <target>Free Text 1 Prompts</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeText2">
+        <source>lable for Free Text 2 select on Test Types Tab</source>
+        <target>Free Text 2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeText2Prompt">
+        <source>lable for Free Text 2 Prompt select on Test Types Tab</source>
+        <target>Free Text 2 Prompts</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OperatorIDPromptDefault">
+        <source>Default Operator ID Prompt</source>
+        <target>Operator ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientIDPromptDefault">
+        <source>Default Patient ID Prompt</source>
+        <target>Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.I2of5">
+        <source>Barcode type I2of5</source>
+        <target>I 2 of 5</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Code128">
+        <source>Barcode type Code128</source>
+        <target>Code 128</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Codabar">
+        <source>Barcode type Codabar</source>
+        <target>Codabar</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Code93">
+        <source>Barcode type Code 93</source>
+        <target>Code 93</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Code39">
+        <source>Barcode type Code 39</source>
+        <target>Code 39</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.RSS">
+        <source>Barcode type RSS</source>
+        <target>RSS</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EAN">
+        <source>Barcode type EAN</source>
+        <target>EAN</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Aztec">
+        <source>2D Barcode type Aztec</source>
+        <target>Aztec</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DataMatrix">
+        <source>2D Barcode type DataMatrix</source>
+        <target>DataMatrix</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.QRcode">
+        <source>2D Barcode type QRcode</source>
+        <target>QRcode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Maxicode">
+        <source>2D Barcode type Maxicode</source>
+        <target>Maxicode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PDF417">
+        <source>2D Barcode type PDF 417</source>
+        <target>PDF 417</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.MicroPDF">
+        <source>2D Barcode type Micro PDF</source>
+        <target>Micro PDF</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CodablockF">
+        <source>2D Barcode type CodablockF</source>
+        <target>CodablockF</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.RSSComposite">
+        <source>2D Barcode type RSS Composite</source>
+        <target>RSS Composite</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CommentCode">
+        <source>Title of Comment Code Card on Patient Test Options Tab</source>
+        <target>Comment</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CommentCodeInRange">
+        <source>Label for Comment Code In Range Select on Comment Code Card on Patient Test Options Tab</source>
+        <target>Comment (In-Range)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CommentCodeOutOfRange">
+        <source>Label for Comment Code Out Of Range Select on Comment Code Card on Patient Test Options Tab</source>
+        <target>Comment (Out-Of-Range)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ControlTestOptions">
+        <source>Title of Control Tab</source>
+        <target>Control</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.GlucoseControlTestOptions">
+        <source>Title of Glucose Control Test Options Card</source>
+        <target>Glucose Control Test Options</target>
+      </trans-unit>
+      
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DeleteTestMemAfterUpload">
+        <source>Delete Test Memory After Upload</source>
+        <target>Delete Test Memory After Upload</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ExtendedConfiguration">
+        <source>Extended Configuration</source>
+        <target>Extended Configuration</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeStyleOnly">
+        <source>Correspond to the Extended Configuration options on FreeStyle devices</source>
+        <target>Correspond to the Extended Configuration options on FreeStyle devices</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeStyleTestOptions">
+        <source>Test Type Options</source>
+        <target>Test Type Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CommentListEnabled">
+        <source>Enable Comemnt List</source>
+        <target>Enable Comment List</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EnableCommentList">
+        <source>Enable Comemnt List</source>
+        <target>Enable Comment List</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeStyleGlucoseTestOptions">
+        <source>Glucose Test Options</source>
+        <target>Glucose Test Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EnableExtendedSampleTypes">
+        <source>Enable Extended Sample Types</source>
+        <target>Enable Extended Sample Types</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FSPreselectedSampleSource">
+        <source>Extended Sample Type Selection</source>
+        <target>Extended Sample Type Selection</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.AtLeastOneExtSampleType">
+        <source>At least one Sample Type must be selected</source>
+        <target>At least one Sample Type must be selected</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeStyleFreeTextEntry">
+        <source>Free Text Entry</source>
+        <target>Free Text Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CustomPrompt1">
+        <source>Enable Free Text 1 Prompt</source>
+        <target>Enable Free Text 1 Prompt</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CustomPrompt2">
+        <source>Enable Free Text 2 Prompt</source>
+        <target>Enable Free Text 2 Prompt</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CustomTextPrompt1">
+        <source>Free Text 1 Prompt Text</source>
+        <target>Free Text 1 Prompt Text</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CustomTextPrompt2">
+        <source>Free Text 2 Prompt Text</source>
+        <target>Free Text 2 Prompt Text</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeStyleCleanDisinfectOptions">
+        <source>Cleaning and Disinfection</source>
+        <target>Cleaning and Disinfection</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EnableCleanPrompt">
+        <source>Enable Cleaning Prompt</source>
+        <target>Enable Cleaning Prompt</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EnableDisinfectPrompt">
+        <source>Enable Disinfect Prompt</source>
+        <target>Enable Disinfect Prompt</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CleanTime">
+        <source>Cleaning Timer (0-5 min)</source>
+        <target>Cleaning Timer (0-5 min)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DisinfectTime">
+        <source>Disinfection Timer (0-5 min)</source>
+        <target>Disinfection Timer (0-5 min)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Validation.Alphanumeric">
+        <source>Text input may contain only alphanumeric and space characters</source>
+        <target>Text input may contain only alphanumeric and space characters</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ExtendedSampleTypeOptions">
+        <source>Display Sample Type</source>
+        <target>Display Sample Type</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.KetoneControlTestOptions">
+        <source>Title of Ketone Control Test Options Card</source>
+        <target>Ketone Control Test Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ControlNormalLevel">
+        <source>Lable for Control Test Level Normal Select On Control Test Option Cards</source>
+        <target>Normal (Mid) Level</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ControlLowLevel">
+        <source>Lable for Control Test Level Low Select On Control Test Option Cards</source>
+        <target>Low Level</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ControlHighLevel">
+        <source>Lable for Control Test Level High Select On Control Test Option Cards</source>
+        <target>High Level</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ControlResultDisplay">
+        <source>Lable for Control Result Display Select On Control Test Option Cards</source>
+        <target>Result Display</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SystemOptions">
+        <source>Title for System tab, and card</source>
+        <target>System</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EnableBeep">
+        <source>Label for Enable Beep checkbox on System Options card</source>
+        <target>Enable Beeper</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.BatteryType">
+        <source>Label for Battery Type select on System Options card</source>
+        <target>Battery Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PowerOffAfter">
+        <source>Label for Power Off Timer input on System Options card</source>
+        <target>Power Off (in minutes) After Patient Tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DateFormat">
+        <source>Label for Date Format select on System Options card</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.TimeFormat">
+        <source>Label for Time Format select on System Options card</source>
+        <target>Time Format</target>
+      </trans-unit>
+      
+      <!-- Security Options Tab -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.SecurityOptions">
+        <source>Title for Security Tab</source>
+        <target>Security</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.GlucoseQCInterval">
+        <source>Title for glucose security interval card</source>
+        <target>Glucose QC Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.KetoneQCInterval">
+        <source>Title for ketone security interval card</source>
+        <target>Ketone QC Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.TimeExpiredAction">
+        <source>label for Time Expired Action selecton on security interval cards</source>
+        <target>Time Expired Action</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.IntervalType">
+        <source>label for Interval Type selecton on security interval cards</source>
+        <target>Interval Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EnableTimeOfDay2">
+        <source>label for EnableTimeOfDay2 checkbox on security interval cards</source>
+        <target>Enable Time Of Day 2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.EnableTimeOfDay3">
+        <source>label for EnableTimeOfDay3 checkbox on security interval cards</source>
+        <target>Enable Time Of Day 3</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.AfterTime1">
+        <source>Error message when time 2 is not after time 1</source>
+        <target>Must be after time of day 1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.AfterTime2">
+        <source>Error message when time 3 is not after time 2</source>
+        <target>Must be after time of day 2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PatientDataConfirmation">
+        <source>Title for Patient Data Confirmation card on Security Options Tab</source>
+        <target>Patient Data Confirmation</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.NotConfirmedAction">
+        <source>Label for Not Confirmed Action select on Security Options Tab</source>
+        <target>Not Confirmed Action</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.AllowOverride">
+        <source>Label for Allow Override checkbox on Security Options Tab</source>
+        <target>Allow Override</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ConfirmationPrompt">
+        <source>Label for Confirmation Prompt select on Security Options Tab</source>
+        <target>Confirmation Prompt</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OperatorCertification">
+        <source>Title for Operator Certification card on Security Options Tab</source>
+        <target>Operator Certification</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.NotCertifiedAction">
+        <source>label for Not Certified Action select on Security Options Tab</source>
+        <target>Not Certified Action</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.CertExpirationWarning">
+        <source>Title for Certification Expiration Warning input on Security Options Tab</source>
+        <target>Certification Expiration Warning</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.OtherSecurityOptions">
+        <source>Title for Other Security Options card on Security Options Tab</source>
+        <target>Other Security Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.StripLotNotOnListAction">
+        <source>label for Strip Lot Not On List Action select on Security Options Tab</source>
+        <target>Strip Lot Not On List Action</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PortSecurity">
+        <source>label for Port Security select on Security Options Tab</source>
+        <target>Port Security</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.WirelessTimeout">
+        <source>Title for Wireless Timeout input on Security Options Tab</source>
+        <target>Wireless Timeout</target>
+      </trans-unit>
+      
+      <!-- Selection Lists from Backend -->
+      <!-- Time format List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.TimeFormat.hhmmAMPM12">
+        <source>Select list option for time format hh:mm AM/PM, 12 hour</source>
+        <target>hh:mm AM/PM, 12 hour</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.TimeFormat.hmmAMPM12">
+        <source>Select list option for time format h:mm AM/PM, 12 hour</source>
+        <target>h:mm AM/PM, 12 hour</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.TimeFormat.AMPMhmm12">
+        <source>Select list option for time format AM/PM h:mm, 12 hour</source>
+        <target>AM/PM h:mm, 12 hour</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.TimeFormat.hhmm24">
+        <source>Select list option for time format hh:mm, 24 hour</source>
+        <target>hh:mm, 24 hour</target>
+      </trans-unit>
+      
+      <!-- Date Format List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DateFormat.ddmmyy.slash">
+        <source>Select list option for date format dd/mm/yy</source>
+        <target>dd/mm/yy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DateFormat.mmddyy.slash">
+        <source>Select list option for date format mm/dd/yy</source>
+        <target>mm/dd/yy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DateFormat.mmddyy.dash">
+        <source>Select list option for date format mm-dd-yy</source>
+        <target>mm-dd-yy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.DateFormat.ddmmyy.dash">
+        <source>Select list option for date format dd-mm-yy</source>
+        <target>dd-mm-yy</target>
+      </trans-unit>
+      
+      <!-- Security Action List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.AllowTest">
+        <source>Select list option for Security Action List Allow Test</source>
+        <target>Allow Test</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Warn">
+        <source>Select list option for Security Action List Warn</source>
+        <target>Warn</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Lockout">
+        <source>Select list option for Security Action List Lockout</source>
+        <target>Lockout</target>
+      </trans-unit>
+      
+      <!-- Battery Type list -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.BatteryType.NonRechargeable">
+        <source>Select list option for Battery Type NonRechargeable</source>
+        <target>Non-Rechargeable</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.BatteryType.Rechargeable">
+        <source>Select list option for Battery Type Rechargeable</source>
+        <target>Rechargeable</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.BatteryType.Lithium">
+         <source>Select list option for Battery Type Lithium</source>
+         <target>Lithium</target>
+      </trans-unit>
+
+      <!-- Free Text Prompt Lists -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.FreeText1">
+        <source>Select list option for FreeText1 Prompt List FreeText1</source>
+        <target>Free Text 1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.FreeText2">
+        <source>Select list option for FreeText1 Prompt List FreeText2</source>
+        <target>Free Text 2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.PhysicianID">
+        <source>Select list option for FreeText1 Prompt List PhysicianID</source>
+        <target>Physician ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.InsulinType">
+        <source>Select list option for FreeText1 Prompt List InsulinType</source>
+        <target>Insulin Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.InsulinDose">
+        <source>Select list option for FreeText1 Prompt List InsulinDose</source>
+        <target>Insulin Dose</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.PatientID2">
+        <source>Select list option for FreeText1 Prompt List PatientID2</source>
+        <target>Patient ID 2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.ActionCode">
+        <source>Select list option for FreeText1 Prompt List ActionCode</source>
+        <target>Action Code</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.Code">
+        <source>Select list option for FreeText1 Prompt List Code</source>
+        <target>Code</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FreeTextPrompt.ICD9Code">
+        <source>Select list option for FreeText1 Prompt List ICD9Code</source>
+        <target>IC D9 Code</target>
+      </trans-unit>
+      
+      <!-- Disabled Optional Required List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Disabled">
+        <source>Disabled</source>
+        <target>Disabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Optional">
+        <source>Optional</source>
+        <target>Optional</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Required">
+        <source>Required</source>
+        <target>Required</target>
+      </trans-unit>
+      
+      <!-- Control Test Security Type List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ControlTestSecurityType.NumberOfHours">
+        <source>Time Interval</source>
+        <target>Time Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ControlTestSecurityType.TimeOfDay">
+        <source>Time of Day</source>
+        <target>Time of Day</target>
+      </trans-unit>
+      
+      <!-- Check Digit List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.UseCheckDigit">
+        <source>Use Check Digit</source>
+        <target>Use Check Digit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.NoCheckDigit">
+        <source>No Check Digit</source>
+        <target>No Check Digit</target>
+      </trans-unit>
+      
+      <!-- Mod Check Digit List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.IDCheckDigit.None">
+        <source>None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.IDCheckDigit.Mod10">
+        <source>Mod 10</source>
+        <target>Mod 10</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.IDCheckDigit.Mod11">
+        <source>Mod 11</source>
+        <target>Mod 11</target>
+      </trans-unit>
+      
+      <!-- Glucose Sample Type List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.GlucoseSampleType.CapillaryArterial">
+        <source>Capillary/Arterial</source>
+        <target>Capillary/Arterial</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.GlucoseSampleType.Venous">
+        <source>Venous</source>
+        <target>Venous</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.GlucoseSampleType.Prompt">
+        <source>Prompt</source>
+        <target>Prompt</target>
+      </trans-unit>
+      
+      <!-- I 2 of 5 Check Digit List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.I2of5ChkDig.Disabled">
+        <source>No Check Digit</source>
+        <target>No Check Digit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.I2of5ChkDig.USS">
+        <source>USS Check Digit</source>
+        <target>USS Check Digit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.I2of5ChkDig.OPCC">
+        <source>OPCC Check Digit</source>
+        <target>OPCC Check Digit</target>
+      </trans-unit>
+      
+      <!-- ADTConfirmList -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ADTConfirm.C">
+        <source>Confirm</source>
+        <target>Confirm</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ADTConfirm.Y">
+        <source>Year-of-Birth</source>
+        <target>Year-of-Birth</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.ADTConfirm.N">
+        <source>Year-of-Birth (not displayed)</source>
+        <target>Year-of-Birth (not displayed)</target>
+      </trans-unit>
+      
+      <!-- AsciiAlphaList -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FullASCII">
+        <source>Full ASCII</source>
+        <target>Full ASCII</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Alphanumeric">
+        <source>Alphanumeric</source>
+        <target>Alphanumeric</target>
+      </trans-unit>
+      
+      <!-- Enable Disable List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Enable">
+        <source>Enable</source>
+        <target>Enable</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Disable">
+        <source>Disable</source>
+        <target>Disable</target>
+      </trans-unit>
+      
+      <!-- Numeric Pass/Fail List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.PassFail">
+        <source>Pass/Fail entry on numeric pass/fail list</source>
+        <target>Pass/Fail</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Numeric">
+        <source>Numeric entry on numeric pass/fail list</source>
+        <target>Numeric</target>
+      </trans-unit>
+      
+      <!-- Truncation Type List List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.FirstLast">
+        <source>First/Last entry in Truncation Type List</source>
+        <target>#[DeviceConfigurations.AbbottGlucose.First]/#[DeviceConfigurations.AbbottGlucose.Last]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.Selection">
+        <source>Selection entry in Truncation Type List</source>
+        <target>Selection</target>
+      </trans-unit>
+      
+      <!-- Interval Type List -->
+      <trans-unit id="DeviceConfigurations.AbbottGlucose.TimeInterval">
+        <source>Time Interval selection option</source>
+        <target>Time Interval</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

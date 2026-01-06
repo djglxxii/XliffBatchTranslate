@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.4301">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.4302">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.4301">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.4302">
+                <source>Control Solution</source>
+                <target>Control Solution</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.4301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4302">
+                <source>QC-Level 1</source>
+                <target>QC-Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.4303">
+                <source>QC-Level 2</source>
+                <target>QC-Level 2</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.4301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.4302">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.4301">
+                <source>PT</source>
+                <target>PT</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.43001">
+                <source>PT INR</source>
+                <target>PT INR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.43002">
+                <source>PT secs</source>
+                <target>PT secs</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.43003">
+                <source>PT %Quick</source>
+                <target>PT %Quick</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.43010">
+                <source>CQR</source>
+                <target>CQR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.43011">
+                <source>SPT</source>
+                <target>SPT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.43012">
+                <source>SOP</source>
+                <target>SOP</target>
+            </trans-unit>
+            <trans-unit id="RocheCoagulation.CustomQCRanges.RangeMode.Unit">
+                <source>%</source>
+                <target>#[StaticData.UnitsOfMeasure.10]</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

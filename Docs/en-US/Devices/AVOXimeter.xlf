@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.2301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.24">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.63">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.64">
+                <source>Cord</source>
+                <target>Cord</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.65">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.66">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.67">
+                <source>Mixed Venous</source>
+                <target>Mixed Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.68">
+                <source>Neonate</source>
+                <target>Neonate</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.40">
+                <source>COOX</source>
+                <target>COOX</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.480">
+                <source>tHb</source>
+                <target>tHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.481">
+                <source>O2Hb</source>
+                <target>O2Hb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.482">
+                <source>COHb</source>
+                <target>COHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.483">
+                <source>MetHb</source>
+                <target>MetHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.484">
+                <source>O2Ct</source>
+                <target>O2Ct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.485">
+                <source>SO2</source>
+                <target>SO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.486">
+                <source>O2Cap</source>
+                <target>O2Cap</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.487">
+                <source>O2Sat</source>
+                <target>O2Sat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.488">
+                <source>BEB</source>
+                <target>BEB</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.44101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.44101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.44101">
+                <source>Urine</source>
+                <target>Urine</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.441001">
+                <source>Color</source>
+                <target>Color</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441002">
+                <source>Appearance</source>
+                <target>Appearance</target>
+            </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441003">
+                <source>Specific Gravity</source>
+                <target>Specific Gravity</target>
+           </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441004">
+                <source>pH</source>
+                <target>pH</target>
+           </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441005">
+                <source>Glucose</source>
+                <target>Glucose</target>
+           </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441006">
+                <source>Bilirubin</source>
+                <target>Bilirubin</target>
+           </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441007">
+                <source>Ketones</source>
+                <target>Ketones</target>
+           </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441008">
+                <source>Blood</source>
+                <target>Blood</target>
+           </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441009">
+                <source>Protein</source>
+                <target>Protein</target>
+           </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441010">
+                <source>Nitrites</source>
+                <target>Nitrites</target>
+           </trans-unit>
+           <trans-unit id="StaticData.ValueTypes.441011">
+                <source>Leukocytes</source>
+                <target>Leukocytes</target>
+           </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441012">
+                <source>WBC/hpf</source>
+                <target>WBC/hpf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441013">
+                <source>RBC/hpf</source>
+                <target>RBC/hpf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441014">
+                <source>SEP/hpf</source>
+                <target>SEP/hpf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441015">
+                <source>TEP/hpf</source>
+                <target>TEP/hpf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441016">
+                <source>REP/hpf</source>
+                <target>REP/hpf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441017">
+                <source>BAC/hpf</source>
+                <target>BAC/hpf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441018">
+                <source>Crystals/hpf</source>
+                <target>Crystals/hpf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441019">
+                <source>Casts/hpf hyaline/granular</source>
+                <target>Casts/hpf hyaline/granular</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441020">
+                <source>Yeast/hpf</source>
+                <target>Yeast/hpf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441021">
+                <source>Mucus</source>
+                <target>Mucus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.441022">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

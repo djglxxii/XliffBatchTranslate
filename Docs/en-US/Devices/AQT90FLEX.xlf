@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.8011">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.8012">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.8013">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.8021">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.8022">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.8023">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.8001">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8002">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8003">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8004">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8005">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8006">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8007">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8008">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8009">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8011">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8021">
+                <source>LCR</source>
+                <target>LCR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8031">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8041">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8042">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8043">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8044">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8045">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8046">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8047">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8048">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8049">
+                <source>CAL Cartridge</source>
+                <target>CAL Cartridge</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.8011">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8020">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8021">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8022">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8023">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8031">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8041">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8042">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8043">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8044">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8045">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8046">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8047">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8048">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8049">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8050">
+                <source>Cal/Ver LQC Unknown</source>
+                <target>Cal/Ver LQC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8051">
+                <source>Cal/Ver LQC Level 1</source>
+                <target>Cal/Ver LQC Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8052">
+                <source>Cal/Ver LQC Level 2</source>
+                <target>Cal/Ver LQC Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8053">
+                <source>Cal/Ver LQC Level 3</source>
+                <target>Cal/Ver LQC Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8060">
+                <source>Cal/Ver LCR Unknown</source>
+                <target>Cal/Ver LCR Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8061">
+                <source>Cal/Ver LCR Level 1</source>
+                <target>Cal/Ver LCR Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8062">
+                <source>Cal/Ver LCR Level 2</source>
+                <target>Cal/Ver LCR Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8063">
+                <source>Cal/Ver LCR Level 3</source>
+                <target>Cal/Ver LCR Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8071">
+                <source>Built-in QC</source>
+                <target>Built-in QC</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.8001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.8002">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.8003">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.8004">
+                <source>Cal Adjust</source>
+                <target>Cal Adjust</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.8005">
+                <source>Cal/Ver</source>
+                <target>Cal/Ver</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.8007">
+                <source>Built-in QC</source>
+                <target>Built-in QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.8001">
+                <source>Whole Blood</source>
+                <target>Whole Blood</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.8002">
+                <source>Plasma</source>
+                <target>Plasma</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.8001">
+                <source>TnI</source>
+                <target>TnI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8002">
+                <source>TnT</source>
+                <target>TnT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8003">
+                <source>CKMB</source>
+                <target>CKMB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8004">
+                <source>Myo</source>
+                <target>Myo</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8005">
+                <source>NT-proBNP</source>
+                <target>NT-proBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8006">
+                <source>D-dimer</source>
+                <target>D-dimer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8007">
+                <source>PCT</source>
+                <target>PCT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8008">
+                <source>CRP</source>
+                <target>CRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8009">
+                <source>beta-hCG</source>
+                <target>beta-hCG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8010">
+                <source>Multi-Cartridge</source>
+                <target>Multi-Cartridge</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.80001">
+                <source>TnI</source>
+                <target>TnI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80002">
+                <source>TnT</source>
+                <target>TnT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80003">
+                <source>CKMB</source>
+                <target>CKMB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80004">
+                <source>Myo</source>
+                <target>Myo</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80005">
+                <source>NT-proBNP</source>
+                <target>NT-proBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80006">
+                <source>D-dimer</source>
+                <target>D-dimer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80007">
+                <source>PCT</source>
+                <target>PCT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80008">
+                <source>CRP</source>
+                <target>CRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80009">
+                <source>beta-hCG</source>
+                <target>beta-hCG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80100">
+                <source>Temperature</source>
+                <target>Temperature</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80101">
+                <source>Background outliers</source>
+                <target>Background outliers</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80102">
+                <source>Cal Adjust outliers</source>
+                <target>Cal Adjust outliers</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80103">
+                <source>Blank outliers</source>
+                <target>Blank outliers</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80104">
+                <source>Calibration outliers</source>
+                <target>Calibration outliers</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80105">
+                <source>+12V Power Supply</source>
+                <target>+12V Power Supply</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80106">
+                <source>+24V Power Supply A</source>
+                <target>+24V Power Supply A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80107">
+                <source>+24V Power Supply B</source>
+                <target>+24V Power Supply B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80108">
+                <source>+24V Power Supply C</source>
+                <target>+24V Power Supply C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80109">
+                <source>Version validity</source>
+                <target>Version validity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80110">
+                <source>Instrument temperature</source>
+                <target>Instrument temperature</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80111">
+                <source>Number of piercings</source>
+                <target>Number of piercings</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80112">
+                <source>Average temperature (3 min)</source>
+                <target>Average temperature (3 min)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80113">
+                <source>Air temperature</source>
+                <target>Air temperature</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80114">
+                <source>Air flow</source>
+                <target>Air flow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80115">
+                <source>Average dark count</source>
+                <target>Average dark count</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80116">
+                <source>Dark counts, difference</source>
+                <target>Dark counts, difference</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80117">
+                <source>Solid standard, deviation</source>
+                <target>Solid standard, deviation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80118">
+                <source>Flash lamp intensity, deviation</source>
+                <target>Flash lamp intensity, deviation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80119">
+                <source>Voltage</source>
+                <target>Voltage</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80200">
+                <source>Last Name</source>
+                <target>Last Name</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80201">
+                <source>First Name</source>
+                <target>First Name</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80202">
+                <source>DOB</source>
+                <target>DOB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80203">
+                <source>Gender</source>
+                <target>Gender</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80204">
+                <source>Height</source>
+                <target>Height</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80205">
+                <source>Weight</source>
+                <target>Weight</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80206">
+                <source>Age</source>
+                <target>Age</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80207">
+                <source>Gestational Age</source>
+                <target>Gestational Age</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80208">
+                <source>Birth Weight</source>
+                <target>Birth Weight</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.80209">
+                <source>Patient Location</source>
+                <target>Patient Location</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.60201">
+                <source>This translation was intentionally left blank</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60202">
+                <source>This translation was intentionally left blank</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60211">
+                <source>This translation was intentionally left blank</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60212">
+                <source>This translation was intentionally left blank</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60213">
+                <source>This translation was intentionally left blank</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60221">
+                <source>Yellow</source>
+                <target>Yellow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60222">
+                <source>Orange</source>
+                <target>Orange</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60231">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60232">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60233">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.60201">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60211">
+                <source>OF</source>
+                <target>OF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60221">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60231">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.60201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60210">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60211">
+                <source>Yellow Optical QC</source>
+                <target>Yellow Optical QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60212">
+                <source>Orange Optical QC</source>
+                <target>Orange Optical QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60213">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60214">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60215">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60220">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60221">
+                <source>Yellow Optical QC</source>
+                <target>Yellow Optical QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60222">
+                <source>Orange Optical QC</source>
+                <target>Orange Optical QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60223">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60224">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60225">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60231">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.60201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60202">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60203">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.602001">
+                <source>tHb</source>
+                <target>tHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.602002">
+                <source>O2Hb</source>
+                <target>O2Hb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.602003">
+                <source>O2Ct</source>
+                <target>O2Ct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.602004">
+                <source>Site</source>
+                <target>Site</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.602005">
+                <source>Site Code</source>
+                <target>Site Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.602006">
+                <source>Sub-Site</source>
+                <target>Sub-Site</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.602007">
+                <source>Sub-Site Code</source>
+                <target>Sub-Site Code</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

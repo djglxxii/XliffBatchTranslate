@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.6311">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6312">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6313">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6321">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6322">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6323">
+                <source>Other</source>
+                <target>Other</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.6311">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.6301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6310">
+                <source>QC - Unknown</source>
+                <target>QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6311">
+                <source>QC - Level 1</source>
+                <target>QC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6312">
+                <source>QC - Level 2</source>
+                <target>QC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6313">
+                <source>QC - Level 3</source>
+                <target>QC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6321">
+                <source>QC - Normal</source>
+                <target>QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6322">
+                <source>QC - Abnormal</source>
+                <target>QC - Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6323">
+                <source>QC - Other</source>
+                <target>QC - Other</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.6301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6302">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.6301">
+                <source>Chemstrip 5 OB</source>
+                <target>Chemstrip 5 OB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6302">
+                <source>Chemstrip 7</source>
+                <target>Chemstrip 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6303">
+                <source>Chemstrip 10</source>
+                <target>Chemstrip 10</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.63001">
+                <source>Specific Gravity</source>
+                <target>Specific Gravity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63002">
+                <source>pH</source>
+                <target>pH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63003">
+                <source>Leukocytes</source>
+                <target>Leukocytes</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63004">
+                <source>Nitrite</source>
+                <target>Nitrite</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63005">
+                <source>Protein</source>
+                <target>Protein</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63006">
+                <source>Glucose</source>
+                <target>Glucose</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63007">
+                <source>Ketone</source>
+                <target>Ketone</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63008">
+                <source>Urobilinogen</source>
+                <target>Urobilinogen</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63009">
+                <source>Bilirubin</source>
+                <target>Bilirubin</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63010">
+                <source>Blood</source>
+                <target>Blood</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63101">
+                <source>Measurement No.</source>
+                <target>Measurement No.</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63102">
+                <source>Series No.</source>
+                <target>Series No.</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63103">
+                <source>Last Cal.</source>
+                <target>Last Cal.</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63104">
+                <source>Limit Table</source>
+                <target>Limit Table</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.63105">
+                <source>Measurement Type</source>
+                <target>Measurement Type</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

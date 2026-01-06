@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.5611">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5612">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5613">
+                <source>3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5621">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5622">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5623">
+                <source>3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.5601">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5602">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5603">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5604">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5605">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5606">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5607">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5611">
+                <source>QC Cardiac Marker</source>
+                <target>QC Cardiac Marker</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5612">
+                <source>QC D-dimer</source>
+                <target>QC D-dimer</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.5601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5602">
+                <source>QC - Unknown</source>
+                <target>QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5610">
+                <source>QC - CM</source>
+                <target>QC - CM</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5611">
+                <source>QC - CM Level 1</source>
+                <target>QC - CM Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5612">
+                <source>QC - CM Level 2</source>
+                <target>QC - CM Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5613">
+                <source>QC - CM Level 3</source>
+                <target>QC - CM Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5620">
+                <source>QC - D-dimer</source>
+                <target>QC - D-dimer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5621">
+                <source>QC - D-dimer Level 1</source>
+                <target>QC - D-dimer Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5622">
+                <source>QC - D-dimer Level 2</source>
+                <target>QC - D-dimer Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5623">
+                <source>QC - D-dimer Level 3</source>
+                <target>QC - D-dimer Level 3</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.5601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5602">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.5601">
+                <source>Whole Blood</source>
+                <target>Whole Blood</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5602">
+                <source>Plasma/Serum</source>
+                <target>Plasma/Serum</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.5601">
+                <source>cTnI-II</source>
+                <target>cTnI-II</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5602">
+                <source>CK-MB-II</source>
+                <target>CK-MB-II</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5603">
+                <source>Myo-II</source>
+                <target>Myo-II</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5604">
+                <source>NTproBNP</source>
+                <target>NTproBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5605">
+                <source>D-Dimer</source>
+                <target>D-Dimer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5606">
+                <source>hsCRP</source>
+                <target>hsCRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5607">
+                <source>hs-cTnI-II</source>
+                <target>hs-cTnI-II</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.56001">
+                <source>cTnI-II</source>
+                <target>cTnI-II</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56002">
+                <source>CK-MB-II</source>
+                <target>CK-MB-II</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56003">
+                <source>Myo-II</source>
+                <target>Myo-II</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56004">
+                <source>NTproBNP</source>
+                <target>NTproBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56005">
+                <source>D-Dimer</source>
+                <target>D-Dimer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56006">
+                <source>hsCRP</source>
+                <target>hsCRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56007">
+                <source>hsTnI-II</source>
+                <target>hsTnI-II</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56100">
+                <source>Hct</source>
+                <target>Hct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56200">
+                <source>CalTime</source>
+                <target>CalTime</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56300">
+                <source>Name</source>
+                <target>Name</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56301">
+                <source>DOB</source>
+                <target>DOB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.56302">
+                <source>Gender</source>
+                <target>Gender</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

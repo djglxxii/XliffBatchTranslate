@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.8601">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8602">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8603">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8604">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8605">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8606">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8607">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8608">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8609">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8610">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8611">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8612">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8613">
+                <source>Test Material</source>
+                <target>Test Material</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8681">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8682">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8683">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8684">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8685">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8686">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8687">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8688">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8689">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8690">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8691">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8692">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.8693">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.8601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8681">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8682">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8683">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8684">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8685">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8686">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8687">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8688">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8689">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8690">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8691">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8692">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.8693">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.8601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.8603">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.8601">
+                <source>Influenza</source>
+                <target>Influenza</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8602">
+                <source>GAS</source>
+                <target>GAS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8603">
+                <source>Trich</source>
+                <target>Trich</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8604">
+                <source>Strep Comp</source>
+                <target>Strep Comp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8605">
+                <source>HSV 1+2-VZV</source>
+                <target>HSV 1+2-VZV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8606">
+                <source>C difficile</source>
+                <target>C difficile</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8607">
+                <source>HSV 1+2</source>
+                <target>HSV 1+2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8608">
+                <source>VZV</source>
+                <target>VZV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8609">
+                <source>RSV+hMPV</source>
+                <target>RSV+hMPV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8610">
+                <source>RSV</source>
+                <target>RSV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8611">
+                <source>hMPV</source>
+                <target>hMPV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8612">
+                <source>Bordetella</source>
+                <target>Bordetella</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.8613">
+                <source>GBS</source>
+                <target>GBS</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.86001">
+                <source>InfluenzaA</source>
+                <target>InfluenzaA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86002">
+                <source>InfluenzaB</source>
+                <target>InfluenzaB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86003">
+                <source>GAS</source>
+                <target>GAS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86004">
+                <source>Trich</source>
+                <target>Trich</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86005">
+                <source>Reference</source>
+                <target>Reference</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86006">
+                <source>Target</source>
+                <target>Target</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86007">
+                <source>HSV-1</source>
+                <target>HSV-1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86008">
+                <source>HSV-2</source>
+                <target>HSV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86009">
+                <source>VZV</source>
+                <target>VZV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86010">
+                <source>Cdiff</source>
+                <target>Cdiff</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86011">
+                <source>RSV</source>
+                <target>RSV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86012">
+                <source>hMPV</source>
+                <target>hMPV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86013">
+                <source>BP</source>
+                <target>BP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86014">
+                <source>BPP</source>
+                <target>BPP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.86015">
+                <source>GBS</source>
+                <target>GBS</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

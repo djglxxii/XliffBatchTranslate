@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.3001">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3002">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.3001">
+                <source>Card/Cartridge/Cuvette</source>
+                <target>Card/Cartridge/Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3002">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.3001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3002">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3003">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.3001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.3002">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.30001">
+                <source>Control Bar</source>
+                <target>Control Bar</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30002">
+                <source>Cocaine</source>
+                <target>Cocaine</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30003">
+                <source>Barbiturate</source>
+                <target>Barbiturate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30004">
+                <source>PCP</source>
+                <target>PCP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30005">
+                <source>Meth</source>
+                <target>Meth</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30006">
+                <source>TCA</source>
+                <target>TCA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30007">
+                <source>Morphine</source>
+                <target>Morphine</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30008">
+                <source>Amphetamine</source>
+                <target>Amphetamine</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30009">
+                <source>THC</source>
+                <target>THC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30010">
+                <source>Benzodiazepines</source>
+                <target>Benzodiazepines</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30011">
+                <source>MDMA</source>
+                <target>MDMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30012">
+                <source>Methadone</source>
+                <target>Methadone</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30013">
+                <source>Propoxyphene</source>
+                <target>Propoxyphene</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30014">
+                <source>Control Result</source>
+                <target>Control Result</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30015">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30016">
+                <source>Kit Lot</source>
+                <target>Kit Lot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30017">
+                <source>Buprenorphine</source>
+                <target>Buprenorphine</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30018">
+                <source>Oxycodone</source>
+                <target>Oxycodone</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30019">
+                <source>Opiates</source>
+                <target>Opiates</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30020">
+                <source>EDDP</source>
+                <target>EDDP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.30021">
+                <source>Fentanyl</source>
+                <target>Fentanyl</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

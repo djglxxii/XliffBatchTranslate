@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.6401">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6402">
+                <source>Norm</source>
+                <target>Norm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6403">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6411">
+                <source>Control Cuvette</source>
+                <target>Control Cuvette</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.6401">
+                <source>Cuvette</source>
+                <target>Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6411">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6421">
+                <source>Control Cuvette</source>
+                <target>Control Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6431">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.6401">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6410">
+                <source>QC - Unknown</source>
+                <target>QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6411">
+                <source>QC - Low</source>
+                <target>QC - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6412">
+                <source>QC - Norm</source>
+                <target>QC - Norm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6413">
+                <source>QC - High</source>
+                <target>QC - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6414">
+                <source>QC - Low</source>
+                <target>QC - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6415">
+                <source>QC - Norm</source>
+                <target>QC - Norm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6416">
+                <source>QC - High</source>
+                <target>QC - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6420">
+                <source>QC - Unknown</source>
+                <target>QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6421">
+                <source>QC - Control Cuvette</source>
+                <target>QC - Control Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6422">
+                <source>QC - Control Cuvette</source>
+                <target>QC - Control Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6431">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6432">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.6401">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6402">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6403">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.6401">
+                <source>HGB</source>
+                <target>HGB</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.64001">
+                <source>HGB</source>
+                <target>HGB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.64101">
+                <source>HCT</source>
+                <target>HCT</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.53201">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.53202">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.53201">
+                <source>Card</source>
+                <target>Card</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.53202">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.53201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.53202">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.53203">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.53201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.53202">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.53201">
+                <source>Swab</source>
+                <target>Swab</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.53202">
+                <source>Aspirate</source>
+                <target>Aspirate</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.532001">
+                <source>Flu A</source>
+                <target>Flu A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.532002">
+                <source>Flu B</source>
+                <target>Flu B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.532003">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.532004">
+                <source>Elution Solution</source>
+                <target>Elution Solution</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.532005">
+                <source>Viral Transport Media</source>
+                <target>Viral Transport Media</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.532006">
+                <source>Applicator</source>
+                <target>Applicator</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.532007">
+                <source>Kit Lot</source>
+                <target>Kit Lot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.532008">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

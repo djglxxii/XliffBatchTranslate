@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+       <trans-unit id="DeviceConfigurations.SignatureElite.EQCFunctions">
+         <source>EQC</source>
+         <target>EQC</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.EQCRequired">
+         <source>Normal, Abnormal, and Temperature Check</source>
+         <target>Normal, Abnormal, and Temperature Check</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.AutoEQC">
+         <source>Auto EQC</source>
+         <target>Auto EQC</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.NormalDateFormat">
+         <source>MM/DD/YYYY</source>
+         <target>MM/DD/YYYY</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.AlternateDateFormat">
+         <source>YY-MM-DD</source>
+         <target>YY-MM-DD</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.SupervisorPin">
+         <source>Supervisor PIN</source>
+         <target>Supervisor PIN</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.ResultsRemain">
+         <source>Number of Results to Remain on Meter</source>
+         <target>Number of Results to Remain on Meter</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.Patient">
+         <source>Patient</source>
+         <target>Patient</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.IDEntry">
+         <source>ID Entry</source>
+         <target>ID Entry</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.IDEntryMode">
+         <source>ID Default Entry Mode</source>
+         <target>ID Default Entry Mode</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.NoIdEntry">
+         <source>None</source>
+         <target>None</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.ManualBarcodeScan">
+         <source>Manual/Barcode Scan</source>
+         <target>Manual/Barcode Scan</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.ManualBarcodeScanWithConfirmation">
+         <source>Barcode Scan/Manual With Confirmation</source>
+         <target>Barcode Scan/Manual With Confirmation</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.Numbers">
+         <source>Numbers</source>
+         <target>Numbers</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.Letters">
+         <source>Letters</source>
+         <target>Letters</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.IDLength">
+         <source>ID Length</source>
+         <target>ID Length</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.Minimum">
+         <source>Minimum</source>
+         <target>Minimum</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.Maximum">
+         <source>Maximum</source>
+         <target>Maximum</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.ReuseID">
+         <source>Re-use ID</source>
+         <target>Re-use ID</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.OperatorIDValidation">
+         <source>Valid Operator ID Required</source>
+         <target>Valid Operator ID Required</target>
+       </trans-unit>
+       <trans-unit id="DeviceConfigurations.SignatureElite.Operator">
+         <source>Operator</source>
+         <target>Operator</target>
+       </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.QcResultDisplay">
+        <source>QC Result Display</source>
+        <target>QC Result Display</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.Numeric">
+        <source>Numeric</source>
+        <target>Numeric</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.PassFail">
+        <source>Pass/Fail</source>
+        <target>Pass/Fail</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.CuvetteLotEntry">
+        <source>Cuvette Lot Entry</source>
+        <target>Cuvette Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.QcLotEntry">
+        <source>QC Lot Entry</source>
+        <target>QC Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.ValidLotRequired">
+        <source>Valid Lot Required</source>
+        <target>Valid Lot Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.NoLotRequested">
+        <source>No Lot Requested</source>
+        <target>No Lot Requested</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.ListScanManualEntry">
+        <source>Select From List/Scan/Manual Entry</source>
+        <target>Select From List/Scan/Manual Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.ScanManualEntry">
+        <source>Scan/Manual Entry</source>
+        <target>Scan/Manual Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.ListScan">
+        <source>Select From List/Scan</source>
+        <target>Select From List/Scan</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.LotEntry">
+        <source>Lot Entry</source>
+        <target>Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.Qc">
+        <source>QC</source>
+        <target>QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.Normal">
+        <source>Normal</source>
+        <target>Normal</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignatureElite.Abnormal">
+        <source>Abnormal</source>
+        <target>Abnormal</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

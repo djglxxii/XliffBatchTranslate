@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Settings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.DeviceOptions">
+        <source>Device Options</source>
+        <target>Device Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.DatabaseErase">
+        <source>Allow Patient and QC Database Erase</source>
+        <target>Allow Patient and QC Database Erase</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.DisplayTestsRemaining">
+        <source>Show Detailed Test Information</source>
+        <target>Show Detailed Test Information</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.DateFormat">
+        <source>Date Format</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.MMDDYY">
+        <source>MMDDYY</source>
+        <target>MMDDYY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.DDMMYY">
+        <source>DDMMYY</source>
+        <target>DDMMYY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.YYMMDD">
+        <source>YYMMDD</source>
+        <target>YYMMDD</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.TimeFormat">
+        <source>Time Format</source>
+        <target>Time Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.N12HR">
+        <source>N12HR</source>
+        <target>N12HR</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.N24HR">
+        <source>N24HR</source>
+        <target>N24HR</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.FixedInterval">
+        <source>Fixed</source>
+        <target>Fixed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.RollingInterval">
+        <source>Rolling</source>
+        <target>Rolling</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LockoutInterval">
+         <source>Lockout Interval</source>
+         <target>Lockout Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.PatientIdOptions">
+         <source>Patient ID Options</source>
+         <target>Patient ID Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.PatientIdEntry">
+        <source>Patient ID Entry</source>
+        <target>Patient ID Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.PatientNone">
+        <source>Not Required</source>
+        <target>Not Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.PatientManualOrScan">
+        <source>Required (Scan or Manual Entry)</source>
+        <target>Required (Scan or Manual Entry)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.PatientScanOnly">
+        <source>Required (Scan Only)</source>
+        <target>Required (Scan Only)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.PatientIdLengthMin">
+        <source>Patient ID Length Minimum</source>
+        <target>Patient ID Length Minimum</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.PatientIdLengthMax">
+        <source>Patient ID Length Maximum</source>
+        <target>Patient ID Length Maximum</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.BarcodeMaskErrorMessage">
+        <source>Ccn only</source>
+        <target>Ccn only</target>
+      </trans-unit>
+	    <trans-unit id="DeviceConfigurations.GemHemochron100.DisplayReUsePatientId">
+        <source>Enable Re-Use Patient ID</source>
+        <target>Enable Re-Use Patient ID</target>
+	    </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.ReUsePatientId">
+        <source>Re-Use Patient ID</source>
+        <target>Re-Use Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OperatorOptions">
+        <source>Operator Options</source>
+        <target>Operator Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OperatorIdEntry">
+        <source>Operator ID Entry</source>
+        <target>Operator ID Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OperatorNone">
+        <source>Not Required</source>
+        <target>Not Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OperatorManualOrScan">
+        <source>Required (Scan or Manual Entry)</source>
+        <target>Required (Scan or Manual Entry)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OperatorScanOnly">
+        <source>Required (Scan Only)</source>
+        <target>Required (Scan Only)</target>
+      </trans-unit>
+	    <trans-unit id="DeviceConfigurations.GemHemochron100.RegisteredOperatorIdRequired">
+        <source>Registered Operator ID Required</source>
+        <target>Registered Operator ID Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.DisplayOidReuseHoursId">
+        <source>Enable Re-Use Operator ID</source>
+        <target>Enable Re-Use Operator ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.ReUseOperatorId">
+        <source>Re-Use Operator ID</source>
+        <target>Re-Use Operator ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OidPidAutoLogout">
+        <source>OID/PID Automatic Logout (Hours)</source>
+        <target>OID/PID Automatic Logout (Hours)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OidPidAutoLogout.TimeRange">
+        <source>Automatic Logout must be between 0:00-720:00 hours and be in the format HHH:MM. 0:00 disables Automatic Logout</source>
+        <target>Automatic Logout must be between 0:00-720:00 hours and be in the format HHH:MM. 0:00 disables Automatic Logout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OperatorPwRequired">
+        <source>Operator Password Required</source>
+        <target>Operator Password Required</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.GemHemochron100.ResultOptions">
+        <source>Result Options</source>
+        <target>Result Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcHide">
+        <source>LQC Hide</source>
+        <target>LQC Hide</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcHide.Numeric">
+        <source>Numeric</source>
+        <target>Numeric</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcHide.PassFail">
+        <source>Pass/Fail</source>
+        <target>Pass/Fail</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LotEntry">
+        <source>Lot Entry</source>
+        <target>Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.CuvettePreStoredOnly">
+        <source>Cuvette Lot Pre-stored Only</source>
+        <target>Cuvette Lot Pre-stored Only</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcPreStoredOnly">
+        <source>LQC Lot Pre-stored Only</source>
+        <target>LQC Lot Pre-stored Only</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.QcLotScanOnly">
+        <source>LQC Lot Entry</source>
+        <target>LQC Lot Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.QcLotScanOnly.ScanManualEntry">
+        <source>Scan/Manual Entry</source>
+        <target>Scan/Manual Entry</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.QcLotScanOnly.BarcodeScanOnly">
+        <source>Barcode Scan Only</source>
+        <target>Barcode Scan Only</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Control">
+        <source>Control</source>
+        <target>Control</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.AvailableTests">
+        <source>Available Tests</source>
+        <target>Available Tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.RequiredLevels">
+        <source>Required Levels</source>
+        <target>Required Levels</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcLevel1">
+        <source>LQC Normal</source>
+        <target>LQC Normal</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcLevel2">
+        <source>LQC Abnormal</source>
+        <target>LQC Abnormal</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LockoutControl">
+        <source>Lockout Control</source>
+        <target>Lockout Control</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.QcInterval">
+        <source>QC Interval</source>
+        <target>QC Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcLevel1Start">
+        <source>LQC Normal – Start Date and Time</source>
+        <target>LQC Normal – Start Date and Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcLevel2Start">
+        <source>LQC Abnormal – Start Date and Time</source>
+        <target>LQC Abnormal – Start Date and Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.LqcFailureLimit">
+        <source>LQC Failure Limit</source>
+        <target>LQC Failure Limit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.QcMaxTestsAfterLockout">
+        <source>Maximum Patient Tests Allowed After Lockout</source>
+        <target>Maximum Patient Tests Allowed After Lockout</target>
+      </trans-unit>
+
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Eqc">
+        <source>EQC</source>
+        <target>EQC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.EqcRequired">
+        <source>EQC Required</source>
+        <target>EQC Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.AutoEqc">
+        <source>Auto EQC</source>
+        <target>Auto EQC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.EqcLevel1">
+        <source>EQC Level 1</source>
+        <target>EQC Level 1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.EqcLevel2">
+        <source>EQC Level 2</source>
+        <target>EQC Level 2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.StartDateAndTime">
+        <source>Start Date and Time</source>
+        <target>Start Date and Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.EqcFailureLimit">
+        <source>EQC Failure Limit</source>
+        <target>EQC Failure Limit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.BarcodeType">
+        <source>Barcode Type</source>
+        <target>Barcode Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.PatientBarcode">
+        <source>Patient Barcode</source>
+        <target>Patient Barcode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.OperatorBarcode">
+        <source>Operator Barcode</source>
+        <target>Operator Barcode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.0">
+        <source>All</source>
+        <target>All</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.1">
+        <source>MicroPDF417</source>
+        <target>MicroPDF417</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.2">
+        <source>PDF417</source>
+        <target>PDF417</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.3">
+        <source>Code 128</source>
+        <target>Code 128</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.4">
+        <source>Code 39</source>
+        <target>Code 39</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.5">
+        <source>Aztec</source>
+        <target>Aztec</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.6">
+        <source>QR Code</source>
+        <target>QR Code</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.7">
+        <source>Code 93</source>
+        <target>Code 93</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.8">
+        <source>Codabar</source>
+        <target>Codabar</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.9">
+        <source>Code 11</source>
+        <target>Code 11</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.10">
+        <source>EAN/JAN-13</source>
+        <target>EAN/JAN-13</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.11">
+        <source>EAN/JAN-8</source>
+        <target>EAN/JAN-8</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.12">
+        <source>Interleaved 2 of 5</source>
+        <target>Interleaved 2 of 5</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.13">
+        <source>Matrix 2 of 5</source>
+        <target>Matrix 2 of 5</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.14">
+        <source>GS1 Databar (Formerly RSS-14)</source>
+        <target>GS1 Databar (Formerly RSS-14)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.15">
+        <source>GS1-128 (Formerly UCC-EAN128)</source>
+        <target>GS1-128 (Formerly UCC-EAN128)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.16">
+        <source>GS1 Databar Limited (Formerly RSS-Limited)</source>
+        <target>GS1 Databar Limited (Formerly RSS-Limited)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.17">
+        <source>GS1 Databar Expanded (Formerly RSS-Expanded)</source>
+        <target>GS1 Databar Expanded (Formerly RSS-Expanded)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.18">
+        <source>MSI</source>
+        <target>MSI</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.19">
+        <source>Telepen</source>
+        <target>Telepen</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.20">
+        <source>UPC-A</source>
+        <target>UPC-A</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.21">
+        <source>UPC-E</source>
+        <target>UPC-E</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.22">
+        <source>UPC-E1</source>
+        <target>UPC-E1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.23">
+        <source>DataMatrix</source>
+        <target>DataMatrix</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemocrhon100.Barcodes.24">
+        <source>Maxicode</source>
+        <target>Maxicode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.BarcodeSymbology">
+        <source>Barcode Symbology</source>
+        <target>Barcode Symbology</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.CharacterPositions">
+        <source>Character Positions</source>
+        <target>Character Positions</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.CharacterPositions.ErrorMessage">
+        <source>Must be a comma separated list of integer ranges. Allows up to 20 characters. May contain numbers , and -</source>
+        <target>Must be a comma separated list of integer ranges. Allows up to 20 characters. May contain numbers , and -</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.CharacterFilter">
+        <source>Character Filter</source>
+        <target>Character Filter</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.FieldDelimiter">
+        <source>Field Delimiter</source>
+        <target>Field Delimiter</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.FieldNumber">
+        <source>Field Number</source>
+        <target>Field Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.Prefix">
+        <source>Prefix</source>
+        <target>Prefix</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.Suffix">
+        <source>Suffix</source>
+        <target>Suffix</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.CheckDigitEnabled">
+        <source>Check Digit Enabled</source>
+        <target>Check Digit Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.GemHemochron100.Barcodes.AllCharactersAllowed.ErrorMessage">
+        <source>Must be between 0-20 characters</source>
+        <target>Must be between 0-20 characters</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

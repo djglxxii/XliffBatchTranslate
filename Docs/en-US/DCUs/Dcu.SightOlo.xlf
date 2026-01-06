@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <!-- Device Settings Tab-->
+      <trans-unit id="DeviceConfigurations.SightOlo.AutomaticLogoutId">
+        <source>Automatic Logout</source>
+        <target>Automatic Logout</target>
+      </trans-unit>
+
+		<!-- Device Autoatic Logout options-->
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.Never">
+			<source>Never</source>
+			<target>Never</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.1Minute">
+			<source>1 Minute</source>
+			<target>1 Minute</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.2Minutes">
+			<source>2 Minutes</source>
+			<target>2 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.3Minutes">
+			<source>3 Minutes</source>
+			<target>3 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.4Minutes">
+			<source>4 Minutes</source>
+			<target>4 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.5Minutes">
+			<source>5 Minutes</source>
+			<target>5 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.10Minutes">
+			<source>10 Minutes</source>
+			<target>10 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.15Minutes">
+			<source>15 Minutes</source>
+			<target>15 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.20Minutes">
+			<source>20 Minutes</source>
+			<target>20 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.25Minutes">
+			<source>25 Minutes</source>
+			<target>25 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.30Minutes">
+			<source>30 Minutes</source>
+			<target>30 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.35Minutes">
+			<source>35 Minutes</source>
+			<target>35 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.40Minutes">
+			<source>40 Minutes</source>
+			<target>40 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.45Minutes">
+			<source>45 Minutes</source>
+			<target>45 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.50Minutes">
+			<source>50 Minutes</source>
+			<target>50 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.55Minutes">
+			<source>55 Minutes</source>
+			<target>55 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOlo.LogoutMinutes.60Minutes">
+			<source>60 Minutes</source>
+			<target>60 Minutes</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.QCRangeStandardDeviations">
+			<source>QC Out of Range</source>
+			<target>QC Out of Range</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.QCRangeStandardDeviations.2SDs">
+			<source>Outside ±2SD Range</source>
+			<target>Outside ±2SD Range</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.QCRangeStandardDeviations.3SDs">
+			<source>Outside ±3SD Range</source>
+			<target>Outside ±3SD Range</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.Title">
+			<source>Reference Ranges</source>
+			<target>Reference Ranges</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroup">
+			<source>Demographic Group</source>
+			<target>Demographic Group</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.Analyte">
+			<source>Parameters</source>
+			<target>Parameters</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.Analyte.Units">
+			<source>Units</source>
+			<target>Units</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.Analyte.Range.Reference.High">
+			<source>High</source>
+			<target>High</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.Analyte.Range.Reference.Low">
+			<source>Low</source>
+			<target>Low</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DisplayRange">
+			<source>Display Range</source>
+			<target>Display Range</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroupName.F22">
+			<source>Adult Female 22+</source>
+			<target>Adult Female 22+</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroupName.M22">
+			<source>Adult Male 22+</source>
+			<target>Adult Male 22+</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroupName.F18">
+			<source>Transitional Adolescent Female 18-21</source>
+			<target>Transitional Adolescent Female 18-21</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroupName.M18">
+			<source>Transitional Adolescent Male 18-21</source>
+			<target>Transitional Adolescent Male 18-21</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroupName.F12">
+			<source>Adolescent Female 12-17</source>
+			<target>Adolescent Female 12-17</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroupName.M12">
+			<source>Adolescent Male 12-17</source>
+			<target>Adolescent Male 12-17</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroupName.C2">
+			<source>Child 2-11</source>
+			<target>Child 2-11</target>
+		</trans-unit>
+		<trans-unit id="DeviceConfigurations.SightOLO.ReferenceRanges.DemographicGroupName.B3m">
+			<source>Baby 3-23 months</source>
+			<target>Baby 3-23 months</target>
+		</trans-unit>
+    </body>
+  </file>
+</xliff>

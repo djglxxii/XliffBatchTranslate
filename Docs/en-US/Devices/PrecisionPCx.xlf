@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.60">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.61">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.62">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.65">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.66">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.67">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.68">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.40">
+                <source>Strip</source>
+                <target>Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.41">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.42">
+                <source>Cal-Ver</source>
+                <target>Cal-Ver</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.2401">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2402">
+                <source>Quality Check Code</source>
+                <target>Quality Check Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2403">
+                <source>Control - Level 1</source>
+                <target>Control - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2404">
+                <source>Control - Level 2</source>
+                <target>Control - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2405">
+                <source>Control - Level 3</source>
+                <target>Control - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2406">
+                <source>Cal/Ver - Level 1</source>
+                <target>Cal/Ver - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2407">
+                <source>Cal/Ver - Level 2</source>
+                <target>Cal/Ver - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2408">
+                <source>Cal/Ver - Level 3</source>
+                <target>Cal/Ver - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2409">
+                <source>Cal/Ver - Level 4</source>
+                <target>Cal/Ver - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2410">
+                <source>Cal/Ver - Level 5</source>
+                <target>Cal/Ver - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.2411">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.45">
+                <source>Test Result</source>
+                <target>Test Result</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.46">
+                <source>Quality Check Code</source>
+                <target>Quality Check Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.47">
+                <source>Control Result</source>
+                <target>Control Result</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.48">
+                <source>Cal/Ver Result</source>
+                <target>Cal/Ver Result</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.49">
+                <source>Proficiency Result</source>
+                <target>Proficiency Result</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.65">
+                <source>PCx Glucose</source>
+                <target>PCx Glucose</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.66">
+                <source>PCx Plus Glucose</source>
+                <target>PCx Plus Glucose</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.650">
+                <source>Glu</source>
+                <target>Glu</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3001001">
+                <source>T low</source>
+                <target>T low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001002">
+                <source>T high</source>
+                <target>T high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001003">
+                <source>T high : T low</source>
+                <target>T high : T low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001004">
+                <source>T pause</source>
+                <target>T pause</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001005">
+                <source>T plat</source>
+                <target>T plat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001006">
+                <source>T insp</source>
+                <target>T insp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001007">
+                <source>T insp spont</source>
+                <target>T insp spont</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001008">
+                <source>T exp</source>
+                <target>T exp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001009">
+                <source>T max</source>
+                <target>T max</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001010">
+                <source>TCT</source>
+                <target>TCT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001011">
+                <source>I:E ratio</source>
+                <target>I:E ratio</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001012">
+                <source>Rise time</source>
+                <target>Rise time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001013">
+                <source>Slope</source>
+                <target>Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001014">
+                <source>Step time</source>
+                <target>Step time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001015">
+                <source>T PEEP</source>
+                <target>T PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001016">
+                <source>T eq PEEP</source>
+                <target>T eq PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3001017">
+                <source>T insp rise %</source>
+                <target>T insp rise %</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

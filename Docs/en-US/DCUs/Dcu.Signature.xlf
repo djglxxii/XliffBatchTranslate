@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.Signature.AvailableTests">
+        <source>Available Tests</source>
+        <target>Available Tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.Required">
+        <source>Required</source>
+        <target>Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.LowLimit">
+        <source>Low Limit</source>
+        <target>Low Limit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.HighLimit">
+        <source>High Limit</source>
+        <target>High Limit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.NormalTest">
+        <source>Normal</source>
+        <target>Normal</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.AbnormalTest">
+        <source>Abnormal</source>
+        <target>Abnormal</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.Lockout">
+        <source>Lockout</source>
+        <target>Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.LockoutInterval">
+        <source>Interval</source>
+        <target>Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.LockoutDate">
+        <source>Shift Start Date and Time</source>
+        <target>Shift Start Date and Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.QCFunctions">
+        <source>QC</source>
+        <target>QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.MilitaryTimeFormat">
+        <source>24 Hr</source>
+        <target>24 Hr</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.NormalTimeFormat">
+        <source>12 Hr (AM/PM)</source>
+        <target>12 Hr (AM/PM)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.ScreenPowerSaverOn">
+        <source>Screen Power Saver On</source>
+        <target>Screen Power Saver On</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.LockClock">
+        <source>Lock Clock Date and Time Change</source>
+        <target>Lock Clock Date and Time Change</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.LockPatientErase">
+        <source>Lock Patient and QC Database Erase</source>
+        <target>Lock Patient and QC Database Erase</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.MeterFunctions">
+        <source>Meter Functions</source>
+        <target>Meter Functions</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.DateFormat">
+        <source>Date Format</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.TimeFormat">
+        <source>Time Format</source>
+        <target>Time Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.InstrumentOptions">
+        <source>Instrument Options</source>
+        <target>Instrument Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.DeviceSettings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.Results">
+        <source>Results</source>
+        <target>Results</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.MaxPatientTests">
+        <source>Maximum Patient Test Allowed After EQC/LQC Lockout</source>
+        <target>Maximum Patient Test Allowed After EQC/LQC Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.FailureLimit">
+        <source>Failure Limits</source>
+        <target>Failure Limits</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.EqcLimit">
+        <source>EQC</source>
+        <target>EQC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Signature.LqcLimit">
+        <source>LQC</source>
+        <target>LQC</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

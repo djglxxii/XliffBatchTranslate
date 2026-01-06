@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.60301">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60302">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.60301">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60303">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60304">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60320">
+                <source>QC HPT</source>
+                <target>QC HPT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60321">
+                <source>QC HR-ACT</source>
+                <target>QC HR-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60330">
+                <source>HEPtrac</source>
+                <target>HEPtrac</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60390">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.60301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60302">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60303">
+                <source>QC Unknown</source>
+                <target>QC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60304">
+                <source>QC Normal</source>
+                <target>QC Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60305">
+                <source>QC Abnormal</source>
+                <target>QC Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60306">
+                <source>QC Unknown</source>
+                <target>QC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60310">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60390">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.60301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60302">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60303">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60304">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.60301">
+                <source>HPT</source>
+                <target>HPT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60302">
+                <source>HPT/HR-ACT</source>
+                <target>HPT/HR-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60303">
+                <source>HR-ACT</source>
+                <target>HR-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60304">
+                <source>HDR</source>
+                <target>HDR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60320">
+                <source>HEPtrac</source>
+                <target>HEPtrac</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.603001">
+                <source>Block Temp</source>
+                <target>Block Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603002">
+                <source>Sex</source>
+                <target>Sex</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603003">
+                <source>Height (Metric)</source>
+                <target>Height (Metric)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603004">
+                <source>Height (Std.)</source>
+                <target>Height (Std.)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603005">
+                <source>Weight (Metric)</source>
+                <target>Weight (Metric)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603006">
+                <source>Weight (Std.)</source>
+                <target>Weight (Std.)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603007">
+                <source>Pat Blood Vol</source>
+                <target>Pat Blood Vol</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603008">
+                <source>Pump Vol</source>
+                <target>Pump Vol</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603009">
+                <source>Total Vol</source>
+                <target>Total Vol</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603010">
+                <source>ACT Target Time</source>
+                <target>ACT Target Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603011">
+                <source>Ent Hep Conc</source>
+                <target>Ent Hep Conc</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603012">
+                <source>Proj Hep Conc</source>
+                <target>Proj Hep Conc</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603013">
+                <source>Baseline ACT</source>
+                <target>Baseline ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603014">
+                <source>Heparin Bolus-Patient</source>
+                <target>Heparin Bolus-Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603015">
+                <source>Heparin Bolus-Pump</source>
+                <target>Heparin Bolus-Pump</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603016">
+                <source>Heparin Bolus-Total</source>
+                <target>Heparin Bolus-Total</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603017">
+                <source>Slope</source>
+                <target>Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603018">
+                <source>Cartridge Color</source>
+                <target>Cartridge Color</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603019">
+                <source>Cartridge Test Range</source>
+                <target>Cartridge Test Range</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603020">
+                <source>First Clot Time</source>
+                <target>First Clot Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603021">
+                <source>First Clot Channel</source>
+                <target>First Clot Channel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603022">
+                <source>Hep Test Conc</source>
+                <target>Hep Test Conc</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603023">
+                <source>Protocol Hep Conc</source>
+                <target>Protocol Hep Conc</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603024">
+                <source>Heparin Reqd-Pat</source>
+                <target>Heparin Reqd-Pat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603025">
+                <source>Heparin Reqd-Pump</source>
+                <target>Heparin Reqd-Pump</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603026">
+                <source>Heparin Reqd-Total</source>
+                <target>Heparin Reqd-Total</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603027">
+                <source>Protamine Dose-Pat</source>
+                <target>Protamine Dose-Pat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603028">
+                <source>Protamine Dose-Pump</source>
+                <target>Protamine Dose-Pump</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603029">
+                <source>Protamine Dose-Total</source>
+                <target>Protamine Dose-Total</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603030">
+                <source>ACT Average</source>
+                <target>ACT Average</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603042">
+                <source>Avg Clot Time 1&amp;2</source>
+                <target>Avg Clot Time 1&amp;2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603043">
+                <source>Avg Clot Time 3&amp;4</source>
+                <target>Avg Clot Time 3&amp;4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603044">
+                <source>Avg Clot Time 5&amp;6</source>
+                <target>Avg Clot Time 5&amp;6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603045">
+                <source>Ch 1</source>
+                <target>Ch 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603046">
+                <source>Ch 2</source>
+                <target>Ch 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603047">
+                <source>Ch 3</source>
+                <target>Ch 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603048">
+                <source>Ch 4</source>
+                <target>Ch 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603049">
+                <source>Ch 5</source>
+                <target>Ch 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603050">
+                <source>Ch 6</source>
+                <target>Ch 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603051">
+                <source>Channel Edited</source>
+                <target>Channel Edited</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603052">
+                <source>Control Range Channel</source>
+                <target>Control Range Channel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603053">
+                <source>Control Range Value</source>
+                <target>Control Range Value</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603054">
+                <source>FLAG SENSOR 1</source>
+                <target>FLAG SENSOR 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603055">
+                <source>FLAG SENSOR 2</source>
+                <target>FLAG SENSOR 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603056">
+                <source>FLAG SENSOR 3</source>
+                <target>FLAG SENSOR 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603057">
+                <source>FLAG SENSOR 4</source>
+                <target>FLAG SENSOR 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603058">
+                <source>FLAG SENSOR 5</source>
+                <target>FLAG SENSOR 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603059">
+                <source>FLAG SENSOR 6</source>
+                <target>FLAG SENSOR 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603060">
+                <source>REAGENT DELIVERY 1</source>
+                <target>REAGENT DELIVERY 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603061">
+                <source>REAGENT DELIVERY 2</source>
+                <target>REAGENT DELIVERY 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603062">
+                <source>REAGENT DELIVERY 3</source>
+                <target>REAGENT DELIVERY 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603063">
+                <source>REAGENT DELIVERY 4</source>
+                <target>REAGENT DELIVERY 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603064">
+                <source>REAGENT DELIVERY 5</source>
+                <target>REAGENT DELIVERY 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603065">
+                <source>REAGENT DELIVERY 6</source>
+                <target>REAGENT DELIVERY 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603066">
+                <source>FLAG RELEASE 1</source>
+                <target>FLAG RELEASE 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603067">
+                <source>FLAG RELEASE 2</source>
+                <target>FLAG RELEASE 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603068">
+                <source>FLAG RELEASE 3</source>
+                <target>FLAG RELEASE 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603069">
+                <source>FLAG RELEASE 4</source>
+                <target>FLAG RELEASE 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603070">
+                <source>FLAG RELEASE 5</source>
+                <target>FLAG RELEASE 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603071">
+                <source>FLAG RELEASE 6</source>
+                <target>FLAG RELEASE 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603072">
+                <source>FLAG HEIGHT 1</source>
+                <target>FLAG HEIGHT 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603073">
+                <source>FLAG HEIGHT 2</source>
+                <target>FLAG HEIGHT 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603074">
+                <source>FLAG HEIGHT 3</source>
+                <target>FLAG HEIGHT 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603075">
+                <source>FLAG HEIGHT 4</source>
+                <target>FLAG HEIGHT 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603076">
+                <source>FLAG HEIGHT 5</source>
+                <target>FLAG HEIGHT 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603077">
+                <source>FLAG HEIGHT 6</source>
+                <target>FLAG HEIGHT 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603078">
+                <source>LEVEL 1 Time</source>
+                <target>LEVEL 1 Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603079">
+                <source>LEVEL 1 Status</source>
+                <target>LEVEL 1 Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603080">
+                <source>LEVEL 2 Time</source>
+                <target>LEVEL 2 Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603081">
+                <source>LEVEL 2 Status</source>
+                <target>LEVEL 2 Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603082">
+                <source>LEVEL 3 Time</source>
+                <target>LEVEL 3 Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603083">
+                <source>LEVEL 3 Status</source>
+                <target>LEVEL 3 Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603084">
+                <source>LEVEL 4 Time</source>
+                <target>LEVEL 4 Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603085">
+                <source>LEVEL 4 Status</source>
+                <target>LEVEL 4 Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603086">
+                <source>HEP Results</source>
+                <target>HEP Results</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603087">
+                <source>Location</source>
+                <target>Location</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.603088">
+                <source>Pass/Fail</source>
+                <target>Pass/Fail</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.43001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.43001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.43001">
+                <source>Interstitial Fluid</source>
+                <target>Interstitial Fluid</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.43002">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.430001">
+                <source>Blood Glucose</source>
+                <target>Blood Glucose</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.430002">
+                <source>Insulin Pump System</source>
+                <target>Insulin Pump System</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.430003">
+                <source>Other Source</source>
+                <target>Other Source</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.430004">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

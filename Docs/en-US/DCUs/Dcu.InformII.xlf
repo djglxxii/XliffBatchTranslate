@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+
+        <body>
+
+            <trans-unit id="DeviceConfigurations.InformII.DeviceTitle">
+                <source>Device</source>
+                <target>Device</target>
+            </trans-unit>
+            
+            <!-- Device tab -->
+            <trans-unit id="DeviceConfigurations.InformII.Device.Title">
+                <source>Settings</source>
+                <target>Settings</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.MeterSettingsTitle">
+                <source>Meter Settings</source>
+                <target>Meter Settings</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.AutoOff">
+                <source>Auto Off</source>
+                <target>Auto Off</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.InactivityDim.Suffix">
+                <source>Seconds</source>
+                <target>Seconds</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.InactivityDim">
+                <source>Inactivity Dim</source>
+                <target>Inactivity Dim</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.AutoPowerOff">
+                <source>Auto Power Off</source>
+                <target>Auto Power Off</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.PowerOffReconnect">
+                <source>Power Off Reconnect</source>
+                <target>Power Off Reconnect</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.PowerOffReconnectMinutes">
+                <source>Minutes for reconnect in Power Off Mode</source>
+                <target>Minutes for reconnect in Power Off Mode</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.PowerOffReconnect.Suffix">
+                <source>Minutes</source>
+                <target>Minutes</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.BeeperVolume">
+                <source>Beeper Volume</source>
+                <target>Beeper Volume</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.ResultUnits">
+                <source>Units of Measure</source>
+                <target>Units of Measure</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.UploadWarning.Suffix">
+                <source>hours</source>
+                <target>hours</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.UploadWarning">
+                <source>Hours before upload warning (0 is off)</source>
+                <target>Hours before upload warning (0 is off)</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.UploadLockout.Suffix">
+                <source>hours</source>
+                <target>hours</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.UploadLockout">
+                <source>Hours before upload lockout (0 is off)</source>
+                <target>Hours before upload lockout (0 is off)</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.DeletionSettingsTitle">
+                <source>Deletion Settings</source>
+                <target>Deletion Settings</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.DeletionAlgorithm">
+                <source>Deletion Algorithm</source>
+                <target>Deletion Algorithm</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.RetentionTime.Suffix">
+                <source>Days</source>
+                <target>Days</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.RetentionTime">
+                <source>Retention Time</source>
+                <target>Retention Time</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.UploadRequired">
+                <source>Upload Result Before Deletion</source>
+                <target>Upload Result Before Deletion</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.TestCapabilitiesTitle">
+                <source>Test Capabilities</source>
+                <target>Test Capabilities</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.MainMenuLin">
+                <source>Allow Linearity Tests</source>
+                <target>Allow Linearity Tests</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.MainMenuProf">
+                <source>Allow Proficiency Tests</source>
+                <target>Allow Proficiency Tests</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.MainMenuMnt">
+                <source>Allow Maintenance Checks</source>
+                <target>Allow Maintenance Checks</target>
+            </trans-unit>
+
+             <trans-unit id="DeviceConfigurations.InformII.Device.MainMenuOsl">
+                <source>Allow Strip Lot Order</source>
+                <target>Allow Strip Lot Order</target>
+            </trans-unit>
+          
+            <trans-unit id="DeviceConfigurations.InformII.Device.CommentsSettingsTitle">
+                <source>Patient Comments Settings</source>
+                <target>Patient Comments Settings</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.CommentsRequired">
+                <source>Comments</source>
+                <target>Comments</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.CommentsRequirementLevel">
+                <source>Comments Level</source>
+                <target>Comments Level</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.CustomComments">
+                <source>Custom Comments</source>
+                <target>Custom Comments</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.ServiceMenuTitle">
+                <source>Service Menu and Date/Time Settings</source>
+                <target>Service Menu and Date/Time Settings</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.ServiceMenu">
+                <source>Service Menu</source>
+                <target>Service Menu</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.TimeFormat">
+                <source>Time Format</source>
+                <target>Time Format</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.DateFormat">
+                <source>Date Format</source>
+                <target>Date Format</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.DateTimeEditing">
+                <source>Date/Time Editing</source>
+                <target>Date/Time Editing</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.SetupCapabilitiesTitle">
+                <source>Setup Capabilities</source>
+                <target>Setup Capabilities</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.MaiMenuStp">
+                <source>Allow Setup</source>
+                <target>Allow Setup</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.SetupPassword">
+                <source>Password</source>
+                <target>Password</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.SetupPasswordMinLengthError">
+                <source>Password must be from 4 to 16 uppercase alphanumeric charaters</source>
+                <target>Password must be from 4 to 16 uppercase alphanumeric charaters</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.SetupPasswordPatternError">
+                <source>Password must be uppercase alphanumeric characters only</source>
+                <target>Password must be uppercase alphanumeric characters only</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.InformII.Device.StripLimitationsWarning">
+                <source>Strip Limitations Warning</source>
+                <target>Strip Limitations Warning</target>
+            </trans-unit>
+          
+          <trans-unit id="DeviceConfigurations.InformII.Device.EnableTLSEncryption">
+            <source>Enable TLS Encryption</source>
+            <target>Enable TLS Encryption</target>
+          </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.InformII.Device.EnableTLSAuthentication">
+              <source>Enable TLS Authentication</source>
+              <target>Enable TLS Authentication</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.InformII.Device.caCertificate">
+              <source>CA Certificate</source>
+              <target>CA Certificate</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.InformII.Device.ServerCertificate">
+              <source>Server Certificate</source>
+              <target>Server Certificate</target>
+           </trans-unit>      
+           
+          <trans-unit id="DeviceConfigurations.InformII.Device.EnableDataCompression">
+            <source>Enable Data Compression</source>
+            <target>Enable Data Compression</target>
+          </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.InformII.Device.CertFile.FileSizeError">
+              <source>File must be less than 15 KB)</source>
+              <target>File must be less than 15 KB</target>
+           </trans-unit>
+
+           <trans-unit id="DeviceConfigurations.InformII.Device.CertFile.TypeValidation">
+              <source>File type must be PEM</source>
+              <target>File type must be PEM</target>
+           </trans-unit>
+
+           <!-- Operator tab -->
+            <trans-unit id="DeviceConfigurations.InformII.Operator.Title">
+                <source>Operator</source>
+                <target>Operator</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorSettingsTitle">
+                <source>Operator Settings</source>
+                <target>Operator Settings</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorReagentEditing">
+                <source>Operator Reagent Editing</source>
+                <target>Operator Reagent Editing</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorIdTimeout">
+                <source>Operator Remains Valid After Power Off</source>
+                <target>Operator Remains Valid After Power Off</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.SendOprNames">
+                <source>Operator Name Display</source>
+                <target>Operator Name Display</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorIdEntryTitle">
+                <source>Operator ID Entry</source>
+                <target>Operator ID Entry</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorIdEntryMode">
+                <source>Operator ID Entry Mode</source>
+                <target>Operator ID Entry Mode</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.BarcodeMask1D">
+                <source>1-D Operator ID Barcode Mask</source>
+                <target>1-D Operator ID Barcode Mask</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.BarcodeMask2D">
+                <source>2-D Operator ID Barcode Mask</source>
+                <target>2-D Operator ID Barcode Mask</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Barcode.PatternError">
+                <source>Enter only characters in the following set: uppercase alphanumeric, $, *, ~, +, or ^</source>
+                <target>Enter only characters in the following set: uppercase alphanumeric, $, *, ~, +, or ^</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorIdValidationTitle">
+                <source>Operator ID Validation</source>
+                <target>Operator ID Validation</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorIdValidationMode">
+                <source>Operator ID Validation Mode</source>
+                <target>Operator ID Validation Mode</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorIdMinLength">
+                <source>Operator ID Min Length</source>
+                <target>Operator ID Min Length</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Operator.OperatorIdMaxLength">
+                <source>Operator ID Max Length</source>
+                <target>Operator ID Max Length</target>
+            </trans-unit>
+            
+            <!-- Patient tab -->
+            <trans-unit id="DeviceConfigurations.InformII.Patient.Title">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.PatientIdEntryTitle">
+                <source>Patient ID Entry</source>
+                <target>Patient ID Entry</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.PatientIdEntryMode">
+                <source>Patient ID Entry Mode</source>
+                <target>Patient ID Entry Mode</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.PatientIdConfirmation">
+                <source>Confirm Patient ID</source>
+                <target>Confirm Patient ID</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.AddBarcodeToResult">
+                <source>Add Barcode To Result</source>
+                <target>Add Barcode To Result</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.BarcodeSeparators">
+                <source>Barcode Separators</source>
+                <target>Barcode Separators</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.BarcodeSeparatorsError">
+                <source>Only readable characters or hexadecimal values preceded by a backslash</source>
+                <target>Only readable characters or hexadecimal values preceded by a backslash</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.BarcodeMask1D">
+                <source>1-D Patient ID Barcode Mask</source>
+                <target>1-D Patient ID Barcode Mask</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.BarcodeMask2D">
+                <source>2-D Patient ID Barcode Mask</source>
+                <target>2-D Patient ID Barcode Mask</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.PatTestSeries">
+                <source>Patient Test Series</source>
+                <target>Patient Test Series</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.PatientIdValidationTitle">
+                <source>Patient ID Validation</source>
+                <target>Patient ID Validation</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.PatientIdValidationMode">
+                <source>Patient ID Validation Mode</source>
+                <target>Patient ID Validation Mode</target>
+            </trans-unit>
+                                   
+            <trans-unit id="DeviceConfigurations.InformII.Patient.PatientIdMinLength">
+                <source>Patient ID Min Length</source>
+                <target>Patient ID Min Length</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.PatientIdMaxLength">
+                <source>Patient ID Max Length</source>
+                <target>Patient ID Max Length</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Patient.IsolationUnit">
+                <source>Isolation Room</source>
+                <target>Isolation Room</target>
+            </trans-unit>
+            
+            <!-- Glucose Result tab -->
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.Title">
+                <source>Glucose Result</source>
+                <target>Glucose Result</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.RangesTitle">
+                <source>Ranges</source>
+                <target>Ranges</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.RangeLowLimit">
+                <source>Low Limit</source>
+                <target>Low Limit</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.RangeHighLimit">
+                <source>High Limit</source>
+                <target>High Limit</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.RangeAMRError">
+                <source>Critical range must be within AMR range.</source>
+                <target>Critical range must be within AMR range.</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.RangeHighError">
+                <source>High value is less than the low value</source>
+                <target>High value is less than the low value</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.RangeLowError">
+                <source>Low value is greater than the high value</source>
+                <target>Low value is greater than the high value</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.RangeMessageEnabled">
+                <source>Message Enabled</source>
+                <target>Message Enabled</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.RangeMessage">
+                <source>Message</source>
+                <target>Message</target>
+            </trans-unit>
+                       
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.NormalRangeMgDL">
+                <source>Normal Range (mg/dL)</source>
+                <target>Normal Range (#[StaticData.UnitsOfMeasure.5])</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.NormalRangeMmolL">
+                <source>Normal Range (mmol/L)</source>
+                <target>Normal Range (#[StaticData.UnitsOfMeasure.3])</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.CriticalRangeMgDL">
+                <source>Critical Range (mg/dL)</source>
+                <target>Critical Range (#[StaticData.UnitsOfMeasure.5])</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.CriticalRangeMmolL">
+                <source>Critical Range (mmol/L)</source>
+                <target>Critical Range (#[StaticData.UnitsOfMeasure.3])</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.ReportableRangeMgDL">
+                <source>Reportable Range (mg/dL)</source>
+                <target>Reportable Range (#[StaticData.UnitsOfMeasure.5])</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.ReportableRangeMmolL">
+                <source>Reportable Range (mmol/L)</source>
+                <target>Reportable Range (#[StaticData.UnitsOfMeasure.3])</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.DefaultCriticalRangeMsg">
+                <source>Out of Critical Range</source>
+                <target>Out of Critical Range</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.DefaultReportableRangeMsg">
+                <source>Out of Reportable Range</source>
+                <target>Out of Reportable Range</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.PatientResults">
+                <source>Patient Results And Sample Type Selection</source>
+                <target>Patient Results And Sample Type Selection</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.StripLotVerification">
+                <source>Strip Lot Verification</source>
+                <target>Strip Lot Verification</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.CriticalDisplayMode">
+                <source>Critical Result Display</source>
+                <target>Critical Result Display</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.GlucoseResult.SampleTypeSelection">
+                <source>Sample Type Selection</source>
+                <target>Sample Type Selection</target>
+            </trans-unit>
+            
+            <!-- Barcode Symbology tab -->
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.Title">
+                <source>Barcode Symbology</source>
+                <target>Barcode Symbology</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.BarcodesTitle">
+                <source>Barcodes</source>
+                <target>Barcodes</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.TriggerDelay">
+                <source>Trigger Preaimer Delay</source>
+                <target>Trigger Preaimer Delay</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.TriggerDelay.Tooltip">
+                <source>Will turn the aimer on for this amount of time before scanning starts.</source>
+                <target>Will turn the aimer on for this amount of time before scanning starts.</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.TriggerDelaySuffix">
+                <source>milliseconds</source>
+                <target>milliseconds</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.ChecksumCheck">
+                <source>Checksum Check for 2 of 5</source>
+                <target>Checksum Check for 2 of 5</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.ChecksumCheck.Tooltip">
+                <source>Enable/disable standard checksum checking for code interleaved 2 of 5.</source>
+                <target>Enable/disable standard checksum checking for code interleaved 2 of 5.</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.1DBarcodes">
+                <source>1D Barcodes</source>
+                <target>1D Barcodes</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.2DBarcodes">
+                <source>2D Barcodes</source>
+                <target>2D Barcodes</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.Code128">
+                <source>Code 128</source>
+                <target>Code 128</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.Code39">
+                <source>Code 39</source>
+                <target>Code 39</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.Code93">
+                <source>Code 93</source>
+                <target>Code 93</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.Codabar">
+                <source>Codabar</source>
+                <target>Codabar</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.I2Of5">
+                <source>I 2 of 5</source>
+                <target>I 2 of 5</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.RSS">
+                <source>RSS</source>
+                <target>RSS</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.Upcaeanjan">
+                <source>UPCA E0, E1, EAN JAN</source>
+                <target>UPCA E0, E1, EAN JAN</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.Aztec">
+                <source>Aztec</source>
+                <target>Aztec</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.DataMatrix">
+                <source>DataMatrix</source>
+                <target>DataMatrix</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.PDF">
+                <source>PDF</source>
+                <target>PDF</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.BarcodeSymbology.QR">
+                <source>QR</source>
+                <target>QR</target>
+            </trans-unit>
+            
+            <!-- QC Result tab -->
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.Title">
+                <source>QC Result</source>
+                <target>QC Result</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.QcResultDisplayTitle">
+                <source>QC Result Display</source>
+                <target>QC Result Display</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.QcResultDisplay">
+                <source>QC Result Display</source>
+                <target>QC Result Display</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.LotVerificationTitle">
+                <source>Lot Verification</source>
+                <target>Lot Verification</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.Control">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.Linearity">
+                <source>Linearity</source>
+                <target>Linearity</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.STATTitle">
+                <source>STAT</source>
+                <target>STAT</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.StatTestAllowed">
+                <source>STAT Test Allowed</source>
+                <target>STAT Test Allowed</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.NumberOfStatsAllowed">
+                <source>Maximum STAT Allowed</source>
+                <target>Maximum STAT Allowed</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.QcLockoutTitle">
+                <source>QC Lockout</source>
+                <target>QC Lockout</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.QcLockout">
+                <source>Method</source>
+                <target>Method</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.ShiftStartTime">
+                <source>Start Time</source>
+                <target>Start Time</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.ShiftStartTimeSuffix">
+                <source>:00</source>
+                <target>:00</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.QcShiftLength">
+                <source>Shift/Shift Rotate Length</source>
+                <target>Shift/Shift Rotate Length</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.Hours">
+                <source>Passed QC Lasts for</source>
+                <target>Passed QC Lasts for</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.HoursSuffix">
+                <source>Hours</source>
+                <target>Hours</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.StripCount">
+                <source>Tests allowed since last QC</source>
+                <target>Tests allowed since last QC</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.StripCountSuffix">
+                <source>Tests</source>
+                <target>Tests</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.QcStripLotSwitch">
+                <source>QC Lockout on Strip Lot Switch</source>
+                <target>QC Lockout on Strip Lot Switch</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.TimeOfDay1">
+                <source>Time of Day 1</source>
+                <target>Time of Day 1</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.TimeOfDay2">
+                <source>Time of Day 2</source>
+                <target>Time of Day 2</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.TimeOfDay3">
+                <source>Time of Day 3</source>
+                <target>Time of Day 3</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.TimeOfDay4">
+                <source>Time of Day 4</source>
+                <target>Time of Day 4</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.TimeOfDay5">
+                <source>Time of Day 5</source>
+                <target>Time of Day 5</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.QcResult.TimeOfDay6">
+                <source>Time of Day 6</source>
+                <target>Time of Day 6</target>
+            </trans-unit>
+            
+            <!-- OTE tab -->
+            <trans-unit id="DeviceConfigurations.InformII.OTE.Title">
+                <source>Other Tests</source>
+                <target>Other Tests</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.AvailableTestsTitle">
+                <source>Available Tests</source>
+                <target>Available Tests</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.SettingsTitle">
+                <source>Settings</source>
+                <target>Settings</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.EnableDecisions">
+                <source>Enable decisions</source>
+                <target>Enable decisions</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.EnableWarnings">
+                <source>Enable warnings</source>
+                <target>Enable warnings</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.EnableComments">
+                <source>Prompt for result comments</source>
+                <target>Prompt for result comments</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ReagentsTitle">
+                <source>Reagents</source>
+                <target>Reagents</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.TestItemsTitle">
+                <source>Test Items</source>
+                <target>Test Items</target>
+            </trans-unit>
+            
+            <!-- Special value types translation -->
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.Control bar">
+                <source>Control bar</source>
+                <target>Control bar</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.Result">
+                <source>Result</source>
+                <target>Result</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.Ketones">
+                <source>Ketones</source>
+                <target>Ketones</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.Barbiturate">
+                <source>Barbiturate</source>
+                <target>Barbiturate</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.MET">
+                <source>MET</source>
+                <target>MET</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.BNZ">
+                <source>BNZ</source>
+                <target>BNZ</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.PXP">
+                <source>PXP</source>
+                <target>PXP</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.Positive control">
+                <source>Positive control</source>
+                <target>Positive control</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.OTE.ValueType.Negative control">
+                <source>Negative control</source>
+                <target>Negative control</target>
+            </trans-unit>
+                        
+            <!-- Lists -->
+            <trans-unit id="DeviceConfigurations.InformII.Lists.None">
+                <source>None</source>
+                <target>None</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Enable">
+                <source>Enable</source>
+                <target>Enable</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Disable">
+                <source>Disable</source>
+                <target>Disable</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Low">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Medium">
+                <source>Medium</source>
+                <target>Medium</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.High">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.30Sec">
+                <source>30 Sec</source>
+                <target>30 Sec</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.0SecOff">
+                <source>0 Sec (Off)</source>
+                <target>0 Sec (Off)</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.1Min">
+                <source>1 Min</source>
+                <target>1 Min</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.2Min">
+                <source>2 Min</source>
+                <target>2 Min</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.5Min">
+                <source>5 Min</source>
+                <target>5 Min</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.10Min">
+                <source>10 Min</source>
+                <target>10 Min</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.20Min">
+                <source>20 Min</source>
+                <target>20 Min</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.30Min">
+                <source>30 Min</source>
+                <target>30 Min</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.60Min">
+                <source>60 Min</source>
+                <target>60 Min</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Automatic">
+                <source>Automatic</source>
+                <target>Automatic</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.FIFO">
+                <source>FIFO</source>
+                <target>FIFO</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.12Hr">
+                <source>12 Hr (AM/PM)</source>
+                <target>12 Hr (AM/PM)</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.24Hr">
+                <source>24 Hr</source>
+                <target>24 Hr</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.MMDDYY">
+                <source>MM/DD/YY</source>
+                <target>MM/DD/YY</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.DDMMYY">
+                <source>DD.MM.YY</source>
+                <target>DD.MM.YY</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.ElectronicOnly">
+                <source>Electronic Only</source>
+                <target>Electronic Only</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Anyone">
+                <source>Anyone</source>
+                <target>Anyone</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.PasswordRequired">
+                <source>Password Required</source>
+                <target>Password Required</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Optional">
+                <source>Optional</source>
+                <target>Optional</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.OutOfRange">
+                <source>Out of Range</source>
+                <target>Out of Range</target>
+            </trans-unit>
+                        
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Required">
+                <source>Required</source>
+                <target>Required</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Disabled">
+                <source>Disabled</source>
+                <target>Disabled</target>
+            </trans-unit>
+                                                                   
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Normal">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Critical">
+                <source>Critical</source>
+                <target>Critical</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Reportable">
+                <source>Reportable</source>
+                <target>Reportable</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.SystemMeasurement">
+                <source>System Measurement</source>
+                <target>System Measurement</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.KeyboardBarcodeScan">
+                <source>Keyboard/Barcode Scan</source>
+                <target>Keyboard/Barcode Scan</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.BarcodeScan">
+                <source>Barcode Scan</source>
+                <target>Barcode Scan</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.BarcodeScanOnly">
+                <source>Barcode Scan Only</source>
+                <target>Barcode Scan Only</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.PromptNumeric">
+                <source>Prompt (numeric)</source>
+                <target>Prompt (numeric)</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Length">
+                <source>Length</source>
+                <target>Length</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.LengthIfNumeric">
+                <source>Length if Numeric</source>
+                <target>Length if Numeric</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.List">
+                <source>List</source>
+                <target>List</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.ListPassword">
+                <source>List/Password</source>
+                <target>List/Password</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.ListWithEntry">
+                <source>List with Entry</source>
+                <target>List with Entry</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Name">
+                <source>Name</source>
+                <target>Name</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.DateOfBirth">
+                <source>Date Of Birth</source>
+                <target>Date Of Birth</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.NameDateOfBirth">
+                <source>Name/Date Of Birth</source>
+                <target>Name/Date Of Birth</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.DisplayOnly">
+                <source>Display Only</source>
+                <target>Display Only</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.YesNoConfirmation">
+                <source>Yes/No Confirmation</source>
+                <target>Yes/No Confirmation</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Value">
+                <source>Value</source>
+                <target>Value</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.HighLow">
+                <source>High/Low</source>
+                <target>High/Low</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.ListSelection">
+                <source>List Selection</source>
+                <target>List Selection</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.PassFail">
+                <source>Pass/Fail</source>
+                <target>Pass/Fail</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.PromptForEntry">
+                <source>Prompt For Entry</source>
+                <target>Prompt For Entry</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.LastResultOK">
+                <source>Last Result OK</source>
+                <target>Last Result OK</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.TimeOfDay">
+                <source>Time of Day</source>
+                <target>Time of Day</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Shift">
+                <source>Shift</source>
+                <target>Shift</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Hours">
+                <source>Hours</source>
+                <target>Hours</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.StripCount">
+                <source>Strip Count</source>
+                <target>Strip Count</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.TimeOfDayRotate">
+                <source>Time of Day Rotate</source>
+                <target>Time of Day Rotate</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.ShiftRotate">
+                <source>Shift Rotate</source>
+                <target>Shift Rotate</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.HoursRotate">
+                <source>Hours Rotate</source>
+                <target>Hours Rotate</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.StripCountRotate">
+                <source>Strip Count Rotate</source>
+                <target>Strip Count Rotate</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.Confirmation">
+                <source>Confirmation</source>
+                <target>Confirmation</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.LotEntry">
+                <source>Lot Entry</source>
+                <target>Lot Entry</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.1Hrs">
+                <source>1 Hrs</source>
+                <target>1 Hrs</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.2Hrs">
+                <source>2 Hrs</source>
+                <target>2 Hrs</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.3Hrs">
+                <source>3 Hrs</source>
+                <target>3 Hrs</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.4Hrs">
+                <source>4 Hrs</source>
+                <target>4 Hrs</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.6Hrs">
+                <source>6 Hrs</source>
+                <target>6 Hrs</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.8Hrs">
+                <source>8 Hrs</source>
+                <target>8 Hrs</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.12Hrs">
+                <source>12 Hrs</source>
+                <target>12 Hrs</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.24Hrs">
+                <source>24 Hrs</source>
+                <target>24 Hrs</target>
+            </trans-unit>
+           
+            <trans-unit id="DeviceConfigurations.InformII.Lists.NoConfirmation">
+                <source>Enable</source>
+                <target>Enable</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.InformII.Lists.WithConfirmation">
+                <source>Enable With Confirmation</source>
+                <target>Enable With Confirmation</target>
+            </trans-unit>
+           
+        </body>
+    </file>
+</xliff>

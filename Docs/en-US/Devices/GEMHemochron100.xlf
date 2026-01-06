@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.7300">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7301">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7302">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7303">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7305">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7306">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.7300">
+                <source>Cuvette</source>
+                <target>Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7301">
+                <source>Cuvette</source>
+                <target>Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7330">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7331">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7360">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7361">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7390">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.7301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7302">
+                <source>QC - Level 1</source>
+                <target>QC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7303">
+                <source>QC - Level 2</source>
+                <target>QC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7304">
+                <source>QC - Level 1</source>
+                <target>QC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7305">
+                <source>QC - Level 2</source>
+                <target>QC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7360">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7361">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7380">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7381">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+           <trans-unit id="StaticData.SampleTypeDefs.7382">
+               <source>EQC</source>
+               <target>EQC</target>
+           </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.7301">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7302">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7303">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7304">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.7301">
+                <source>Whole Blood</source>
+                <target>Whole Blood</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.7300">
+                <source>ACT-LR</source>
+                <target>ACT-LR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7301">
+                <source>ACT+</source>
+                <target>ACT+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7302">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.73000">
+                <source>ESV</source>
+                <target>ESV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73001">
+                <source>ACT-LR</source>
+                <target>ACT-LR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73002">
+                <source>ACT+</source>
+                <target>ACT+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73003">
+                <source>EQC Level 1</source>
+                <target>EQC Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73004">
+                <source>EQC Level 2</source>
+                <target>EQC Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73053">
+                <source>Overall EQC</source>
+                <target>Overall EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73041">
+                <source>Internal Voltages</source>
+                <target>Internal Voltages</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73042">
+                <source>Analytic Firmware CRC</source>
+                <target>Analytic Firmware CRC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73043">
+                <source>Assay Definition File CRC</source>
+                <target>Assay Definition File CRC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73044">
+                <source>Calibration and Factory CRC</source>
+                <target>Calibration and Factory CRC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73045">
+                <source>Battery</source>
+                <target>Battery</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73046">
+                <source>Real-Time Clock</source>
+                <target>Real-Time Clock</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73047">
+                <source>External Voltage Supply</source>
+                <target>External Voltage Supply</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73048">
+                <source>Serial Communication</source>
+                <target>Serial Communication</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73049">
+                <source>Heater</source>
+                <target>Heater</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73050">
+                <source>Camera</source>
+                <target>Camera</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73051">
+                <source>Illumination</source>
+                <target>Illumination</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.73052">
+                <source>Pump</source>
+                <target>Pump</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

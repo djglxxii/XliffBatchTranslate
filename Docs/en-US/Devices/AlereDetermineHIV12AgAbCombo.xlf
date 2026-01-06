@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.50601">
+                <source>Reactive HIV-1</source>
+                <target>Reactive HIV-1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.50602">
+                <source>Reactive HIV-2</source>
+                <target>Reactive HIV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.50603">
+                <source>HIV-1 P24</source>
+                <target>HIV-1 P24</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.50604">
+                <source>Nonreactive</source>
+                <target>Nonreactive</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.50601">
+                <source>Test Device</source>
+                <target>Test Device</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.50602">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.50601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.50602">
+                <source>QC - Reactive HIV-1</source>
+                <target>QC - Reactive HIV-1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.50603">
+                <source>QC - Reactive HIV-2</source>
+                <target>QC - Reactive HIV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.50604">
+                <source>QC - HIV-1 P24</source>
+                <target>QC - HIV-1 P24</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.50605">
+                <source>QC - Nonreactive</source>
+                <target>QC - Nonreactive</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.50601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.50602">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.50601">
+                <source>Whole Blood</source>
+                <target>Whole Blood</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.50602">
+                <source>Plasma</source>
+                <target>Plasma</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.50603">
+                <source>Serum</source>
+                <target>Serum</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.506001">
+                <source>Ag</source>
+                <target>Ag</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.506002">
+                <source>Ab</source>
+                <target>Ab</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.506003">
+                <source>Control Line</source>
+                <target>Control Line</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.506004">
+                <source>Chase Buffer</source>
+                <target>Chase Buffer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.506005">
+                <source>Kit Lot</source>
+                <target>Kit Lot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.506006">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.7611">
+                <source>Quantra® QPL1</source>
+                <target>Quantra® QPL1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7612">
+                <source>Quantra® QPL2</source>
+                <target>Quantra® QPL2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7621">
+                <source>Quantra® QSL1</source>
+                <target>Quantra® QSL1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.7622">
+                <source>Quantra® QSL2</source>
+                <target>Quantra® QSL2</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.7601">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7602">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7611">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7612">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7621">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7622">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.7601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7610">
+                <source>QC Unknown</source>
+                <target>QC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7611">
+                <source>Quantra® QPL1</source>
+                <target>Quantra® QPL1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7612">
+                <source>Quantra® QPL2</source>
+                <target>Quantra® QPL2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7621">
+                <source>Quantra® QSL1</source>
+                <target>Quantra® QSL1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7622">
+                <source>Quantra® QSL2</source>
+                <target>Quantra® QSL2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7681">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7682">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7691">
+                <source>Quantra® Internal QC</source>
+                <target>Quantra® Internal QC</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.7601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7602">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7603">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7604">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.7601">
+                <source>QPlus®</source>
+                <target>QPlus®</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7602">
+                <source>QStat®</source>
+                <target>QStat®</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.76001">
+                <source>CT</source>
+                <target>CT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76002">
+                <source>CTH</source>
+                <target>CTH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76003">
+                <source>CS</source>
+                <target>CS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76004">
+                <source>FCS</source>
+                <target>FCS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76005">
+                <source>CSL</source>
+                <target>CSL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76051">
+                <source>System</source>
+                <target>System</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76052">
+                <source>Heating</source>
+                <target>Heating</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76053">
+                <source>Ultrasound</source>
+                <target>Ultrasound</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76054">
+                <source>Fluidics</source>
+                <target>Fluidics</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76055">
+                <source>Docking</source>
+                <target>Docking</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76056">
+                <source>Overall</source>
+                <target>Overall</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76101">
+                <source>CTR</source>
+                <target>CTR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76102">
+                <source>PCS</source>
+                <target>PCS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.76201">
+                <source>QCResult</source>
+                <target>QCResult</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

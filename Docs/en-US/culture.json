@@ -1,0 +1,30 @@
+{
+    "Language": "English",
+    "CultureCode": "en-US",
+    "ExternalLinks": [
+        {
+            DisplayText: "RALS.com",
+            Url: "https://www.rals.com/us/home.html"
+        },
+        {
+            DisplayText: "Support",
+            Url: "https://www.rals.com/us/en/home/rals-system/support.html"
+        },
+        {
+            DisplayText: "RALS Academy",
+            Url: "https://www.rals.com/us/en/home/rals-system/resources/RALS-Academy.html"
+        },
+        {
+            DisplayText: "Webinars",
+            Url: "https://www.rals.com/us/home/rals-web3/resources/rals-system-webinars.html"
+        },
+        {
+            DisplayText: "Release Notes",
+            Url: "https://www.rals.com/us/home/rals-web3/hospital-based-connectivity/rals-release_notes.html"
+        },
+        {
+            DisplayText: "User Groups",
+            Url: "https://www.rals.com/us/home/rals-web3/resources/rals-user-group-regional.html"
+        }
+    ]
+}

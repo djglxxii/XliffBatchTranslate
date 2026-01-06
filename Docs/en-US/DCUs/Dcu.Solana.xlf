@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+
+      <trans-unit id="DeviceConfigurations.Solana.Settings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.ServiceIdMap">
+        <source>HIS Panel Code Mappings</source>
+        <target>HIS Panel Code Mappings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.ServiceId">
+        <source>HIS Panel Code</source>
+        <target>HIS Panel Code</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.TestType">
+        <source>Test Type</source>
+        <target>Test Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.ServiceIdTooltip">
+        <source>HIS Panel Code to map to Solana Test Type</source>
+        <target>HIS Panel Code to map to Solana Test Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.NewServiceId">
+        <source>Add HIS Panel Code Mapping</source>
+        <target>Add HIS Panel Code Mapping</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.UniqueServiceId">
+        <source>HIS Panel Code must be non-empty and unique</source>
+        <target>HIS Panel Code must be non-empty and unique</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.Mapping">
+        <source>Mapping</source>
+        <target>Mapping</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.Mappings">
+        <source>Mappings</source>
+        <target>Mappings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.Mapping.Lower">
+        <source>mapping</source>
+        <target>mapping</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Solana.Mappings.Lower">
+        <source>mappings</source>
+        <target>mappings</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

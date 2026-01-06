@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.43901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.43901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.43901">
+                <source>Rapid-Acting</source>
+                <target>Rapid-Acting</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.43902">
+                <source>Regular</source>
+                <target>Regular</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.43903">
+                <source>Intermediate-Acting</source>
+                <target>Intermediate-Acting</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.43904">
+                <source>Long-Acting</source>
+                <target>Long-Acting</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.43905">
+                <source>Mixtures</source>
+                <target>Mixtures</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.439001">
+                <source>Insulin Units</source>
+                <target>Insulin Units</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.439002">
+                <source>Insulin Type</source>
+                <target>Insulin Type</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

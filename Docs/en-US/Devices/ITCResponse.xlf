@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.5001">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5002">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5003">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5004">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5005">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5006">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5007">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5008">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5009">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5010">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5011">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5012">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5013">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5014">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5015">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5016">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5017">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5018">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5019">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5020">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5021">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5022">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5023">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5024">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5025">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5026">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5027">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5028">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5029">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5030">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5031">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5032">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5033">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5034">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5035">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5036">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5037">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5038">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5039">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5040">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5045">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5046">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5047">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5048">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5049">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5050">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5051">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5052">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5053">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5054">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5055">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5057">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5058">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5059">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5060">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5061">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5062">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5041">
+                <source>L1</source>
+                <target>L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5042">
+                <source>L2</source>
+                <target>L2</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.5001">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5002">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5003">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5004">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5005">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5006">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5007">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5008">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5009">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5010">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5011">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5012">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5013">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5014">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5015">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5016">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5017">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5018">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5019">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5020">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5023">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5024">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5025">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5026">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5027">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5028">
+                <source>Temperature QC</source>
+                <target>Temperature QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5029">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5030">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5031">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5050">
+                <source>Electronic QC</source>
+                <target>Electronic QC</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.5000">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5001">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5002">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5003">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5004">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5005">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5006">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5007">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5008">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5009">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5010">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5011">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5012">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5013">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5014">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5015">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5016">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5017">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5018">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5019">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5020">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5021">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5022">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5023">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5024">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5025">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5026">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5027">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5028">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5029">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5030">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5031">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5032">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5033">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5034">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5035">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5036">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5037">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5038">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5039">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5040">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5041">
+                <source>EQC L1</source>
+                <target>EQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5042">
+                <source>EQC L2</source>
+                <target>EQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5045">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5046">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5047">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5048">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5049">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5050">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5051">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5052">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5053">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5054">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5055">
+                <source>TQC</source>
+                <target>TQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5057">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5058">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5059">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5060">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5061">
+                <source>WBQC L1</source>
+                <target>WBQC L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5062">
+                <source>WBQC L2</source>
+                <target>WBQC L2</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.5001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5002">
+                <source>WBQC</source>
+                <target>WBQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5003">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5004">
+                <source>TQC</source>
+                <target>TQC</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.5001">
+                <source>UNKNOWN</source>
+                <target>UNKNOWN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5002">
+                <source>FT/CA510</source>
+                <target>FT/CA510</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5003">
+                <source>FT/K-ACT</source>
+                <target>FT/K-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5004">
+                <source>P-214</source>
+                <target>P-214</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5005">
+                <source>APTT FWB</source>
+                <target>APTT FWB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5006">
+                <source>APTT CWB</source>
+                <target>APTT CWB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5007">
+                <source>PT FWB</source>
+                <target>PT FWB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5008">
+                <source>PT CWB</source>
+                <target>PT CWB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5009">
+                <source>TT</source>
+                <target>TT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5010">
+                <source>HNTT</source>
+                <target>HNTT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5011">
+                <source>HiTT POR</source>
+                <target>HiTT POR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5012">
+                <source>FIB DIL</source>
+                <target>FIB DIL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5013">
+                <source>HRT 480P</source>
+                <target>HRT 480P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5014">
+                <source>HRT 300P</source>
+                <target>HRT 300P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5015">
+                <source>PRT 200</source>
+                <target>PRT 200</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5016">
+                <source>PRT 400</source>
+                <target>PRT 400</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5017">
+                <source>PDA-G</source>
+                <target>PDA-G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5018">
+                <source>PDA-B</source>
+                <target>PDA-B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5019">
+                <source>PDA-O</source>
+                <target>PDA-O</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5020">
+                <source>FIB UND</source>
+                <target>FIB UND</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5021">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5023">
+                <source>KHRT 480B</source>
+                <target>KHRT 480B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5024">
+                <source>KHRT 480P</source>
+                <target>KHRT 480P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5025">
+                <source>KPRT 200</source>
+                <target>KPRT 200</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5026">
+                <source>KPRT 400</source>
+                <target>KPRT 400</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5027">
+                <source>KPDA-O</source>
+                <target>KPDA-O</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5028">
+                <source>TVT</source>
+                <target>TVT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5029">
+                <source>HiTT BL</source>
+                <target>HiTT BL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5030">
+                <source>HRT 480B</source>
+                <target>HRT 480B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5031">
+                <source>HRT 300B</source>
+                <target>HRT 300B</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.50001">
+                <source>UNKNOWN</source>
+                <target>UNKNOWN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50002">
+                <source>FT/CA510</source>
+                <target>FT/CA510</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50003">
+                <source>FT/K-ACT</source>
+                <target>FT/K-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50004">
+                <source>P-214</source>
+                <target>P-214</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50005">
+                <source>APTT FWB</source>
+                <target>APTT FWB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50006">
+                <source>APTT FWB PE</source>
+                <target>APTT FWB PE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50007">
+                <source>APTT CWB</source>
+                <target>APTT CWB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50008">
+                <source>APTT CWB PE</source>
+                <target>APTT CWB PE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50009">
+                <source>PT FWB</source>
+                <target>PT FWB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50010">
+                <source>PT FWB PE</source>
+                <target>PT FWB PE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50011">
+                <source>PT FWB INR</source>
+                <target>PT FWB INR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50012">
+                <source>PT CWB</source>
+                <target>PT CWB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50013">
+                <source>PT CWB PE</source>
+                <target>PT CWB PE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50014">
+                <source>PT CWB INR</source>
+                <target>PT CWB INR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50015">
+                <source>TT</source>
+                <target>TT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50016">
+                <source>HNTT</source>
+                <target>HNTT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50017">
+                <source>HiTT POR</source>
+                <target>HiTT POR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50018">
+                <source>PORC</source>
+                <target>PORC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50019">
+                <source>FIB DIL</source>
+                <target>FIB DIL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50020">
+                <source>FibD</source>
+                <target>FibD</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50021">
+                <source>HRT 480P</source>
+                <target>HRT 480P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50022">
+                <source>HRT 300P</source>
+                <target>HRT 300P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50023">
+                <source>PRT 200</source>
+                <target>PRT 200</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50024">
+                <source>PRT 400</source>
+                <target>PRT 400</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50025">
+                <source>PDA-G</source>
+                <target>PDA-G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50026">
+                <source>PDA-B</source>
+                <target>PDA-B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50027">
+                <source>PDA-O</source>
+                <target>PDA-O</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50028">
+                <source>FIB UND</source>
+                <target>FIB UND</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50029">
+                <source>FibU</source>
+                <target>FibU</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50030">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50031">
+                <source>KHRT 480B</source>
+                <target>KHRT 480B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50032">
+                <source>KHRT 480P</source>
+                <target>KHRT 480P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50033">
+                <source>KPRT 200</source>
+                <target>KPRT 200</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50034">
+                <source>KPRT 400</source>
+                <target>KPRT 400</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50035">
+                <source>KPDA-O</source>
+                <target>KPDA-O</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50036">
+                <source>Temp</source>
+                <target>Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50037">
+                <source>HiTT BL</source>
+                <target>HiTT BL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50038">
+                <source>BEEF</source>
+                <target>BEEF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50039">
+                <source>HRT 480B</source>
+                <target>HRT 480B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50040">
+                <source>HRT 300B</source>
+                <target>HRT 300B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.50041">
+                <source>Well Number</source>
+                <target>Well Number</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

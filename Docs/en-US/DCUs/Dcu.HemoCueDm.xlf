@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.DeviceSettings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.MeterSecurity">
+        <source>Meter Security</source>
+        <target>Meter Security</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.PasswordOne">
+        <source>One</source>
+        <target>One</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.PasswordTwo">
+        <source>Two</source>
+        <target>Two</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.PasswordQc">
+        <source>QC</source>
+        <target>QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.PasswordMemoryErasure">
+        <source>Memory Erasure</source>
+        <target>Memory Erasure</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.UseCuvettePassword">
+        <source>Use Cuvette Batch Password</source>
+        <target>Use Cuvette Batch Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.PasswordCuvette">
+        <source>Cuvette Batch</source>
+        <target>Cuvette Batch</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Passwords">
+        <source>Passwords</source>
+        <target>Passwords</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.MeterFunctions">
+        <source>Meter Functions</source>
+        <target>Meter Functions</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.EraseWithoutPrint">
+        <source>Erase Without Print</source>
+        <target>Erase Without Print</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.TimeFormat">
+        <source>Time Format</source>
+        <target>Time Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.DateFormat">
+        <source>Date Format</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.PowerDownTime">
+        <source>Power-Down Time</source>
+        <target>Power-Down Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.PrinterPortTwo">
+        <source>Printer Port Two</source>
+        <target>Printer Port Two</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.TwentyFourHour">
+        <source>24 Hr</source>
+        <target>24 Hr</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.TwelveHour">
+        <source>12 Hr (AM/PM)</source>
+        <target>12 Hr (AM/PM)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.YYMMDD">
+        <source>YY-MM-DD</source>
+        <target>YY-MM-DD</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.MMDDYY">
+        <source>MM/DD/YY</source>
+        <target>MM/DD/YY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.DDMMYY">
+        <source>DD.MM.YY</source>
+        <target>DD.MM.YY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Five">
+        <source>5 Minutes</source>
+        <target>5 Minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Ten">
+        <source>10 Minutes</source>
+        <target>10 Minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Fifteen">
+        <source>15 Minutes</source>
+        <target>15 Minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Twenty">
+        <source>20 Minutes</source>
+        <target>20 Minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.TwentyFive">
+        <source>25 Minutes</source>
+        <target>25 Minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Thirty">
+        <source>30 Minutes</source>
+        <target>30 Minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.NoPrinter">
+        <source>No Printer</source>
+        <target>No Printer</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.SmallPrinter">
+        <source>Small Printer</source>
+        <target>Small Printer</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.QcFunctions">
+        <source>QC Functions</source>
+        <target>QC Functions</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.DisplayQcMeasurement">
+        <source>Display QC Measurement</source>
+        <target>Display QC Measurement</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.WorkShiftStart">
+        <source>Work Shift Start</source>
+        <target>Work Shift Start</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Results">
+        <source>Results</source>
+        <target>Results</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.CommentCode">
+        <source>Comment Code Used</source>
+        <target>Comment Code Used</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.StatTest">
+        <source>STAT Test Allowed</source>
+        <target>STAT Test Allowed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.CriticalRange">
+        <source>Critical Range</source>
+        <target>Critical Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Minimum">
+        <source>Min</source>
+        <target>Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Maximum">
+        <source>Max</source>
+        <target>Max</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.PatientId">
+        <source>Patient ID</source>
+        <target>Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.OperatorId">
+        <source>Operator ID</source>
+        <target>Operator ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.ClearBeforeTest">
+        <source>Clear Before Test</source>
+        <target>Clear Before Test</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.MandatoryRequired">
+        <source>Mandatory Required</source>
+        <target>Mandatory Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.MinDigits">
+        <source>Min Digits</source>
+        <target>Min Digits</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.MaxDigits">
+        <source>Max Digits</source>
+        <target>Max Digits</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.LiquidLow">
+        <source>Liquid Low</source>
+        <target>Liquid Low</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.LiquidNormal">
+        <source>Liquid Normal</source>
+        <target>Liquid Normal</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.LiquidHigh">
+        <source>Liquid High</source>
+        <target>Liquid High</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.ControlOther">
+        <source>Control Other</source>
+        <target>Control Other</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.ControlCuvette">
+        <source>Control Cuvette</source>
+        <target>Control Cuvette</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.ShiftLength">
+        <source>Shift Length</source>
+        <target>Shift Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Active">
+        <source>Active</source>
+        <target>Active</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Off">
+        <source>Off</source>
+        <target>Off</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.One">
+        <source>1 Hrs</source>
+        <target>1 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Two">
+        <source>2 Hrs</source>
+        <target>2 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Three">
+        <source>3 Hrs</source>
+        <target>3 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Four">
+        <source>4 Hrs</source>
+        <target>4 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Six">
+        <source>6 Hrs</source>
+        <target>6 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Eight">
+        <source>8 Hrs</source>
+        <target>8 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.Twelve">
+        <source>12 Hrs</source>
+        <target>12 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.TwentyFour">
+        <source>24 Hrs</source>
+        <target>24 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.QcTests">
+        <source>QC</source>
+        <target>QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.QcTest">
+        <source>Test</source>
+        <target>Test</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCueDm.TestSettings">
+        <source>Test Settings</source>
+        <target>Test Settings</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

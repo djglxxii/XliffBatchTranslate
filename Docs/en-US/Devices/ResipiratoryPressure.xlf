@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3000001">
+                <source>PC</source>
+                <target>PC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000002">
+                <source>PS</source>
+                <target>PS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000003">
+                <source>IPAP</source>
+                <target>IPAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000004">
+                <source>IPAP low</source>
+                <target>IPAP low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000005">
+                <source>IPAP high</source>
+                <target>IPAP high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000006">
+                <source>EPAP</source>
+                <target>EPAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000007">
+                <source>PEEP</source>
+                <target>PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000008">
+                <source>PEEP low</source>
+                <target>PEEP low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000009">
+                <source>PEEP high</source>
+                <target>PEEP high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000010">
+                <source>PEEP start</source>
+                <target>PEEP start</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000011">
+                <source>PEEP end</source>
+                <target>PEEP end</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000012">
+                <source>PEEP int</source>
+                <target>PEEP int</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000013">
+                <source>PEEP ext</source>
+                <target>PEEP ext</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000014">
+                <source>PEEP tot</source>
+                <target>PEEP tot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000015">
+                <source>AutoPEEP</source>
+                <target>AutoPEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000016">
+                <source>AutoPEEP delta</source>
+                <target>AutoPEEP delta</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000017">
+                <source>AutoPEEP es</source>
+                <target>AutoPEEP es</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000018">
+                <source>CPAP</source>
+                <target>CPAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000019">
+                <source>CPAP low</source>
+                <target>CPAP low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000020">
+                <source>CPAP high</source>
+                <target>CPAP high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000021">
+                <source>BPAP</source>
+                <target>BPAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000022">
+                <source>P supp</source>
+                <target>P supp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000023">
+                <source>P supp %</source>
+                <target>P supp %</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000024">
+                <source>P low</source>
+                <target>P low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000025">
+                <source>P high</source>
+                <target>P high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000026">
+                <source>P mean</source>
+                <target>P mean</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000027">
+                <source>MAP</source>
+                <target>MAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000028">
+                <source>MAP low</source>
+                <target>MAP low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000029">
+                <source>MAP high</source>
+                <target>MAP high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000030">
+                <source>P insp</source>
+                <target>P insp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000031">
+                <source>P peak</source>
+                <target>P peak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000032">
+                <source>PIP</source>
+                <target>PIP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000033">
+                <source>P peak spont</source>
+                <target>P peak spont</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000034">
+                <source>P peak mand</source>
+                <target>P peak mand</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000035">
+                <source>P plat</source>
+                <target>P plat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000036">
+                <source>P comp</source>
+                <target>P comp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000037">
+                <source>P trig</source>
+                <target>P trig</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000038">
+                <source>P sens</source>
+                <target>P sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000039">
+                <source>P delta</source>
+                <target>P delta</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000040">
+                <source>P min</source>
+                <target>P min</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000041">
+                <source>P max</source>
+                <target>P max</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000042">
+                <source>P cycle</source>
+                <target>P cycle</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000043">
+                <source>P rise</source>
+                <target>P rise</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000044">
+                <source>P ramp</source>
+                <target>P ramp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000045">
+                <source>P baro</source>
+                <target>P baro</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000046">
+                <source>P tp</source>
+                <target>P tp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000047">
+                <source>P tp PEEP</source>
+                <target>P tp PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000048">
+                <source>P tp plat</source>
+                <target>P tp plat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000049">
+                <source>P es</source>
+                <target>P es</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000050">
+                <source>P es delta</source>
+                <target>P es delta</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000051">
+                <source>P servo</source>
+                <target>P servo</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000052">
+                <source>Amplitude</source>
+                <target>Amplitude</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000053">
+                <source>EIP</source>
+                <target>EIP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000054">
+                <source>PEP</source>
+                <target>PEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3000055">
+                <source>TC</source>
+                <target>TC</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

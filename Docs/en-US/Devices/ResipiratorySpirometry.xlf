@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3009001">
+                <source>FRC</source>
+                <target>FRC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009002">
+                <source>IC</source>
+                <target>IC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009003">
+                <source>IRV</source>
+                <target>IRV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009004">
+                <source>ERV</source>
+                <target>ERV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009005">
+                <source>RV</source>
+                <target>RV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009006">
+                <source>VC</source>
+                <target>VC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009007">
+                <source>TLC</source>
+                <target>TLC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009008">
+                <source>FVC</source>
+                <target>FVC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009009">
+                <source>FEV</source>
+                <target>FEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009010">
+                <source>FEV1</source>
+                <target>FEV1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009011">
+                <source>FEV1%</source>
+                <target>FEV1%</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009012">
+                <source>FEF</source>
+                <target>FEF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009013">
+                <source>FEF 25-75%</source>
+                <target>FEF 25-75%</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3009014">
+                <source>MVV</source>
+                <target>MVV</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

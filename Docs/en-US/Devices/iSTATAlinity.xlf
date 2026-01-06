@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.69311">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69312">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69313">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69611">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69612">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69613">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69614">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69615">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69331">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69332">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69333">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69631">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69632">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.69633">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.6901">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6902">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6903">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6931">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6933">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6961">
+                <source>Cal/Ver</source>
+                <target>Cal/Ver</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6963">
+                <source>Cal/Ver</source>
+                <target>Cal/Ver</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6990">
+                <source>Simulator</source>
+                <target>Simulator</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6991">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.69001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69310">
+                <source>Control - Unknown</source>
+                <target>Control - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69311">
+                <source>Control - Level 1</source>
+                <target>Control - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69312">
+                <source>Control - Level 2</source>
+                <target>Control - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69313">
+                <source>Control - Level 3</source>
+                <target>Control - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69330">
+                <source>Control - Unknown</source>
+                <target>Control - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69331">
+                <source>Control - Level 1</source>
+                <target>Control - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69332">
+                <source>Control - Level 2</source>
+                <target>Control - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69333">
+                <source>Control - Level 3</source>
+                <target>Control - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69610">
+                <source>Cal/Ver - Unknown</source>
+                <target>Cal/Ver - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69611">
+                <source>Cal/Ver - Level 1</source>
+                <target>Cal/Ver - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69612">
+                <source>Cal/Ver - Level 2</source>
+                <target>Cal/Ver - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69613">
+                <source>Cal/Ver - Level 3</source>
+                <target>Cal/Ver - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69614">
+                <source>Cal/Ver - Level 4</source>
+                <target>Cal/Ver - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69615">
+                <source>Cal/Ver - Level 5</source>
+                <target>Cal/Ver - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69630">
+                <source>Cal/Ver - Unknown</source>
+                <target>Cal/Ver - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69631">
+                <source>Cal/Ver - Level 1</source>
+                <target>Cal/Ver - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69632">
+                <source>Cal/Ver - Level 2</source>
+                <target>Cal/Ver - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69633">
+                <source>Cal/Ver - Level 3</source>
+                <target>Cal/Ver - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69901">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.69911">
+                <source>Electronic Simulator</source>
+                <target>Electronic Simulator</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.6901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6902">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6903">
+                <source>Cal/Ver</source>
+                <target>Cal/Ver</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6904">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6905">
+                <source>Simulator</source>
+                <target>Simulator</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.6901">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.6902">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.6903">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.6904">
+                <source>Unspecified</source>
+                <target>Unspecified</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.6905">
+                <source>PLASMA</source>
+                <target>PLASMA</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.6901">
+                <source>TBI</source>
+                <target>TBI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6902">
+                <source>TBI Plasma</source>
+                <target>TBI Plasma</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6903">
+                <source>hs-TnI</source>
+                <target>hs-TnI</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.69001">
+                <source>GFAP</source>
+                <target>GFAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69002">
+                <source>UCH-L1</source>
+                <target>UCH-L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69003">
+                <source>hs-TnI</source>
+                <target>hs-TnI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69101">
+                <source>PRDLT</source>
+                <target>PRDLT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69201">
+                <source>TBI-interp</source>
+                <target>TBI-interp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69202">
+                <source>Outcome</source>
+                <target>Outcome</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69301">
+                <source>Temperature</source>
+                <target>Temperature</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69302">
+                <source>Pressure</source>
+                <target>Pressure</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69303">
+                <source>Battery</source>
+                <target>Battery</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69304">
+                <source>CLEW</source>
+                <target>CLEW</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69305">
+                <source>Pref Name</source>
+                <target>Pref Name</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69306">
+                <source>Pref Rev</source>
+                <target>Pref Rev</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69307">
+                <source>Software</source>
+                <target>Software</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69308">
+                <source>Software-Core</source>
+                <target>Software-Core</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69309">
+                <source>Uses</source>
+                <target>Uses</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69310">
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69311">
+                <source>Star-out Code</source>
+                <target>Star-out Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69312">
+                <source>Quality Code</source>
+                <target>Quality Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69313">
+                <source>Qual Code Type</source>
+                <target>Qual Code Type</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69314">
+                <source>Pat Valid Code</source>
+                <target>Pat Valid Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69315">
+                <source>Opr Valid Code</source>
+                <target>Opr Valid Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69316">
+                <source>Rgt Valid Code</source>
+                <target>Rgt Valid Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69317">
+                <source>Pat Entry Method</source>
+                <target>Pat Entry Method</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69318">
+                <source>Opr Entry Method</source>
+                <target>Opr Entry Method</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69319">
+                <source>APOC ID</source>
+                <target>APOC ID</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69401">
+                <source>CRN Read Back</source>
+                <target>CRN Read Back</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69402">
+                <source>CRN Notify Time</source>
+                <target>CRN Notify Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69403">
+                <source>CRN Caregiver</source>
+                <target>CRN Caregiver</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69404">
+                <source>CRN Comment</source>
+                <target>CRN Comment</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69405">
+                <source>CRN Patient</source>
+                <target>CRN Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69511">
+                <source>Ch  1 (POT) L1</source>
+                <target>Ch  1 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69512">
+                <source>Ch  1 (POT) L2</source>
+                <target>Ch  1 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69513">
+                <source>Ch  1 (POT) L3</source>
+                <target>Ch  1 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69521">
+                <source>Ch  2 (POT) L1</source>
+                <target>Ch  2 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69522">
+                <source>Ch  2 (POT) L2</source>
+                <target>Ch  2 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69523">
+                <source>Ch  2 (POT) L3</source>
+                <target>Ch  2 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69531">
+                <source>Ch  3 (POT) L1</source>
+                <target>Ch  3 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69532">
+                <source>Ch  3 (POT) L2</source>
+                <target>Ch  3 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69533">
+                <source>Ch  3 (POT) L3</source>
+                <target>Ch  3 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69541">
+                <source>Ch  4 (POT) L1</source>
+                <target>Ch  4 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69542">
+                <source>Ch  4 (POT) L2</source>
+                <target>Ch  4 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69543">
+                <source>Ch  4 (POT) L3</source>
+                <target>Ch  4 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69551">
+                <source>Ch  5 (POT) L1</source>
+                <target>Ch  5 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69552">
+                <source>Ch  5 (POT) L2</source>
+                <target>Ch  5 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69553">
+                <source>Ch  5 (POT) L3</source>
+                <target>Ch  5 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69561">
+                <source>Ch  6 (POT) L1</source>
+                <target>Ch  6 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69562">
+                <source>Ch  6 (POT) L2</source>
+                <target>Ch  6 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69563">
+                <source>Ch  6 (POT) L3</source>
+                <target>Ch  6 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69571">
+                <source>Ch  7 (POT) L1</source>
+                <target>Ch  7 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69572">
+                <source>Ch  7 (POT) L2</source>
+                <target>Ch  7 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69573">
+                <source>Ch  7 (POT) L3</source>
+                <target>Ch  7 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69581">
+                <source>Ch  8 (POT) L1</source>
+                <target>Ch  8 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69582">
+                <source>Ch  8 (POT) L2</source>
+                <target>Ch  8 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69583">
+                <source>Ch  8 (POT) L3</source>
+                <target>Ch  8 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69591">
+                <source>Ch  9 (POT) L1</source>
+                <target>Ch  9 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69592">
+                <source>Ch  9 (POT) L2</source>
+                <target>Ch  9 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69593">
+                <source>Ch  9 (POT) L3</source>
+                <target>Ch  9 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69594">
+                <source>Ch  9 (AMP) L1</source>
+                <target>Ch  9 (AMP) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69595">
+                <source>Ch  9 (AMP) L2</source>
+                <target>Ch  9 (AMP) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69596">
+                <source>Ch  9 (AMP) L3</source>
+                <target>Ch  9 (AMP) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69604">
+                <source>Ch 10 (CND) L1</source>
+                <target>Ch 10 (CND) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69605">
+                <source>Ch 10 (CND) L2</source>
+                <target>Ch 10 (CND) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69606">
+                <source>Ch 10 (CND) L3</source>
+                <target>Ch 10 (CND) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69601">
+                <source>Ch 10 (POT) L1</source>
+                <target>Ch 10 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69602">
+                <source>Ch 10 (POT) L2</source>
+                <target>Ch 10 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69603">
+                <source>Ch 10 (POT) L3</source>
+                <target>Ch 10 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69611">
+                <source>Ch 11 (POT) L1</source>
+                <target>Ch 11 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69612">
+                <source>Ch 11 (POT) L2</source>
+                <target>Ch 11 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69613">
+                <source>Ch 11 (POT) L3</source>
+                <target>Ch 11 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69614">
+                <source>Ch 11 (AMP) L1</source>
+                <target>Ch 11 (AMP) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69615">
+                <source>Ch 11 (AMP) L2</source>
+                <target>Ch 11 (AMP) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69616">
+                <source>Ch 11 (AMP) L3</source>
+                <target>Ch 11 (AMP) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69621">
+                <source>Ch 12 (POT) L1</source>
+                <target>Ch 12 (POT) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69622">
+                <source>Ch 12 (POT) L2</source>
+                <target>Ch 12 (POT) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69623">
+                <source>Ch 12 (POT) L3</source>
+                <target>Ch 12 (POT) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69624">
+                <source>Ch 12 (AMP) L1</source>
+                <target>Ch 12 (AMP) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69625">
+                <source>Ch 12 (AMP) L2</source>
+                <target>Ch 12 (AMP) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69626">
+                <source>Ch 12 (AMP) L3</source>
+                <target>Ch 12 (AMP) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69631">
+                <source>Ch 13 (AMP) L1</source>
+                <target>Ch 13 (AMP) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69632">
+                <source>Ch 13 (AMP) L2</source>
+                <target>Ch 13 (AMP) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69633">
+                <source>Ch 13 (AMP) L3</source>
+                <target>Ch 13 (AMP) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69651">
+                <source>Ch 15 (CND) L1</source>
+                <target>Ch 15 (CND) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69652">
+                <source>Ch 15 (CND) L2</source>
+                <target>Ch 15 (CND) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69653">
+                <source>Ch 15 (CND) L3</source>
+                <target>Ch 15 (CND) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69661">
+                <source>Ch 16 (AMP) L1</source>
+                <target>Ch 16 (AMP) L1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69662">
+                <source>Ch 16 (AMP) L2</source>
+                <target>Ch 16 (AMP) L2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69663">
+                <source>Ch 16 (AMP) L3</source>
+                <target>Ch 16 (AMP) L3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.69701">
+                <source>Sex</source>
+                <target>Sex</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

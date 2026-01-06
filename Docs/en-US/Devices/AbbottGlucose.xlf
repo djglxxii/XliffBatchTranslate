@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.5201">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5202">
+                <source>Mid</source>
+                <target>Mid</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5203">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5205">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5206">
+                <source>Mid</source>
+                <target>Mid</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5207">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5211">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5212">
+                <source>Mid</source>
+                <target>Mid</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5213">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5231">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5232">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5233">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5234">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5235">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.5201">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5202">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5211">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5221">
+                <source>Linearity</source>
+                <target>Linearity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5231">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5232">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.5201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5210">
+                <source>QC - Unknown</source>
+                <target>QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5211">
+                <source>QC - Low</source>
+                <target>QC - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5212">
+                <source>QC - Mid</source>
+                <target>QC - Mid</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5213">
+                <source>QC - High</source>
+                <target>QC - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5230">
+                <source>Lin - Unknown</source>
+                <target>Lin - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5231">
+                <source>Lin - Level 1</source>
+                <target>Lin - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5232">
+                <source>Lin - Level 2</source>
+                <target>Lin - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5233">
+                <source>Lin - Level 3</source>
+                <target>Lin - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5234">
+                <source>Lin - Level 4</source>
+                <target>Lin - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5235">
+                <source>Lin - Level 5</source>
+                <target>Lin - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5251">
+                <source>Proficiency Glu</source>
+                <target>Proficiency Glu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5252">
+                <source>Proficiency Ket</source>
+                <target>Proficiency Ket</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.5201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5202">
+                <source>Liquid QC</source>
+                <target>Liquid QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5203">
+                <source>Linearity</source>
+                <target>Linearity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5204">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.5201">
+                <source>Arterial/Capillary</source>
+                <target>Arterial/Capillary</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5202">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5203">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5204">
+                <source>Cap Heelstick</source>
+                <target>Cap Heelstick</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5205">
+                <source>Cap Fingerstick</source>
+                <target>Cap Fingerstick</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.5201">
+                <source>Glu</source>
+                <target>Glu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5202">
+                <source>Ket</source>
+                <target>Ket</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.52001">
+                <source>Glu</source>
+                <target>Glu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52002">
+                <source>Ket</source>
+                <target>Ket</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52011">
+                <source>GluR</source>
+                <target>GluR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52012">
+                <source>KetR</source>
+                <target>KetR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52101">
+                <source>Battery</source>
+                <target>Battery</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52102">
+                <source>Temp</source>
+                <target>Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52201">
+                <source>Flags</source>
+                <target>Flags</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52202">
+                <source>FlagsEx</source>
+                <target>FlagsEx</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52301">
+                <source>Patient Id Entry</source>
+                <target>Patient Id Entry</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52302">
+                <source>Operator Id Entry</source>
+                <target>Operator Id Entry</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.52303">
+                <source>Strip Lot Entry</source>
+                <target>Strip Lot Entry</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

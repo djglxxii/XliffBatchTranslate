@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.6511">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6512">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6521">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6522">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6523">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.6501">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6502">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6503">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6504">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6505">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6506">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6507">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6508">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6509">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6510">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6511">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6512">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6513">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6514">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6515">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6516">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6517">
+                <source>Reagent Disk</source>
+                <target>Reagent Disk</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6550">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6560">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6570">
+                <source>Linearity</source>
+                <target>Linearity</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.6501">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6510">
+                <source>QC - Unknown</source>
+                <target>QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6511">
+                <source>QC - Level 1</source>
+                <target>QC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6512">
+                <source>QC - Level 2</source>
+                <target>QC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6520">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6530">
+                <source>Linearity - Level 1</source>
+                <target>Linearity - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6531">
+                <source>Linearity - Level 2</source>
+                <target>Linearity - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6532">
+                <source>Linearity - Level 3</source>
+                <target>Linearity - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6550">
+                <source>iQC</source>
+                <target>iQC</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.6501">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6502">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6506">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6507">
+                <source>Linearity</source>
+                <target>Linearity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6510">
+                <source>iQC</source>
+                <target>iQC</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.6501">
+                <source>Comprehensive Metabolic Panel</source>
+                <target>Comprehensive Metabolic Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6502">
+                <source>Basic Metabolic Panel</source>
+                <target>Basic Metabolic Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6503">
+                <source>Lipid Panel</source>
+                <target>Lipid Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6504">
+                <source>Lipid Panel Plus</source>
+                <target>Lipid Panel Plus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6505">
+                <source>Liver Panel Plus</source>
+                <target>Liver Panel Plus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6506">
+                <source>Electrolyte Panel</source>
+                <target>Electrolyte Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6507">
+                <source>General Chemistry 13</source>
+                <target>General Chemistry 13</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6508">
+                <source>General Chemistry 6</source>
+                <target>General Chemistry 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6509">
+                <source>Renal Function Panel</source>
+                <target>Renal Function Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6510">
+                <source>MetLyte 8 Panel</source>
+                <target>MetLyte 8 Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6511">
+                <source>Kidney Check</source>
+                <target>Kidney Check</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6512">
+                <source>Hepatic Function Panel</source>
+                <target>Hepatic Function Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6513">
+                <source>Basic Metabolic Panel Plus</source>
+                <target>Basic Metabolic Panel Plus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6514">
+                <source>MetLyte Plus CRP</source>
+                <target>MetLyte Plus CRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6515">
+                <source>BioChemistry Panel Plus</source>
+                <target>BioChemistry Panel Plus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6516">
+                <source>MetLac 12</source>
+                <target>MetLac 12</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6517">
+                <source>Amlyte 13 Panel</source>
+                <target>Amlyte 13 Panel</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.65001">
+                <source>ALB</source>
+                <target>ALB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65002">
+                <source>ALP</source>
+                <target>ALP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65003">
+                <source>ALT</source>
+                <target>ALT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65004">
+                <source>AMY</source>
+                <target>AMY</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65005">
+                <source>AST</source>
+                <target>AST</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65006">
+                <source>BUN</source>
+                <target>BUN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65007">
+                <source>Ca</source>
+                <target>Ca</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65008">
+                <source>CHOL</source>
+                <target>CHOL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65009">
+                <source>CHOL/HDL</source>
+                <target>CHOL/HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65010">
+                <source>CK</source>
+                <target>CK</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65011">
+                <source>Cl-</source>
+                <target>Cl-</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65012">
+                <source>CREA</source>
+                <target>CREA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65013">
+                <source>CRP</source>
+                <target>CRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65014">
+                <source>DBIL</source>
+                <target>DBIL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65015">
+                <source>eGFR</source>
+                <target>eGFR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65016">
+                <source>GGT</source>
+                <target>GGT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65017">
+                <source>Glu</source>
+                <target>Glu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65018">
+                <source>HDL</source>
+                <target>HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65019">
+                <source>K+</source>
+                <target>K+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65020">
+                <source>LAC</source>
+                <target>LAC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65021">
+                <source>LDH</source>
+                <target>LDH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65022">
+                <source>LDL</source>
+                <target>LDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65023">
+                <source>Mg</source>
+                <target>Mg</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65024">
+                <source>Na+</source>
+                <target>Na+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65025">
+                <source>Non-HDL</source>
+                <target>Non-HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65026">
+                <source>PHOS</source>
+                <target>PHOS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65027">
+                <source>TBIL</source>
+                <target>TBIL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65028">
+                <source>TRIG</source>
+                <target>TRIG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65029">
+                <source>tCO2</source>
+                <target>tCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65030">
+                <source>Total Protein</source>
+                <target>Total Protein</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65031">
+                <source>UA</source>
+                <target>UA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65032">
+                <source>VLDL</source>
+                <target>VLDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65501">
+                <source>iQC 1</source>
+                <target>iQC 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65502">
+                <source>iQC 2</source>
+                <target>iQC 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65503">
+                <source>iQC 3</source>
+                <target>iQC 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65504">
+                <source>iQC 4</source>
+                <target>iQC 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65505">
+                <source>iQC 5</source>
+                <target>iQC 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65506">
+                <source>iQC 6</source>
+                <target>iQC 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65507">
+                <source>iQC 7</source>
+                <target>iQC 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65508">
+                <source>iQC 8</source>
+                <target>iQC 8</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65511">
+                <source>Pre</source>
+                <target>Pre</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65512">
+                <source>340 nm</source>
+                <target>340 nm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65513">
+                <source>405 nm</source>
+                <target>405 nm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65514">
+                <source>467 nm</source>
+                <target>467 nm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65515">
+                <source>500 nm</source>
+                <target>500 nm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65516">
+                <source>515 nm</source>
+                <target>515 nm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65517">
+                <source>550 nm</source>
+                <target>550 nm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65518">
+                <source>600 nm</source>
+                <target>600 nm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65519">
+                <source>630 nm</source>
+                <target>630 nm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65601">
+                <source>HEM</source>
+                <target>HEM</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65602">
+                <source>LIP</source>
+                <target>LIP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65603">
+                <source>ICT</source>
+                <target>ICT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65701">
+                <source>Device - Patient Age</source>
+                <target>Device - Patient Age</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65702">
+                <source>Device - Patient Gender</source>
+                <target>Device - Patient Gender</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65703">
+                <source>Device - Patient Ethnicity</source>
+                <target>Device - Patient Ethnicity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65704">
+                <source>Demographic Type</source>
+                <target>Demographic Type</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65705">
+                <source>INST QC</source>
+                <target>INST QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65706">
+                <source>CHEM QC</source>
+                <target>CHEM QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65707">
+                <source>CHEMISTRY QC</source>
+                <target>CHEMISTRY QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.65708">
+                <source>ACCEPTABLE MINIMUM</source>
+                <target>ACCEPTABLE MINIMUM</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

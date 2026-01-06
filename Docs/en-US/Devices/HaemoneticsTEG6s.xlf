@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.9111">
+                <source>QC Level 1</source>
+                <target>QC Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.9112">
+                <source>QC Level 2</source>
+                <target>QC Level 2</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.9101">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9102">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9103">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9104">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9105">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9106">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9111">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9121">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.9101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9110">
+                <source>QC Unknown</source>
+                <target>QC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9111">
+                <source>QC Unknown</source>
+                <target>QC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9112">
+                <source>QC Level 1</source>
+                <target>QC Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9113">
+                <source>QC Level 2</source>
+                <target>QC Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9114">
+                <source>QC Level 1</source>
+                <target>QC Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9115">
+                <source>QC Level 2</source>
+                <target>QC Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9121">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.9101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.9102">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.9103">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.9101">
+                <source>BLOOD</source>
+                <target>BLOOD</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.9101">
+                <source>PlateletMapping</source>
+                <target>PlateletMapping</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9102">
+                <source>PM Platelet Mapping</source>
+                <target>PM Platelet Mapping</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9103">
+                <source>PM Platelet Mapping ADP</source>
+                <target>PM Platelet Mapping ADP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9104">
+                <source>CM Citrated K,KH,RT,FF</source>
+                <target>CM Citrated K,KH,RT,FF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9105">
+                <source>CM Citrated K,RT,FF</source>
+                <target>CM Citrated K,RT,FF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9106">
+                <source>Citrated K,KH,RTH,FFH</source>
+                <target>Citrated K,KH,RTH,FFH</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.91001">
+                <source>ActF ANGLE</source>
+                <target>ActF ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91002">
+                <source>ActF K</source>
+                <target>ActF K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91003">
+                <source>ActF LY30</source>
+                <target>ActF LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91004">
+                <source>ActF MA</source>
+                <target>ActF MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91005">
+                <source>ActF R</source>
+                <target>ActF R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91021">
+                <source>HKH ANGLE</source>
+                <target>HKH ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91022">
+                <source>HKH K</source>
+                <target>HKH K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91023">
+                <source>HKH LY30</source>
+                <target>HKH LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91024">
+                <source>HKH MA</source>
+                <target>HKH MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91025">
+                <source>HKH R</source>
+                <target>HKH R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91041">
+                <source>AA ANGLE</source>
+                <target>AA ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91042">
+                <source>AA K</source>
+                <target>AA K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91043">
+                <source>AA LY30</source>
+                <target>AA LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91044">
+                <source>AA MA</source>
+                <target>AA MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91045">
+                <source>AA R</source>
+                <target>AA R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91061">
+                <source>ADP ANGLE</source>
+                <target>ADP ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91062">
+                <source>ADP K</source>
+                <target>ADP K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91063">
+                <source>ADP LY30</source>
+                <target>ADP LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91064">
+                <source>ADP MA</source>
+                <target>ADP MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91065">
+                <source>ADP R</source>
+                <target>ADP R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91081">
+                <source>CFF ANGLE</source>
+                <target>CFF ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91082">
+                <source>CFF K</source>
+                <target>CFF K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91083">
+                <source>CFF LY30</source>
+                <target>CFF LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91084">
+                <source>CFF MA</source>
+                <target>CFF MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91085">
+                <source>CFF R</source>
+                <target>CFF R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91086">
+                <source>CFFH MA</source>
+                <target>CFFH MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91101">
+                <source>CRT ANGLE</source>
+                <target>CRT ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91102">
+                <source>CRT K</source>
+                <target>CRT K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91103">
+                <source>CRT LY30</source>
+                <target>CRT LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91104">
+                <source>CRT MA</source>
+                <target>CRT MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91105">
+                <source>CRT R</source>
+                <target>CRT R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91106">
+                <source>CRTH MA</source>
+                <target>CRTH MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91121">
+                <source>CKH ANGLE</source>
+                <target>CKH ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91122">
+                <source>CKH K</source>
+                <target>CKH K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91123">
+                <source>CKH LY30</source>
+                <target>CKH LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91124">
+                <source>CKH MA</source>
+                <target>CKH MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91125">
+                <source>CKH R</source>
+                <target>CKH R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91141">
+                <source>CK ANGLE</source>
+                <target>CK ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91142">
+                <source>CK K</source>
+                <target>CK K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91143">
+                <source>CK LY30</source>
+                <target>CK LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91144">
+                <source>CK MA</source>
+                <target>CK MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91145">
+                <source>CK R</source>
+                <target>CK R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91161">
+                <source>RT ANGLE</source>
+                <target>RT ANGLE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91162">
+                <source>RT K</source>
+                <target>RT K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91163">
+                <source>RT LY30</source>
+                <target>RT LY30</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91164">
+                <source>RT MA</source>
+                <target>RT MA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91165">
+                <source>RT R</source>
+                <target>RT R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91401">
+                <source>ActF ADP Aggregation</source>
+                <target>ActF ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91402">
+                <source>ActF ADP Inhibition</source>
+                <target>ActF ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91403">
+                <source>ActF ASA Aggregation</source>
+                <target>ActF ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91404">
+                <source>ActF ASA Inhibition</source>
+                <target>ActF ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91405">
+                <source>ActF None</source>
+                <target>ActF None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91406">
+                <source>ActF FLEV</source>
+                <target>ActF FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91407">
+                <source>ActF TEG-ACT</source>
+                <target>ActF TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91408">
+                <source>ActF G</source>
+                <target>ActF G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91409">
+                <source>ActF SP</source>
+                <target>ActF SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91410">
+                <source>ActF EPL</source>
+                <target>ActF EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91411">
+                <source>ActF LY60</source>
+                <target>ActF LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91412">
+                <source>ActF TMA</source>
+                <target>ActF TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91413">
+                <source>ActF CI</source>
+                <target>ActF CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91421">
+                <source>HKH ADP Aggregation</source>
+                <target>HKH ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91422">
+                <source>HKH ADP Inhibition</source>
+                <target>HKH ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91423">
+                <source>HKH ASA Aggregation</source>
+                <target>HKH ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91424">
+                <source>HKH ASA Inhibition</source>
+                <target>HKH ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91425">
+                <source>HKH None</source>
+                <target>HKH None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91426">
+                <source>HKH FLEV</source>
+                <target>HKH FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91427">
+                <source>HKH TEG-ACT</source>
+                <target>HKH TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91428">
+                <source>HKH G</source>
+                <target>HKH G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91429">
+                <source>HKH SP</source>
+                <target>HKH SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91430">
+                <source>HKH EPL</source>
+                <target>HKH EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91431">
+                <source>HKH LY60</source>
+                <target>HKH LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91432">
+                <source>HKH TMA</source>
+                <target>HKH TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91433">
+                <source>HKH CI</source>
+                <target>HKH CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91441">
+                <source>AA ADP Aggregation</source>
+                <target>AA ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91442">
+                <source>AA ADP Inhibition</source>
+                <target>AA ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91443">
+                <source>AA ASA Aggregation</source>
+                <target>AA ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91444">
+                <source>AA ASA Inhibition</source>
+                <target>AA ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91445">
+                <source>AA None</source>
+                <target>AA None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91446">
+                <source>AA FLEV</source>
+                <target>AA FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91447">
+                <source>AA TEG-ACT</source>
+                <target>AA TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91448">
+                <source>AA G</source>
+                <target>AA G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91449">
+                <source>AA SP</source>
+                <target>AA SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91450">
+                <source>AA EPL</source>
+                <target>AA EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91451">
+                <source>AA LY60</source>
+                <target>AA LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91452">
+                <source>AA TMA</source>
+                <target>AA TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91453">
+                <source>AA CI</source>
+                <target>AA CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91461">
+                <source>ADP ADP Aggregation</source>
+                <target>ADP ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91462">
+                <source>ADP ADP Inhibition</source>
+                <target>ADP ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91463">
+                <source>ADP ASA Aggregation</source>
+                <target>ADP ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91464">
+                <source>ADP ASA Inhibition</source>
+                <target>ADP ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91465">
+                <source>ADP None</source>
+                <target>ADP None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91466">
+                <source>ADP FLEV</source>
+                <target>ADP FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91467">
+                <source>ADP TEG-ACT</source>
+                <target>ADP TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91468">
+                <source>ADP G</source>
+                <target>ADP G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91469">
+                <source>ADP SP</source>
+                <target>ADP SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91470">
+                <source>ADP EPL</source>
+                <target>ADP EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91471">
+                <source>ADP LY60</source>
+                <target>ADP LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91472">
+                <source>ADP TMA</source>
+                <target>ADP TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91473">
+                <source>ADP CI</source>
+                <target>ADP CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91481">
+                <source>CFF ADP Aggregation</source>
+                <target>CFF ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91482">
+                <source>CFF ADP Inhibition</source>
+                <target>CFF ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91483">
+                <source>CFF ASA Aggregation</source>
+                <target>CFF ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91484">
+                <source>CFF ASA Inhibition</source>
+                <target>CFF ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91485">
+                <source>CFF None</source>
+                <target>CFF None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91486">
+                <source>CFF FLEV</source>
+                <target>CFF FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91487">
+                <source>CFF TEG-ACT</source>
+                <target>CFF TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91488">
+                <source>CFF G</source>
+                <target>CFF G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91489">
+                <source>CFF SP</source>
+                <target>CFF SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91490">
+                <source>CFF EPL</source>
+                <target>CFF EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91491">
+                <source>CFF LY60</source>
+                <target>CFF LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91492">
+                <source>CFF TMA</source>
+                <target>CFF TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91493">
+                <source>CFF CI</source>
+                <target>CFF CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91501">
+                <source>CRT ADP Aggregation</source>
+                <target>CRT ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91502">
+                <source>CRT ADP Inhibition</source>
+                <target>CRT ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91503">
+                <source>CRT ASA Aggregation</source>
+                <target>CRT ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91504">
+                <source>CRT ASA Inhibition</source>
+                <target>CRT ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91505">
+                <source>CRT None</source>
+                <target>CRT None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91506">
+                <source>CRT FLEV</source>
+                <target>CRT FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91507">
+                <source>CRT TEG-ACT</source>
+                <target>CRT TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91508">
+                <source>CRT G</source>
+                <target>CRT G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91509">
+                <source>CRT SP</source>
+                <target>CRT SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91510">
+                <source>CRT EPL</source>
+                <target>CRT EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91511">
+                <source>CRT LY60</source>
+                <target>CRT LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91512">
+                <source>CRT TMA</source>
+                <target>CRT TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91513">
+                <source>CRT CI</source>
+                <target>CRT CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91521">
+                <source>CKH ADP Aggregation</source>
+                <target>CKH ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91522">
+                <source>CKH ADP Inhibition</source>
+                <target>CKH ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91523">
+                <source>CKH ASA Aggregation</source>
+                <target>CKH ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91524">
+                <source>CKH ASA Inhibition</source>
+                <target>CKH ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91525">
+                <source>CKH None</source>
+                <target>CKH None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91526">
+                <source>CKH FLEV</source>
+                <target>CKH FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91527">
+                <source>CKH TEG-ACT</source>
+                <target>CKH TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91528">
+                <source>CKH G</source>
+                <target>CKH G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91529">
+                <source>CKH SP</source>
+                <target>CKH SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91530">
+                <source>CKH EPL</source>
+                <target>CKH EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91531">
+                <source>CKH LY60</source>
+                <target>CKH LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91532">
+                <source>CKH TMA</source>
+                <target>CKH TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91533">
+                <source>CKH CI</source>
+                <target>CKH CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91541">
+                <source>CK ADP Aggregation</source>
+                <target>CK ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91542">
+                <source>CK ADP Inhibition</source>
+                <target>CK ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91543">
+                <source>CK ASA Aggregation</source>
+                <target>CK ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91544">
+                <source>CK ASA Inhibition</source>
+                <target>CK ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91545">
+                <source>CK None</source>
+                <target>CK None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91546">
+                <source>CK FLEV</source>
+                <target>CK FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91547">
+                <source>CK TEG-ACT</source>
+                <target>CK TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91548">
+                <source>CK G</source>
+                <target>CK G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91549">
+                <source>CK SP</source>
+                <target>CK SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91550">
+                <source>CK EPL</source>
+                <target>CK EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91551">
+                <source>CK LY60</source>
+                <target>CK LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91552">
+                <source>CK TMA</source>
+                <target>CK TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91553">
+                <source>CK CI</source>
+                <target>CK CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91561">
+                <source>RT ADP Aggregation</source>
+                <target>RT ADP Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91562">
+                <source>RT ADP Inhibition</source>
+                <target>RT ADP Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91563">
+                <source>RT ASA Aggregation</source>
+                <target>RT ASA Aggregation</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91564">
+                <source>RT ASA Inhibition</source>
+                <target>RT ASA Inhibition</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91565">
+                <source>RT None</source>
+                <target>RT None</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91566">
+                <source>RT FLEV</source>
+                <target>RT FLEV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91567">
+                <source>RT TEG-ACT</source>
+                <target>RT TEG-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91568">
+                <source>RT G</source>
+                <target>RT G</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91569">
+                <source>RT SP</source>
+                <target>RT SP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91570">
+                <source>RT EPL</source>
+                <target>RT EPL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91571">
+                <source>RT LY60</source>
+                <target>RT LY60</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91572">
+                <source>RT TMA</source>
+                <target>RT TMA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91573">
+                <source>RT CI</source>
+                <target>RT CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91701">
+                <source>Status</source>
+                <target>Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91702">
+                <source>PPID Truncated</source>
+                <target>PPID Truncated</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91703">
+                <source>PPID Outcome</source>
+                <target>PPID Outcome</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91704">
+                <source>Result Flags</source>
+                <target>Result Flags</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91705">
+                <source>Error Reason</source>
+                <target>Error Reason</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91706">
+                <source>Test Duration (sec)</source>
+                <target>Test Duration (sec)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91707">
+                <source>Test Duration (min)</source>
+                <target>Test Duration (min)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91708">
+                <source>ActF Calc Parameter</source>
+                <target>ActF Calc Parameter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91709">
+                <source>HKH Calc Parameter</source>
+                <target>HKH Calc Parameter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91710">
+                <source>AA Calc Parameter</source>
+                <target>AA Calc Parameter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91711">
+                <source>ADP Calc Parameter</source>
+                <target>ADP Calc Parameter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91712">
+                <source>CFF Calc Parameter</source>
+                <target>CFF Calc Parameter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91713">
+                <source>CRT Calc Parameter</source>
+                <target>CRT Calc Parameter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91714">
+                <source>CKH Calc Parameter</source>
+                <target>CKH Calc Parameter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91715">
+                <source>CK Calc Parameter</source>
+                <target>CK Calc Parameter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.91717">
+                <source>QC Result</source>
+                <target>QC Result</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

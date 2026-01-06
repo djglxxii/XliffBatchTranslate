@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.60121">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60122">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60123">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60131">
+                <source>Yellow</source>
+                <target>Yellow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60141">
+                <source>Orange</source>
+                <target>Orange</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.60101">
+                <source>Cuvette</source>
+                <target>Cuvette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60102">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60103">
+                <source>Yellow Optical QC Filter</source>
+                <target>Yellow Optical QC Filter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60104">
+                <source>Orange Optical QC Filter</source>
+                <target>Orange Optical QC Filter</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60105">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.60101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60120">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60121">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60122">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60123">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60131">
+                <source>Yellow Optical QC</source>
+                <target>Yellow Optical QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60141">
+                <source>Orange Optical QC</source>
+                <target>Orange Optical QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60151">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.60101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60102">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60103">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.60101">
+                <source>A0</source>
+                <target>A0</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60102">
+                <source>A1</source>
+                <target>A1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60103">
+                <source>A2</source>
+                <target>A2</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.601001">
+                <source>tHb</source>
+                <target>tHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601002">
+                <source>O2Hb</source>
+                <target>O2Hb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601003">
+                <source>COHb</source>
+                <target>COHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601004">
+                <source>MetHb</source>
+                <target>MetHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601005">
+                <source>O2Ct</source>
+                <target>O2Ct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601006">
+                <source>O2Cap</source>
+                <target>O2Cap</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601007">
+                <source>sO2</source>
+                <target>sO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601008">
+                <source>Hufners Number</source>
+                <target>Hufners Number</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601009">
+                <source>QC Status</source>
+                <target>QC Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.601010">
+                <source>CalCode</source>
+                <target>CalCode</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

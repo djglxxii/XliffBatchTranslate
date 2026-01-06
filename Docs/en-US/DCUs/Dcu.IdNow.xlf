@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.IdNow.MeterSettings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.PositivePatientId">
+        <source>Positive Patient ID</source>
+        <target>Positive Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Disabled">
+        <source>Disabled</source>
+        <target>Disabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Enabled">
+        <source>Enabled</source>
+        <target>Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.QcSchedules">
+        <source>QC Schedules</source>
+        <target>QC Schedules</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.AssayName">
+        <source>Assay Name</source>
+        <target>Assay Name</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.ScheduleType">
+        <source>Schedule Type</source>
+        <target>Schedule Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Off">
+        <source>Off</source>
+        <target>Off</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Warn">
+        <source>Warn</source>
+        <target>Warn</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Enforce">
+        <source>Lockout</source>
+        <target>Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.ScheduleUnits">
+        <source>Schedule Unit</source>
+        <target>Schedule Unit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Days">
+        <source>Days</source>
+        <target>Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Tests">
+        <source>Tests</source>
+        <target>Tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.ScheduleLimit">
+        <source>Schedule Limit</source>
+        <target>Schedule Limit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.ScheduleLimit.ToolTip">
+        <source># of days or tests between required QC tests</source>
+        <target># of days or tests between required QC tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Flu">
+        <source>Influenza A &amp; B</source>
+        <target>Influenza A &amp; B</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.RSV">
+        <source>RSV</source>
+        <target>RSV</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.Strep A">
+        <source>Strep A</source>
+        <target>Strep A</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.IdNow.SARS-CoV-2">
+        <source>COVID-19</source>
+        <target>COVID-19</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

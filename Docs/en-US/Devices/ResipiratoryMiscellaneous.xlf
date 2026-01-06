@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3012001">
+                <source>Vent mode</source>
+                <target>Vent mode</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3012002">
+                <source>Mode</source>
+                <target>Mode</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3012003">
+                <source>Power</source>
+                <target>Power</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3012004">
+                <source>Allen&apos;s Test</source>
+                <target>Allen&apos;s Test</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3012005">
+                <source>Custom 1</source>
+                <target>Custom 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3012006">
+                <source>Custom 2</source>
+                <target>Custom 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3012007">
+                <source>Custom 3</source>
+                <target>Custom 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3012008">
+                <source>Custom 4</source>
+                <target>Custom 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3012009">
+                <source>Custom 5</source>
+                <target>Custom 5</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

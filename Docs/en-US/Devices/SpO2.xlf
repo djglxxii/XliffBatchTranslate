@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.40401">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.40401">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.404001">
+                <source>SpO2</source>
+                <target>SpO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.404002">
+                <source>FiO2</source>
+                <target>FiO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.404003">
+                <source>Pulse Rate</source>
+                <target>Pulse Rate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.404004">
+                <source>Modality</source>
+                <target>Modality</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.404005">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

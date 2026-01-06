@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3007001">
+                <source>FiO2</source>
+                <target>FiO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3007002">
+                <source>Heliox</source>
+                <target>Heliox</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3007003">
+                <source>O2</source>
+                <target>O2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3007004">
+                <source>iNO</source>
+                <target>iNO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3007005">
+                <source>iNO low</source>
+                <target>iNO low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3007006">
+                <source>iNO high</source>
+                <target>iNO high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3007007">
+                <source>NO2</source>
+                <target>NO2</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

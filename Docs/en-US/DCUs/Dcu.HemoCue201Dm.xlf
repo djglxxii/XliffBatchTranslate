@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Settings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.OneHour">
+        <source>1 Hr</source>
+        <target>1 Hr</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TwoHours">
+        <source>2 Hrs</source>
+        <target>2 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ThreeHours">
+        <source>3 Hrs</source>
+        <target>3 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.FourHours">
+        <source>4 Hrs</source>
+        <target>4 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.SixHours">
+        <source>6 Hrs</source>
+        <target>6 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.EightHours">
+        <source>8 Hrs</source>
+        <target>8 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TwelveHours">
+        <source>12 Hrs</source>
+        <target>12 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TwentyFourHours">
+        <source>24 Hrs</source>
+        <target>24 Hrs</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TwoDays">
+        <source>2 Days</source>
+        <target>2 Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ThreeDays">
+        <source>3 Days</source>
+        <target>3 Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.FourDays">
+        <source>4 Days</source>
+        <target>4 Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.FiveDays">
+        <source>5 Days</source>
+        <target>5 Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.SixDays">
+        <source>6 Days</source>
+        <target>6 Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.SevenDays">
+        <source>7 Days</source>
+        <target>7 Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ZeroMinutes">
+        <source>0 Min</source>
+        <target>0 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ThirtyMinutes">
+        <source>30 Min</source>
+        <target>30 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.NotUsed">
+        <source>Not Used</source>
+        <target>Not Used</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Required">
+        <source>Required</source>
+        <target>Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ApprovedOnly">
+        <source>Approved Only</source>
+        <target>Approved Only</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PassFail">
+        <source>Pass/Fail</source>
+        <target>Pass/Fail</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Numeric">
+        <source>Numeric</source>
+        <target>Numeric</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Used">
+        <source>Used</source>
+        <target>Used</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Optional">
+        <source>Optional</source>
+        <target>Optional</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.FiveMinutes">
+        <source>5 Min</source>
+        <target>5 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TenMinutes">
+        <source>10 Min</source>
+        <target>10 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.FifteenMinutes">
+        <source>15 Min</source>
+        <target>15 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TwentyMinutes">
+        <source>20 Min</source>
+        <target>20 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TwentyFiveMinutes">
+        <source>25 Min</source>
+        <target>25 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TwelveHour">
+        <source>12 Hr (AM/PM)</source>
+        <target>12 Hr (AM/PM)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TwentyFourHour">
+        <source>24 Hr</source>
+        <target>24 Hr</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.YYMMDD">
+        <source>YY-MM-DD</source>
+        <target>YY-MM-DD</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.DDMMYY">
+        <source>DD.MM.YY</source>
+        <target>DD.MM.YY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.MMDDYY">
+        <source>MM/DD/YY</source>
+        <target>MM/DD/YY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.MedicalRecordNumber">
+        <source>Medical Record Number</source>
+        <target>Medical Record Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.AccountNumber">
+        <source>Account Number</source>
+        <target>Account Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.EpisodeNumber">
+        <source>Episode Number</source>
+        <target>Episode Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.VisitNumber">
+        <source>Visit Number</source>
+        <target>Visit Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Location">
+        <source>Location</source>
+        <target>Location</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Institution">
+        <source>Institution</source>
+        <target>Institution</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.None">
+        <source>None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.General">
+        <source>General</source>
+        <target>General</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Linearity">
+        <source>Linearity</source>
+        <target>Linearity</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.DateFormat">
+        <source>Date Format</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TimeFormat">
+        <source>Time Format</source>
+        <target>Time Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PowerSaver">
+        <source>Power Saver</source>
+        <target>Power Saver</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Volume">
+        <source>Volume</source>
+        <target>Volume</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ButtonClick">
+        <source>Button Click</source>
+        <target>Button Click</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TestReady">
+        <source>Test Ready</source>
+        <target>Test Ready</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ErrorBeep">
+        <source>Error Beep</source>
+        <target>Error Beep</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.UseOperatorId">
+        <source>Use Operator ID</source>
+        <target>Use Operator ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.OperatorIdLength">
+        <source>Operator ID Length</source>
+        <target>Operator ID Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Minimum">
+        <source>Minimum</source>
+        <target>Minimum</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Maximum">
+        <source>Maximum</source>
+        <target>Maximum</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Password">
+        <source>Password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.CuvetteBatch">
+        <source>Cuvette Batch</source>
+        <target>Cuvette Batch</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.NumberOfLevels">
+        <source>Number of Levels</source>
+        <target>Number of Levels</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.CuvettesLevel">
+        <source>Cuvettes/Level</source>
+        <target>Cuvettes/Level</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PasswordErrorMessage">
+        <source>Enter only characters in the following set: alphanumeric, space, period, or hyphen</source>
+        <target>Enter only characters in the following set: alphanumeric, space, period, or hyphen</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Time">
+        <source>Time</source>
+        <target>Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Measurements">
+        <source>Measurements</source>
+        <target>Measurements</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Reminders">
+        <source>Reminders</source>
+        <target>Reminders</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Qc">
+        <source>QC</source>
+        <target>QC</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.RequireFailedQcComment">
+        <source>Require Failed QC Comment</source>
+        <target>Require Failed QC Comment</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Display">
+        <source>Display</source>
+        <target>Display</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Level1">
+        <source>Level 1</source>
+        <target>Level 1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Level2">
+        <source>Level 2</source>
+        <target>Level 2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Level3">
+        <source>Level 3</source>
+        <target>Level 3</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Level4">
+        <source>Level 4</source>
+        <target>Level 4</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Level5">
+        <source>Level 5</source>
+        <target>Level 5</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Lockout">
+        <source>Lockout</source>
+        <target>Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.StartTime">
+        <source>Start Time</source>
+        <target>Start Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ReminderMeasurementsError">
+        <source>Must be less than or equal to half of the smallest QC Level Measurements setting</source>
+        <target>Must be less than or equal to half of the smallest QC Level Measurements setting</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ReminderTimeError">
+        <source>Must be less than or equal to half of the smallest QC Level Time setting</source>
+        <target>Must be less than or equal to half of the smallest QC Level Time setting</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Patient">
+        <source>Patient</source>
+        <target>Patient</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PatientId">
+        <source>Patient ID</source>
+        <target>Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.UsePatientId">
+        <source>Use Patient ID</source>
+        <target>Use Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.ClearPatientId">
+        <source>Clear Patient ID</source>
+        <target>Clear Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PatientIdLength">
+        <source>Patient ID Length</source>
+        <target>Patient ID Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.LabNumber">
+        <source>Lab Number</source>
+        <target>Lab Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.UseLabNumber">
+        <source>Use Lab Number</source>
+        <target>Use Lab Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.LabNumberLength">
+        <source>Lab Number Length</source>
+        <target>Lab Number Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.CriticalLimits">
+        <source>Critical Limits</source>
+        <target>Critical Limits</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.StatTest">
+        <source>STAT Test</source>
+        <target>STAT Test</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.StatTestAllowed">
+        <source>STAT Test Allowed</source>
+        <target>STAT Test Allowed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.TestsAllowed">
+        <source>Tests Allowed</source>
+        <target>Tests Allowed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.DuplicateSampling">
+        <source>Duplicate Sampling</source>
+        <target>Duplicate Sampling</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.UseDuplicateSampling">
+        <source>Use Duplicate Sampling</source>
+        <target>Use Duplicate Sampling</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.Deviation">
+        <source>Deviation</source>
+        <target>Deviation</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PatientList">
+        <source>Patient List</source>
+        <target>Patient List</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.UsePatientList">
+        <source>Use Patient List</source>
+        <target>Use Patient List</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PatientIdLookupMode">
+        <source>Patient ID Lookup Mode</source>
+        <target>Patient ID Lookup Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PatientIdFilterMode">
+        <source>Patient ID Filter Mode</source>
+        <target>Patient ID Filter Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.HemoCue201Dm.PatientListLimit">
+        <source>Patient List Limit</source>
+        <target>Patient List Limit</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

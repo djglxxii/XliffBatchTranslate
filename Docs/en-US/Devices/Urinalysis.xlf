@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.40201">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.40202">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.40201">
+                <source>Card/Strip</source>
+                <target>Card/Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.40202">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.40201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.40202">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.40203">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.40201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.40202">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.402001">
+                <source>Color</source>
+                <target>Color</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402002">
+                <source>Clarity</source>
+                <target>Clarity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402003">
+                <source>Glucose</source>
+                <target>Glucose</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402004">
+                <source>Bilirubin</source>
+                <target>Bilirubin</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402005">
+                <source>Ketones</source>
+                <target>Ketones</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402006">
+                <source>SG</source>
+                <target>SG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402007">
+                <source>Blood</source>
+                <target>Blood</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402008">
+                <source>pH</source>
+                <target>pH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402009">
+                <source>Protein</source>
+                <target>Protein</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402010">
+                <source>Urobilinogen</source>
+                <target>Urobilinogen</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402011">
+                <source>Nitrite</source>
+                <target>Nitrite</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402012">
+                <source>Leukocytes</source>
+                <target>Leukocytes</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402013">
+                <source>hCG</source>
+                <target>hCG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402014">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.402015">
+                <source>Kit Lot</source>
+                <target>Kit Lot</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

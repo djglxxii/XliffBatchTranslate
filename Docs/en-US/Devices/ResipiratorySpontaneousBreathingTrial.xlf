@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3011001">
+                <source>RSBi</source>
+                <target>RSBi</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3011002">
+                <source>SBT FiO2</source>
+                <target>SBT FiO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3011003">
+                <source>SBT PEEP</source>
+                <target>SBT PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3011004">
+                <source>SBT PS</source>
+                <target>SBT PS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3011005">
+                <source>SBT Time</source>
+                <target>SBT Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

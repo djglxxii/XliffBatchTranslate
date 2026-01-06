@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <!-- Device Settings Tab-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DeviceSettings">
+        <source>Title for Settings tab</source>
+        <target>Settings</target>
+      </trans-unit>
+      
+      <!-- Test/Result Handling-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.TestHandling">
+        <source>Title for Test/Result Handling card</source>
+        <target>Test/Result Handling</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.UnitsOfMeasure">
+        <source>Label for Units of Measure select</source>
+        <target>Units of Measure</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.ResultOrder">
+        <source>Label for Result Order select</source>
+        <target>Result Order</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Comments">
+        <source>Label for Comments select</source>
+        <target>Comments</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DeleteAlgorithm">
+        <source>Label for Delete Algorithm select</source>
+        <target>Delete Algorithm</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.ResultsRetentionTime">
+        <source>Label for Results Retention Time input</source>
+        <target>Results Retention Time (days)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.ResultConfirmation">
+        <source>Label for Result Confirmation checkbox</source>
+        <target>Result Confirmation</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.BlockCodeKeyPlugin">
+        <source>Label for Block Code Key Plugin checkbox</source>
+        <target>Block Code Key Plugin</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.TlsEncryption">
+        <source>Label for TLS Encryption checkbox</source>
+        <target>TLS Encryption</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.StatTestsAllowed">
+        <source>Label for Stat Tests Allowed checkbox</source>
+        <target>Stat Tests Allowed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.NumberOfStatTests">
+        <source>Label for Number Of Stat Tests input</source>
+        <target>Number Of Stat Tests</target>
+      </trans-unit>
+        
+      <!-- System Options Card-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.SystemOptions">
+        <source>Title for System card</source>
+        <target>System</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DateFormat">
+        <source>Label for Date Format select</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.TimeFormat">
+        <source>Label for Time Format select</source>
+        <target>Time Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Contrast">
+        <source>Label for Contrast entry</source>
+        <target>Contrast</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Beeper">
+        <source>Label for Beeper select</source>
+        <target>Beeper</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.KeyClick">
+        <source>Label for Key Click checkbox</source>
+        <target>Key Click</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff">
+        <source>Label for Auto Off select</source>
+        <target>Auto Off</target>
+      </trans-unit>
+
+      <!-- Barcode Settings Card-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.BarcodeSettings">
+        <source>Title for Barcode Card</source>
+        <target>Barcode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Code128">
+        <source>Label for Barcode type Code128 checkbox</source>
+        <target>Code 128</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Code39">
+        <source>Label for Barcode type Code39 checkbox</source>
+        <target>Code 39</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Code2of5">
+        <source>Label for Barcode type Code 2of5 checkbox</source>
+        <target>Code 2 of 5</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Codabar">
+        <source>Label for Barcode type Codabar checkbox</source>
+        <target>Codabar</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Code93">
+        <source>Label for Barcode type Code93 checkbox</source>
+        <target>Code 93</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.EAN13">
+        <source>Label for Barcode type EAN-13 checkbox</source>
+        <target>EAN-13</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorIdBarcode">
+        <source>Label for Operator ID Barcode Mask input</source>
+        <target>Operator ID Barcode Mask</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdBarcode">
+        <source>Label for Patient ID Barcode Mask input</source>
+        <target>Patient ID Barcode Mask</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.BarcodeMaskErrorMessage">
+        <source>Message for barcode mask regex validation errors</source>
+        <target>Text input may contain only uppercase alphanumeric or mask characters ($, *, ~, +, ^)</target>
+      </trans-unit>
+
+      <!-- Administrator Settings Card-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AdministratorSettings">
+        <source>Title for Administrator Card</source>
+        <target>Administrator</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AdministratorHandling">
+        <source>Label for Administrator Handling checkbox</source>
+        <target>Administrator Handling</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Password">
+        <source>Label for Password input</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AdministratorPasswordErrorMessage">
+        <source>Message for administrator password regex validation errors</source>
+        <target>Text input may contain only uppercase alphanumeric characters</target>
+      </trans-unit>
+
+      <!-- Operator Settings Card-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorSettings">
+        <source>Title for Operator Card</source>
+        <target>Operator</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorListHandling">
+        <source>Label for Operator List Handling select</source>
+        <target>List Handling</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DisplayName">
+        <source>Label for Display Name checkbox</source>
+        <target>Display Name</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.UsePassword">
+        <source>Label for Use Password checkbox</source>
+        <target>Use Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PasswordFormat">
+        <source>Label for Password Format select</source>
+        <target>Password Format</target>
+      </trans-unit>
+
+      <!-- Patient Settings Card-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientSettings">
+        <source>Title for Patient Card</source>
+        <target>Patient</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientListHandling">
+        <source>Label for Patient List Handling select</source>
+        <target>List Handling</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.ConfirmWith">
+        <source>Label for Confirm With select</source>
+        <target>Confirm With</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdFormat">
+        <source>Label for Patient Id Format select</source>
+        <target>Patient ID Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdMinLength">
+        <source>Label for Patient Id Min Length input</source>
+        <target>Min Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdMaxLength">
+        <source>Label for Patient Id Max Length input</source>
+        <target>Max Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdFilterMode">
+        <source>Label for Patient ID Filter Mode select</source>
+        <target>Patient ID Filter Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdLookupMode">
+        <source>Label for Patient Id Lookup Mode select</source>
+        <target>Patient ID Lookup Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientListLimit">
+        <source>Label for Patient List Limit input</source>
+        <target>Patient List Limit</target>
+      </trans-unit>
+
+      <!-- QC Settings Tab-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcSettings">
+        <source>Title for QC tab</source>
+        <target>QC</target>
+      </trans-unit>
+      
+      <!-- Operator Lockout Card-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorLockout">
+        <source>Title for Operator Lockout card</source>
+        <target>Operator Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorLockoutInterval">
+        <source>Label for Operator Lockout Interval select</source>
+        <target>Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorLockoutLevel">
+        <source>Label for Operator Lockout Level select</source>
+        <target>Level</target>
+      </trans-unit>
+
+      <!-- QC Lockout Card-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcLockout">
+        <source>Title for QC Lockout card</source>
+        <target>QC Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcLockoutInterval">
+        <source>Label for QC Lockout Interval select</source>
+        <target>Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcLockoutLevel">
+        <source>Label for QC Lockout Level select</source>
+        <target>Level</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.LockoutNewCode">
+        <source>Label for Lockout New Code checkbox</source>
+        <target>Lockout New Code</target>
+      </trans-unit>
+
+      <!-- Custom QC Ranges Card-->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.CustomQcRanges">
+        <source>Title for Custom QC Ranges card</source>
+        <target>Custom QC Ranges</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.CustomQcRangeMode">
+        <source>Label for Custom QC Range Mode checkbox</source>
+        <target>Custom QC Range Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.CustomQcRange">
+        <source>Label for Custom QC Range input</source>
+        <target>Custom QC Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DisplayQcTargetValue">
+        <source>Label for Display QC Target Value checkbox</source>
+        <target>Display QC Target Value</target>
+      </trans-unit>
+
+
+      <!-- Selection Lists from Backend -->
+      <!-- Unit List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Unit.INR">
+        <source>Select list option for unit INR</source>
+        <target>INR</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Unit.INRSEC">
+        <source>Select list option for unit INR/SEC</source>
+        <target>INR/SEC</target>
+      </trans-unit>
+
+      <!-- Date Format List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DateFormat.DDMMYYYY">
+        <source>Select list option for date format DD.MM.YYYY</source>
+        <target>DD.MM.YYYY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DateFormat.MMDDYYYY">
+        <source>Select list option for date format MM/DD/YYYY</source>
+        <target>MM/DD/YYYY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DateFormat.YYYYMMDD">
+        <source>Select list option for date format YYYY-MM-DD</source>
+        <target>YYYY-MM-DD</target>
+      </trans-unit>
+
+      <!-- Time format List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.TimeFormat.24hr">
+        <source>Select list option for time format 24 Hr</source>
+        <target>24 Hr</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.TimeFormat.12hr">
+        <source>Select list option for time format 12 Hr (AM/PM)</source>
+        <target>12 Hr (AM/PM)</target>
+      </trans-unit>
+
+      <!-- Sort order List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.SortOrder.DateTime">
+        <source>Select list option for sort order Date/Time</source>
+        <target>Date/Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.SortOrder.PatientId">
+        <source>Select list option for sort order Patient ID</source>
+        <target>Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.SortOrder.PatientName">
+        <source>Select list option for sort order Patient Name</source>
+        <target>Patient Name</target>
+      </trans-unit>
+      
+      <!-- Beeper List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Beeper.Off">
+        <source>Select list option for beeper Off</source>
+        <target>Off</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Beeper.Low">
+        <source>Select list option for beeper Low</source>
+        <target>Low</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Beeper.Medium">
+        <source>Select list option for beeper Medium</source>
+        <target>Medium</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.Beeper.High">
+        <source>Select list option for beeper High</source>
+        <target>High</target>
+      </trans-unit>
+
+
+      <!-- Auto-Off List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.Off">
+        <source>Select list option for auto off Off</source>
+        <target>Off</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.1Min">
+        <source>Select list option for auto off 1 Min</source>
+        <target>1 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.2Min">
+        <source>Select list option for auto off 2 Min</source>
+        <target>2 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.3Min">
+        <source>Select list option for auto off 3 Min</source>
+        <target>3 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.4Min">
+        <source>Select list option for auto off 4 Min</source>
+        <target>4 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.5Min">
+        <source>Select list option for auto off 5 Min</source>
+        <target>5 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.6Min">
+        <source>Select list option for auto off 6 Min</source>
+        <target>6 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.7Min">
+        <source>Select list option for auto off 7 Min</source>
+        <target>7 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.8Min">
+        <source>Select list option for auto off 8 Min</source>
+        <target>8 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.9Min">
+        <source>Select list option for auto off 9 Min</source>
+        <target>9 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.10Min">
+        <source>Select list option for auto off 10 Min</source>
+        <target>10 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.15Min">
+        <source>Select list option for auto off 15 Min</source>
+        <target>15 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.20Min">
+        <source>Select list option for auto off 20 Min</source>
+        <target>20 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.25Min">
+        <source>Select list option for auto off 25 Min</source>
+        <target>25 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.30Min">
+        <source>Select list option for auto off 30 Min</source>
+        <target>30 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.40Min">
+        <source>Select list option for auto off 40 Min</source>
+        <target>40 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.50Min">
+        <source>Select list option for auto off 50 Min</source>
+        <target>50 Min</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.AutoOff.60Min">
+        <source>Select list option for auto off 60 Min</source>
+        <target>60 Min</target>
+      </trans-unit>
+
+      <!-- Patient List Handling List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientListHandling.None">
+        <source>Select list option for Paitent List Handling None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientListHandling.Optional">
+        <source>Select list option for Paitent List Handling Optional</source>
+        <target>Optional</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientListHandling.Mandatory">
+        <source>Select list option for Paitent List Handling Mandatory</source>
+        <target>Mandatory</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientListHandling.HiddenList">
+        <source>Select list option for Paitent List Handling Hidden List</source>
+        <target>Hidden List</target>
+      </trans-unit>
+
+      <!-- Patient Id Format List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdFormat.Numeric">
+        <source>Select list option for Patient Id Format Numeric</source>
+        <target>Numeric</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdFormat.Alphanumeric">
+        <source>Select list option for Patient Id Format Alphanumeric</source>
+        <target>Alphanumeric</target>
+      </trans-unit>
+
+      <!-- Comments Required List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.CommentsRequired.Optional">
+        <source>Select list option for Comments Required - Optional</source>
+        <target>Optional</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.CommentsRequired.OutOfRange">
+        <source>Select list option for Comments Required - Out Of Range</source>
+        <target>Out Of Range</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.CommentsRequired.Required">
+        <source>Select list option for Comments Required - Required</source>
+        <target>Required</target>
+      </trans-unit>
+
+      <!-- Operator List Handling List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorListHandling.None">
+        <source>Select list option for Operator List Handling - None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorListHandling.Required">
+        <source>Select list option for Operator List Handling - Required</source>
+        <target>Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorListHandling.RequiredWithList">
+        <source>Select list option for Operator List Handling - Required With List</source>
+        <target>Required With List</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorListHandling.HiddenList">
+        <source>Select list option for Operator List Handling - Hidden List</source>
+        <target>Hidden List</target>
+      </trans-unit>
+
+      <!-- QC Operator Lockout Interval List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcOperatorLockoutInterval.None">
+        <source>Select list option for QC Operator Lockout Interval - None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcOperatorLockoutInterval.Weekly">
+        <source>Select list option for QC Operator Lockout Interval - Weekly</source>
+        <target>Weekly</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcOperatorLockoutInterval.Monthly">
+        <source>Select list option for QC Operator Lockout Interval - Monthly</source>
+        <target>Monthly</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcOperatorLockoutInterval.3Months">
+        <source>Select list option for QC Operator Lockout Interval - Every 3 Months</source>
+        <target>Every 3 Months</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcOperatorLockoutInterval.6Months">
+        <source>Select list option for QC Operator Lockout Interval - Every 6 Months</source>
+        <target>Every 6 Months</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcOperatorLockoutInterval.Yearly">
+        <source>Select list option for QC Operator Lockout Interval - Yearly</source>
+        <target>Yearly</target>
+      </trans-unit>
+
+      <!-- QC Operator Lockout Level List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcOperatorLockoutLevel.OneLevel">
+        <source>Select list option for QC Operator Lockout Level - One Level</source>
+        <target>One Level</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcOperatorLockoutLevel.TwoLevel">
+        <source>Select list option for QC Operator Lockout Level - Two Level</source>
+        <target>Two Level</target>
+      </trans-unit>
+
+      <!-- QC Device Lockout Interval List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcDeviceLockoutInterval.None">
+        <source>Select list option for QC Device Lockout Interval - None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcDeviceLockoutInterval.Daily">
+        <source>Select list option for QC Device Lockout Interval - Daily</source>
+        <target>Daily</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcDeviceLockoutInterval.Weekly">
+        <source>Select list option for QC Device Lockout Interval - Weekly</source>
+        <target>Weekly</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcDeviceLockoutInterval.Monthly">
+        <source>Select list option for QC Device Lockout Interval - Monthly</source>
+        <target>Monthly</target>
+      </trans-unit>
+
+      <!-- QC Device Lockout Level List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcDeviceLockoutLevel.OneLevel">
+        <source>Select list option for QC Device Lockout Level - One Level</source>
+        <target>One Level</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.QcDeviceLockoutLevel.TwoLevel">
+        <source>Select list option for QC Device Lockout Level - Two Level</source>
+        <target>Two Level</target>
+      </trans-unit>
+
+      <!-- Operator Pw Format List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorPwFormat.Numeric">
+        <source>Select list option for Operator Pw Format - Numeric</source>
+        <target>Numeric</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.OperatorPwFormat.Alphanumeric">
+        <source>Select list option for Operator Pw Format - Alphanumeric</source>
+        <target>Alphanumeric</target>
+      </trans-unit>
+
+      <!-- Deletion Algorithm List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DeletionAlgorithm.Automatic">
+        <source>Select list option for Deletion Algorithm - Automatic</source>
+        <target>Automatic</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.DeletionAlgorithm.FIFO">
+        <source>Select list option for Deletion Algorithm - FIFO</source>
+        <target>FIFO</target>
+      </trans-unit>
+
+      <!-- Patient Filter Mode List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientFilterMode.None">
+        <source>Select list option for Patient Filter Mode - None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientFilterMode.Location">
+        <source>Select list option for Patient Filter Mode - Location</source>
+        <target>Location</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientFilterMode.Institution">
+        <source>Select list option for Patient Filter Mode - Institution</source>
+        <target>Institution</target>
+      </trans-unit>
+
+      <!-- Patient Lookup Mode List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientLookupMode.MedicalRecordNumber">
+        <source>Select list option for Patient Lookup Mode - Medical Record Number</source>
+        <target>Medical Record Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientLookupMode.AccountNumber">
+        <source>Select list option for Patient Lookup Mode - Account Number</source>
+        <target>Account Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientLookupMode.EpisodeNumber">
+        <source>Select list option for Patient Lookup Mode - Episode Number</source>
+        <target>Episode Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientLookupMode.VisitNumber">
+        <source>Select list option for Patient Lookup Mode - Visit Number</source>
+        <target>Visit Number</target>
+      </trans-unit>
+
+      <!-- Patient Id Mode List -->
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdMode.None">
+        <source>Select list option for Patient Id Mode - None</source>
+        <target>None</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdMode.Name">
+        <source>Select list option for Patient Id Mode - Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdMode.DateOfBirth">
+        <source>Select list option for Patient Id Mode - Date Of Birth</source>
+        <target>Date Of Birth</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.RocheCoagulation.PatientIdMode.NameAndDOB">
+        <source>Select list option for Patient Id Mode - Name and DOB</source>
+        <target>Name and DOB</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

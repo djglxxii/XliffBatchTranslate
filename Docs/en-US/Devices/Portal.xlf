@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.2201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.22">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.57">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.58">
+                <source>Cord</source>
+                <target>Cord</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.59">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.60">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.61">
+                <source>Mixed Venous</source>
+                <target>Mixed Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.62">
+                <source>Neonate</source>
+                <target>Neonate</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.51">
+                <source>HCT</source>
+                <target>HCT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.52">
+                <source>NA</source>
+                <target>NA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.53">
+                <source>CL</source>
+                <target>CL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.54">
+                <source>BUN</source>
+                <target>BUN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.55">
+                <source>K</source>
+                <target>K</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.56">
+                <source>LYTES</source>
+                <target>LYTES</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.57">
+                <source>GLUC</source>
+                <target>GLUC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.58">
+                <source>GLU</source>
+                <target>GLU</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.59">
+                <source>ABG</source>
+                <target>ABG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60">
+                <source>TEMP</source>
+                <target>TEMP</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.490">
+                <source>Temp</source>
+                <target>Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.491">
+                <source>pH</source>
+                <target>pH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.492">
+                <source>pCO2</source>
+                <target>pCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.493">
+                <source>pO2</source>
+                <target>pO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.494">
+                <source>Na+</source>
+                <target>Na+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.495">
+                <source>K+</source>
+                <target>K+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.496">
+                <source>Cl-</source>
+                <target>Cl-</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.497">
+                <source>iCa</source>
+                <target>iCa</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.498">
+                <source>BUN</source>
+                <target>BUN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.499">
+                <source>Hct</source>
+                <target>Hct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.500">
+                <source>Glu(c)</source>
+                <target>Glu(c)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.501">
+                <source>Glu</source>
+                <target>Glu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.502">
+                <source>HCO3</source>
+                <target>HCO3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.503">
+                <source>tCO2</source>
+                <target>tCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.504">
+                <source>BEecf</source>
+                <target>BEecf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.505">
+                <source>BE</source>
+                <target>BE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.506">
+                <source>B</source>
+                <target>B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.507">
+                <source>SO2</source>
+                <target>SO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.508">
+                <source>iCa(N)</source>
+                <target>iCa(N)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.509">
+                <source>Hb</source>
+                <target>Hb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.510">
+                <source>AltSN</source>
+                <target>AltSN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.511">
+                <source>Glu S</source>
+                <target>Glu S</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.512">
+                <source>O2Sat</source>
+                <target>O2Sat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.513">
+                <source>BEB</source>
+                <target>BEB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.514">
+                <source>tHb</source>
+                <target>tHb</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

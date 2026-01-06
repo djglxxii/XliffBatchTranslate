@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="ImportExport.Operators.RowNumber">
+        <source>Row Number</source>
+        <target>Row Number</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Action">
+        <source>The action being done to the operator on import</source>
+        <target>Action</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Action.Add">
+        <source>Action for operator getting added</source>
+        <target>Add</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Action.Edit">
+        <source>Action for operator getting edited</source>
+        <target>Edit</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Action.NameEdit">
+        <source>Action for operator getting edited, including the operator name</source>
+        <target>Edit (Name)</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.OperatorID">
+        <source>Operator ID</source>
+        <target>Operator ID</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.OperatorIDUpdate">
+        <source>Operator ID Update</source>
+        <target>Operator ID Update</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.LdapUniqueId">
+        <source>LDAP Unique ID</source>
+        <target>LDAP Unique ID</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Active">
+        <source>Operator is active (not deleted or removed)</source>
+        <target>Active</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Name">
+        <source>Operator Name</source>
+        <target>Name</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Password">
+        <source>Operator Password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.HomeLocation">
+        <source>Home location of the operator</source>
+        <target>Home Location</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Role">
+        <source>Role name of the operator</source>
+        <target>Role</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Language">
+        <source>Language</source>
+        <target>Language</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.TimeZone">
+        <source>Time Zone</source>
+        <target>Time Zone</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.LoginLocked">
+        <source>Is the Operator login account locked?</source>
+        <target>Login Locked</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.ViewAllInstitutions">
+        <source>Access All Institutions</source>
+        <target>Access All Institutions</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.AccessAllCertificationGroups">
+        <source>Access All Certification Groups</source>
+        <target>Access All Certification Groups</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.LisMemo">
+        <source>LIS Memo</source>
+        <target>LIS Memo</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.InstitutionAccess">
+        <source>The names of the institutions that the operator has access to</source>
+        <target>Institution Access</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.CertificationGroupAccess">
+        <source>Certification Group Access</source>
+        <target>Certification Group Access</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Notes">
+        <source>Notes entered by the manager for an operator</source>
+        <target>Notes</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Phone">
+        <source>Phone number</source>
+        <target>Phone</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Email">
+        <source>E-mail address</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Fax">
+        <source>Fax number</source>
+        <target>Fax</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.HasDiploma">
+        <source>Does the Operator have a diploma?</source>
+        <target>Diploma</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.DiplomaNo">
+        <source>Diploma number</source>
+        <target>Diploma #</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.HasTranscript">
+        <source>Does the Operator have a transcript?</source>
+        <target>Transcript</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.TranscriptNo">
+        <source>Transcript number</source>
+        <target>Transcript #</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.HasLicense">
+        <source>Does the Operator have a license?</source>
+        <target>License</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.LicenseNo">
+        <source>License number</source>
+        <target>License #</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.HasPrimarySourceVerification">
+        <source>Does the Operator have a primary source verification?</source>
+        <target>Primary Source Verification</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.PrimarySourceVerificationNotes">
+        <source>Primary source verification notes</source>
+        <target>Primary Source Verification Notes</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.DeviceAccessLocations">
+        <source>The names of the locations that the operator has device access to</source>
+        <target>Device Access Locations</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.DeviceTypeID">
+        <source>The ID of the medical device</source>
+        <target>Device Type ID</target>
+      </trans-unit>
+       <trans-unit id="ImportExport.Operators.CertificationGroupID">
+        <source>Certification Group ID</source>
+        <target>Certification Group ID</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.DeviceOperatorID">
+        <source>The operator ID to use for this medical device</source>
+        <target>Device Operator ID</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.DevicePassword">
+        <source>The operator password to use for this medical device</source>
+        <target>Device Operator Password</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Administrator">
+        <source>Is the Operator an administrator for this medical device?</source>
+        <target>Administrator</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.Observer">
+        <source>Is the Operator an observer for this medical device?</source>
+        <target>Observer</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.InitialCertification">
+        <source>Initial certification date for this medical device</source>
+        <target>Initial Certification</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.LastCertification">
+        <source>Last certification date for this medical device</source>
+        <target>Last Certification</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.CertificationExpiration">
+        <source>The date when certification expires for this medical device</source>
+        <target>Certification Expiration</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.ObservedDate">
+        <source>Date when the certification test was observed for this medical device</source>
+        <target>Observed Date</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.CertificationObserver">
+        <source>The ID of the certification observer for this medical device</source>
+        <target>Certification Observer</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operators.ExamDate">
+        <source>The date the certification exam was successfully passed for this medical device</source>
+        <target>Exam Date</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

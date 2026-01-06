@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3006001">
+                <source>RQ</source>
+                <target>RQ</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3006002">
+                <source>CO</source>
+                <target>CO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3006003">
+                <source>CI</source>
+                <target>CI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3006004">
+                <source>OI</source>
+                <target>OI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3006005">
+                <source>SpO2</source>
+                <target>SpO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3006006">
+                <source>SvO2</source>
+                <target>SvO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3006007">
+                <source>ScvO2</source>
+                <target>ScvO2</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

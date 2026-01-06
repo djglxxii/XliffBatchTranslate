@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.7701">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7702">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7703">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7704">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7705">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7706">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7707">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7708">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7709">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7710">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7711">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7712">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7713">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7714">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7715">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7716">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7717">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7718">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7719">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7720">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7721">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7722">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7723">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7724">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7725">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7726">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7727">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7728">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7729">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7731">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7732">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7733">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7734">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7741">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7742">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7743">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7744">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7745">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7746">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7747">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7748">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7749">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7750">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7751">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7752">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7753">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7754">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7755">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7756">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7757">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7758">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7759">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7760">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7761">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7762">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7763">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7764">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7765">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7766">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7767">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7768">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7769">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7771">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7772">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7773">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7774">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.7791">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.7701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7740">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7741">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7742">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7743">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7744">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7745">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7746">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7747">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7748">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7749">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7750">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7751">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7752">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7753">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7754">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7755">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7756">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7757">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7758">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7759">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7760">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7761">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7762">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7763">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7764">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7765">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7766">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7767">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7768">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7769">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7771">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7772">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7773">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7774">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.7791">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.7701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7702">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.7703">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.7701">
+                <source>Xpert_Carba-R</source>
+                <target>Xpert_Carba-R</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7702">
+                <source>Xpert-C. difficile G2</source>
+                <target>Xpert-C. difficile G2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7703">
+                <source>Xpert C.diff-Epi</source>
+                <target>Xpert C.diff-Epi</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7704">
+                <source>Xpert CT_NG</source>
+                <target>Xpert CT_NG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7705">
+                <source>Xpert EV</source>
+                <target>Xpert EV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7706">
+                <source>Xpert FII &amp; FV Combo</source>
+                <target>Xpert FII &amp; FV Combo</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7707">
+                <source>Xpert Flu-RSV XC US-IVD</source>
+                <target>Xpert Flu-RSV XC US-IVD</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7708">
+                <source>Xpert GBS G3</source>
+                <target>Xpert GBS G3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7709">
+                <source>Xpert GBS LB</source>
+                <target>Xpert GBS LB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7710">
+                <source>Xpert MRSA G3</source>
+                <target>Xpert MRSA G3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7711">
+                <source>Xpert MRSA NxG</source>
+                <target>Xpert MRSA NxG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7712">
+                <source>Xpert MRSA-SA BC</source>
+                <target>Xpert MRSA-SA BC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7713">
+                <source>Xpert MRSA-SA SSTI G3</source>
+                <target>Xpert MRSA-SA SSTI G3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7714">
+                <source>Xpert MTB-RIF Ultra</source>
+                <target>Xpert MTB-RIF Ultra</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7715">
+                <source>Xpert MTB-RIF US IVD</source>
+                <target>Xpert MTB-RIF US IVD</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7716">
+                <source>Xpert Norovirus</source>
+                <target>Xpert Norovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7717">
+                <source>Xpert SA Nasal Complete G3</source>
+                <target>Xpert SA Nasal Complete G3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7718">
+                <source>Xpert TV</source>
+                <target>Xpert TV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7719">
+                <source>Xpert vanA G2</source>
+                <target>Xpert vanA G2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7720">
+                <source>Xpert Xpress_Flu</source>
+                <target>Xpert Xpress_Flu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7721">
+                <source>Xpert Xpress Flu-RSV</source>
+                <target>Xpert Xpress Flu-RSV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7722">
+                <source>Xpert Xpress_Strep A</source>
+                <target>Xpert Xpress_Strep A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7723">
+                <source>Xpert Xpress SARS-CoV-2</source>
+                <target>Xpert Xpress SARS-CoV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7724">
+                <source>Xpert Xpress_SARS-CoV-2_Flu_RSV</source>
+                <target>Xpert Xpress_SARS-CoV-2_Flu_RSV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7725">
+                <source>Xpress SARS-CoV-2 Flu RSV plus</source>
+                <target>Xpress SARS-CoV-2 Flu RSV plus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7726">
+                <source>Xpress SARS-CoV-2 Flu plus</source>
+                <target>Xpress SARS-CoV-2 Flu plus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7727">
+                <source>Xpress SARS-CoV-2 plus</source>
+                <target>Xpress SARS-CoV-2 plus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7728">
+                <source>Xpert Xpress SARS-CoV-2_Flu</source>
+                <target>Xpert Xpress SARS-CoV-2_Flu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7729">
+                <source>Xpert Xpress CoV-2 plus</source>
+                <target>Xpert Xpress CoV-2 plus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7731">
+                <source>Xpert GBS LB XC</source>
+                <target>Xpert GBS LB XC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.7732">
+                <source>Xpert Xpress MVP</source>
+                <target>Xpert Xpress MVP</target>
+            </trans-unit>
+           <trans-unit id="StaticData.TestTypes.7733">
+              <source>Xpress Flu RSV plus</source>
+              <target>Xpress Flu RSV plus</target>
+           </trans-unit>
+           <trans-unit id="StaticData.TestTypes.7734">
+              <source>Xpress Flu plus</source>
+              <target>Xpress Flu plus</target>
+           </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.77001">
+                <source>027</source>
+                <target>027</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77002">
+                <source>CT</source>
+                <target>CT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77003">
+                <source>EV</source>
+                <target>EV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77004">
+                <source>FII</source>
+                <target>FII</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77005">
+                <source>Flu A</source>
+                <target>Flu A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77006">
+                <source>Flu B</source>
+                <target>Flu B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77007">
+                <source>FV</source>
+                <target>FV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77008">
+                <source>GBS</source>
+                <target>GBS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77009">
+                <source>IMP</source>
+                <target>IMP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77010">
+                <source>KPC</source>
+                <target>KPC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77011">
+                <source>MRSA</source>
+                <target>MRSA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77012">
+                <source>MTB</source>
+                <target>MTB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77013">
+                <source>MTB Trace</source>
+                <target>MTB Trace</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77014">
+                <source>NDM</source>
+                <target>NDM</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77015">
+                <source>NG</source>
+                <target>NG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77016">
+                <source>Noro GI</source>
+                <target>Noro GI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77017">
+                <source>Noro GII</source>
+                <target>Noro GII</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77018">
+                <source>OXA48</source>
+                <target>OXA48</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77019">
+                <source>RIF</source>
+                <target>RIF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77020">
+                <source>RSV</source>
+                <target>RSV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77021">
+                <source>SA</source>
+                <target>SA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77022">
+                <source>Strep A</source>
+                <target>Strep A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77023">
+                <source>Toxigenic C.diff</source>
+                <target>Toxigenic C.diff</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77024">
+                <source>TV</source>
+                <target>TV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77025">
+                <source>vanA</source>
+                <target>vanA</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77026">
+                <source>VIM</source>
+                <target>VIM</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77027">
+                <source>SARS-CoV-2</source>
+                <target>SARS-CoV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77028">
+                <source>BV</source>
+                <target>BV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77029">
+                <source>CGRP</source>
+                <target>CGRP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77030">
+                <source>CGK</source>
+                <target>CGK</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77101">
+                <source>MTB Invalid</source>
+                <target>MTB Invalid</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77102">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77103">
+                <source>QC Check</source>
+                <target>QC Check</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77201">
+                <source>Test Length</source>
+                <target>Test Length</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77301">
+                <source>CartridgeId</source>
+                <target>CartridgeId</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77302">
+                <source>ModuleId</source>
+                <target>ModuleId</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77303">
+                <source>InstrumentId</source>
+                <target>InstrumentId</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77304">
+                <source>HostId</source>
+                <target>HostId</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.77305">
+                <source>Test Version</source>
+                <target>Test Version</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

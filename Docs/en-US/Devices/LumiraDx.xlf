@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.94311">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94312">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94321">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94322">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94331">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94332">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94341">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94342">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94351">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94352">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94361">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.94362">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.9401">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9402">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9403">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9404">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9405">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9406">
+                <source>Test Strip</source>
+                <target>Test Strip</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9431">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9432">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9433">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9434">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9435">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9436">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9461">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9462">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9463">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9464">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9465">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9466">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.9401">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.9402">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.9403">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.94001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94011">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94012">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94021">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94022">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94031">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94032">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94041">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94042">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94051">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94052">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94061">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94062">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94101">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94111">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94121">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94131">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94141">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.94151">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.9401">
+                <source>Nasal swab</source>
+                <target>Nasal swab</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.9402">
+                <source>Nasopharyngeal swab</source>
+                <target>Nasopharyngeal swab</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.9401">
+                <source>Influenza A/B + RSV</source>
+                <target>Influenza A/B + RSV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9402">
+                <source>SARS-CoV-2 Ab</source>
+                <target>SARS-CoV-2 Ab</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9403">
+                <source>SARS-CoV-2 Ag</source>
+                <target>SARS-CoV-2 Ag</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9404">
+                <source>SARS-Cov-2 Ag Ultra</source>
+                <target>SARS-Cov-2 Ag Ultra</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9405">
+                <source>SARS-CoV-2 &amp; Flu A/B</source>
+                <target>SARS-CoV-2 &amp; Flu A/B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.9406">
+                <source>SARS-CoV-2 &amp; RSV</source>
+                <target>SARS-CoV-2 &amp; RSV</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.94007">
+                <source>Influenza A</source>
+                <target>Influenza A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.94008">
+                <source>Influenza B</source>
+                <target>Influenza B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.94009">
+                <source>RSV</source>
+                <target>RSV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.94016">
+                <source>SARS-CoV-2 Ag</source>
+                <target>SARS-CoV-2 Ag</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.94024">
+                <source>SARS-CoV-2 Ab</source>
+                <target>SARS-CoV-2 Ab</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

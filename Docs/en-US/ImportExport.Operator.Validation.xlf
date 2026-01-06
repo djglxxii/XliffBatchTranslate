@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="ImportExport.Operator.Validation.FileLevel" datatype="html">
+        <source>Import file must be tab-delimited and contain the expected header row</source>
+        <target>Import file must be tab-delimited and contain the expected header row</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.FileTooLarge" datatype="html">
+        <source>Import file cannot exceed 10,000 rows</source>
+        <target>Import file cannot exceed 10,000 rows</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.ImportInProgress" datatype="html">
+        <source>Import may take up to 10 minutes</source>
+        <target>Import may take up to 10 minutes</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.GroupLevel.BlankOperatorID" datatype="html">
+        <source>Each row must contain an operator ID</source>
+        <target>Each row must contain an operator ID</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.GroupLevel.OperatorIDUpdateAndDeviceFields" datatype="html">
+        <source>Import file cannot contain Operator ID changes and user certifications</source>
+        <target>Import file cannot contain Operator ID changes and user certifications</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.GroupLevel.NonAdjacentOperatorID" datatype="html">
+        <source>Rows containing the same operator ID must be adjacent</source>
+        <target>Rows containing the same operator ID must be adjacent</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.GroupLevel.MultipleOperatorDevice" datatype="html">
+        <source>Each operator ID may only have a single row for a specific device type and certification group</source>
+        <target>Each operator ID may only have a single row for a specific device type and certification group</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.GroupLevel.BothOperatorAndDeviceFields" datatype="html">
+        <source>Each row can only contain operator fields or user certification fields</source>
+        <target>Each row can only contain operator fields or user certification fields</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.GroupLevel.MultipleWithOperatorFields" datatype="html">
+        <source>Each operator ID may only have a single row for operator fields</source>
+        <target>Each operator ID may only have a single row for operator fields</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.Required" datatype="html">
+        <source>This field is required</source>
+        <target>This field is required</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.MaxLength" datatype="html">
+        <source>This field is too long</source>
+        <target>This field is too long</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.RegexMatch" datatype="html">
+        <source>This field is not in the correct format</source>
+        <target>This field is not in the correct format</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.RegexNotMatch" datatype="html">
+        <source>This field is not in the correct format</source>
+        <target>This field is not in the correct format</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.PasswordContainsPassword" datatype="html">
+        <source>This password field contains the word "password", which is not valid</source>
+        <target>This password field contains the word "password", which is not valid</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.PasswordMaxLength" datatype="html">
+        <source>This password field is too long</source>
+        <target>This password field is too long</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.PasswordMaxRepeatCharacters" datatype="html">
+        <source>This password field has too many consecutive characters repeated</source>
+        <target>This password field has too many consecutive characters repeated</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.PasswordMinCharacterCategories" datatype="html">
+        <source>This password field does not have the minimum number of character categories (uppercase, lowercase, numbers, symbols)</source>
+        <target>This password field does not have the minimum number of character categories (uppercase, lowercase, numbers, symbols)</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.PasswordMinLength" datatype="html">
+        <source>This password field does not meet the minimum length requirement</source>
+        <target>This password field does not meet the minimum length requirement</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.LocationExists" datatype="html">
+        <source>The location in this field does not exist</source>
+        <target>The location in this field does not exist</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.LocationsExist" datatype="html">
+        <source>One or more of this field's locations do not exist</source>
+        <target>One or more of this field's locations do not exist</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.InstitutionsExist" datatype="html">
+        <source>One or more of this field's institutions do not exist</source>
+        <target>One or more of this field's institutions do not exist</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.RoleExists" datatype="html">
+        <source>The role in this field does not exist</source>
+        <target>The role in this field does not exist</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.EvidenceRequiresItEnabled" datatype="html">
+        <source>This evidence text field has data in it, but the corresponding evidence field is false</source>
+        <target>This evidence text field has data in it, but the corresponding evidence field is false</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.MissingOperator" datatype="html">
+        <source>This Operator ID for editing does not exist for an existing operator</source>
+        <target>This Operator ID for editing does not exist for an existing operator</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.DuplicateExistingOperatorID" datatype="html">
+        <source>This new Operator ID already exists for an existing operator</source>
+        <target>This new Operator ID already exists for an existing operator</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.DuplicateExistingOperatorIDForUpdate" datatype="html">
+        <source>This updated Operator ID already exists for an existing operator</source>
+        <target>This updated Operator ID already exists for an existing operator</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.DuplicateOperatorID" datatype="html">
+        <source>This new Operator ID already exists as a Device Operator ID for an existing operator</source>
+        <target>This new Operator ID already exists as a Device Operator ID for an existing operator</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.DuplicateLDAPUniqueID" datatype="html">
+        <source>This LDAP Unique ID is not unique</source>
+        <target>This LDAP Unique ID is not unique</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.BoolTypeConversion" datatype="html">
+        <source>This true/false field can only use "0" or "1" for its value</source>
+        <target>This true/false field can only use "0" or "1" for its value</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.DateTypeConversion" datatype="html">
+        <source>This date field is not in the correct format: YYYY-MM-DD</source>
+        <target>This date field is not in the correct format: YYYY-MM-DD</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.OperatorIDIsSupport" datatype="html">
+        <source>The operator with this operator ID cannot be modified via import</source>
+        <target>The operator with this operator ID cannot be modified via import</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.DeviceTypeIsInstalled" datatype="html">
+        <source>This device type has not been enabled or does not exist</source>
+        <target>This device type has not been enabled or does not exist</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.DeviceOperatorIDRegex" datatype="html">
+        <source>The device operator ID is not in the correct format for this device type</source>
+        <target>The device operator ID is not in the correct format for this device type</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.DevicePasswordRegex" datatype="html">
+        <source>The password is not in the correct format for this device type</source>
+        <target>The password is not in the correct format for this device type</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.LTELastCertification" datatype="html">
+        <source>This date must be less than or equal to Last Certification</source>
+        <target>This date must be less than or equal to Last Certification</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.GTEInitialCertification" datatype="html">
+        <source>This date must be greater than or equal to Initial Certification</source>
+        <target>This date must be greater than or equal to Initial Certification</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.GTELastCertification" datatype="html">
+        <source>This date must be greater than or equal to Last Certification</source>
+        <target>This date must be greater than or equal to Last Certification</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.AllCertificationFields" datatype="html">
+        <source>If any of these certifications fields have values, they must all have values: Initial Certification, Last Certification, Certification Expiration</source>
+        <target>If any of these certifications fields have values, they must all have values: Initial Certification, Last Certification, Certification Expiration</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.AllObservationFields" datatype="html">
+        <source>If any of these observation fields have values, they must all have values: Observed Date, Certification Observer</source>
+        <target>If any of these observation fields have values, they must all have values: Observed Date, Certification Observer</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.IsOperatorID" datatype="html">
+        <source>This operator ID neither exists in the database nor is it a new operator being imported</source>
+        <target>This operator ID neither exists in the database nor is it a new operator being imported</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.NotInFuture" datatype="html">
+        <source>This date cannot be in the future</source>
+        <target>This date cannot be in the future</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.UniqueDeviceOperatorIDsInDB.DeviceOperatorIDSameAsOperatorID" datatype="html">
+        <source>This device operator ID is a duplicate of another operator's ID</source>
+        <target>This device operator ID is a duplicate of another operator's ID</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.UniqueDeviceOperatorIDsInDB.SameDeviceOperatorID" datatype="html">
+        <source>This device operator ID is a duplicate of another operator's device operator ID</source>
+        <target>This device operator ID is a duplicate of another operator's device operator ID</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.UniqueDeviceOperatorIDsAmongstThemselves.DeviceOperatorIDSameAsOperatorID" datatype="html">
+        <source>This device operator ID is a duplicate of another operator's ID in this import file</source>
+        <target>This device operator ID is a duplicate of another operator's ID in this import file</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.UniqueDeviceOperatorIDsAmongstThemselves.SameDeviceOperatorIDs" datatype="html">
+        <source>This device operator ID is a duplicate of another operator's device operator ID in this import file</source>
+        <target>This device operator ID is a duplicate of another operator's device operator ID in this import file</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.MultipleMatches" datatype="html">
+        <source>During import, when looking up a name or ID in the database, you end up getting multiple matches.</source>
+        <target>Multiple matches found</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.LanguageNotSupported" datatype="html">
+        <source>Must be a supported language</source>
+        <target>Must be a supported language</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.MultipleTimeZonesDisabled" datatype="html">
+        <source>Values for Time Zones cannot be set when Multiple Time Zones is disabled</source>
+        <target>Values for Time Zones cannot be set when Multiple Time Zones is disabled</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.TimeZoneNotSupported" datatype="html">
+        <source>Must be a supported Time Zone</source>
+        <target>Must be a supported Time Zone</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.AccessAllCertificationGroups" datatype="html">
+        <source>Access All Certification Groups must be false if certification groups support is not enabled</source>
+        <target>Access All Certification Groups must be false if certification groups support is not enabled</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.CertificationGroupAccessNotAllowed" datatype="html">
+        <source>Certification Group Access must be empty when certification groups support is not enabled</source>
+        <target>Certification Group Access must be empty when certification groups support is not enabled</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.CertificationGroupAccessDuplicates" datatype="html">
+        <source>Certification Group Access has duplicate entries</source>
+        <target>Certification Group Access has duplicate entries</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.UnknownCertificationGroup" datatype="html">
+        <source>Unknown certification group</source>
+        <target>Unknown certification group</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowLevel.NotDefaultCertificationGroup" datatype="html">
+        <source> Certification Group ID must be set to default when certification groups is disabled</source>
+        <target> Certification Group ID must be set to default when certification groups is disabled</target>
+      </trans-unit>
+      
+      <trans-unit id="ImportExport.Operator.Validation.RowParse.BoolConversion" datatype="html">
+        <source>Could not convert to a boolean value: valid values for boolean fields are "0" and "1"</source>
+        <target>Could not convert to a boolean value: valid values for boolean fields are "0" and "1"</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowParse.DateConversion" datatype="html">
+        <source>Could not convert to a date value: date format must be YYYY-MM-DD</source>
+        <target>Could not convert to a date value: date format must be YYYY-MM-DD</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowParse.CsvConversion" datatype="html">
+        <source>Could not convert to a list of values: correct format is a comma-separated list with values surrounded by double quotes</source>
+        <target>Could not convert to a list of values: correct format is a comma-separated list with values surrounded by double quotes</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowParse.IntegerConversion" datatype="html">
+        <source>Could not convert to an integer value: values can only contain numbers with no decimal separator</source>
+        <target>Could not convert to an integer value: values can only contain numbers with no decimal separator</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowParse.MissingColumns" datatype="html">
+        <source>The row has one or more missing columns</source>
+        <target>The row has one or more missing columns</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowParse.ExtraColumns" datatype="html">
+        <source>The row has one or more extra columns</source>
+        <target>The row has one or more extra columns</target>
+      </trans-unit>
+      <trans-unit id="ImportExport.Operator.Validation.RowParse.MisplacedQuotes" datatype="html">
+        <source>The row has some misplaced double quotes</source>
+        <target>The row has some misplaced double quotes</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

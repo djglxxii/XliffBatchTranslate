@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.60701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.60701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.60701">
+                <source>BILI</source>
+                <target>BILI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60702">
+                <source>BILN</source>
+                <target>BILN</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.607001">
+                <source>Bilirubin Total</source>
+                <target>Bilirubin Total</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.607002">
+                <source>Bilirubin Neonatal</source>
+                <target>Bilirubin Neonatal</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

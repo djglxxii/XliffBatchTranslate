@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.43501">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.43502">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.43501">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+	    <trans-unit id="StaticData.ProductTypes.43502">
+                <source>Kit</source>
+                <target>Kit</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.43501">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.43502">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.43503">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.43501">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.43502">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.43501">
+                <source>Swab</source>
+                <target>Swab</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.43502">
+                <source>Aspirate</source>
+                <target>Aspirate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.43503">
+                <source>Wash</source>
+                <target>Wash</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.43504">
+                <source>Sputum</source>
+                <target>Sputum</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.43505">
+                <source>Whole Blood</source>
+                <target>Whole Blood</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.43506">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.43507">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.43508">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.435001">
+                <source>SARS-CoV-2</source>
+                <target>SARS-CoV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435002">
+                <source>SARS-CoV-2 Ab</source>
+                <target>SARS-CoV-2 Ab</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435003">
+                <source>SARS-CoV-2 Ag</source>
+                <target>SARS-CoV-2 Ag</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435004">
+                <source>SARS-CoV-2 Viral Load</source>
+                <target>SARS-CoV-2 Viral Load</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435005">
+                <source>Reagent</source>
+                <target>Reagent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435006">
+                <source>Enzyme</source>
+                <target>Enzyme</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435007">
+                <source>Primer</source>
+                <target>Primer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435008">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435009">
+                <source>Buffer</source>
+                <target>Buffer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435010">
+                <source>Swab</source>
+                <target>Swab</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435011">
+                <source>Test Kit</source>
+                <target>Test Kit</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435012">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435013">
+                <source>Specimen ID</source>
+                <target>Specimen ID</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435014">
+                <source>Control Line</source>
+                <target>Control Line</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435015">
+                <source>SARS-CoV-2 Ab IgM</source>
+                <target>SARS-CoV-2 Ab IgM</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435016">
+                <source>SARS-CoV-2 Ab IgG</source>
+                <target>SARS-CoV-2 Ab IgG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.435017">
+                <source>First test?</source>
+                <target>First test?</target>
+            </trans-unit>	
+            <trans-unit id="StaticData.ValueTypes.435018">
+                <source>Employed in healthcare?</source>
+                <target>Employed in healthcare?</target>
+            </trans-unit>	
+            <trans-unit id="StaticData.ValueTypes.435019">
+                <source>Symptomatic as defined by CDC?</source>
+                <target>Symptomatic as defined by CDC?</target>
+            </trans-unit>	
+            <trans-unit id="StaticData.ValueTypes.435020">
+                <source>Date of Symptom Onset mm/dd/yy</source>
+                <target>Date of Symptom Onset mm/dd/yy</target>
+            </trans-unit>	
+            <trans-unit id="StaticData.ValueTypes.435021">
+                <source>Hospitalized?</source>
+                <target>Hospitalized?</target>
+            </trans-unit>			
+            <trans-unit id="StaticData.ValueTypes.435022">
+                <source>ICU?</source>
+                <target>ICU?</target>
+            </trans-unit>	
+            <trans-unit id="StaticData.ValueTypes.435023">
+                <source>Resident in a congregate care setting?</source>
+                <target>Resident in a congregate care setting?</target>
+            </trans-unit>	
+            <trans-unit id="StaticData.ValueTypes.435024">
+                <source>Pregnant?</source>
+                <target>Pregnant?</target>
+            </trans-unit>				
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- UI: HOST -->
+            <trans-unit id="DeviceConfigurations.Epoc.Host.Title">
+                <source>Settings</source>
+                <target>Settings</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.Auth.Title">
+                <source>Authorization</source>
+                <target>Authorization</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.DataSecurity.Title">
+                <source>Data Security</source>
+                <target>Data Security</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.TestSettings.Title">
+                <source>Test settings.</source>
+                <target>Test Settings</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.AuthLevelRequiredToViewTests">
+                <source>Authorized Level Required to View Tests</source>
+                <target>Authorized Level Required to View Tests</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.AuthLevelRequiredToViewTests.Invalid">
+                <source>View Tests authority level must be greater than or equal to Login/Run Tests</source>
+                <target>View Tests authority level must be greater than or equal to Login/Run Tests</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.AuthLevelRequiredToRunTests">
+                <source>Authorized Level Required to Login/Run Tests</source>
+                <target>Authorized Level Required to Login/Run Tests</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.ApplyHemodilutionCF">
+                <source>Apply hemodilution CF</source>
+                <target>Apply hemodilution CF</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.SaveRawData">
+                <source>Save raw data</source>
+                <target>Save Raw Data</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.ActionWhenClosingTest">
+                <source>Action when closing test</source>
+                <target>Action When Closing Test</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.TemperateUnit">
+                <source>Temperature Unit</source>
+                <target>Temperature Unit</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.HeightUnit">
+                <source>Height Unit</source>
+                <target>Height Unit</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.EnableBackgroundSync">
+                <source>Enable background synchronization</source>
+                <target>Enable background synchronization</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.AutoLogoutPowerOff">
+                <source>Automatic log out after power off</source>
+                <target>Automatic Log Out After Power off</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.AutoLogoutInactivity">
+                <source>Automatic log out after inactivity</source>
+                <target>Automatic Log Out After Inactivity</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.AutoLogoutInactivityDelay">
+                <source>Automatic log out delay</source>
+                <target>Automatic Log Out Delay</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.BloodTestRetentionPeriod">
+                <source>Blood Test Retention Period</source>
+                <target>Blood Test Retention Period</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.PrintOnlyLowHighRanges">
+                <source>Print ranges only if low or high</source>
+                <target>Print Ranges Only if Low/High</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.CloseUnattendedTests">
+                <source>Close completed tests after 15 minutes</source>
+                <target>Close Completed Tests After 15 min</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.RetainSampleType">
+                <source>Retain sample type between tests</source>
+                <target>Retain Sample Type Between Tests</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.AllowRejectTest">
+                <source>Allow user to reject test</source>
+                <target>Allow User to Reject Test</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.PrintQARanges">
+                <source>Print QA Ranges</source>
+                <target>Print QA Ranges</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.PrintQCInfo">
+                <source>Print QC Info</source>
+                <target>Print QC Info</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.PrintQCInfo.Tooltip">
+                <source>History of QC testing at the time of test will not be included in blood test printouts</source>
+                <target>History of QC testing at the time of test will not be included in blood test printouts</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.Documentation">
+                <source>Additional documentation</source>
+                <target>Additional Documentation</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.AllowRetention">
+                <source>Allow retention of test data for incomplete tests</source>
+                <target>Allow Retention of Test Data for Incomplete Tests</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.EnforceCritHandling">
+                <source>Enforce critical handling</source>
+                <target>Enforce Critical Handling</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Host.EnableTestCardLockout">
+                <source>Enable Test Card Lockout</source>
+                <target>Enable Test Card Lockout</target>
+            </trans-unit>
+
+            <!-- UI: PATIENT RANGES -->
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Title">
+                <source>Patient Ranges</source>
+                <target>Patient Ranges</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.ReportableRanges">
+                <source>Reportable Ranges</source>
+                <target>Reportable Ranges</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.CopyRanges">
+                <source>Copy Ranges</source>
+                <target>Copy Ranges</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.SampleType">
+                <source>Sample Type</source>
+                <target>Sample Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte">
+                <source>Parameter</source>
+                <target>Parameter</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte.Units">
+                <source>Units</source>
+                <target>Units</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte.Range.Critical.Low">
+                <source>Critical Low</source>
+                <target>Critical Low</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte.Range.Critical.High">
+                <source>Critical High</source>
+                <target>Critical High</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte.Range.Reference.Low">
+                <source>Reference Low</source>
+                <target>Reference Low</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte.Range.Reference.High">
+                <source>Reference High</source>
+                <target>Reference High</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte.Range.Reportable">
+                <source>Reportable Range</source>
+                <target>Reportable Range</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte.Range.Low">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.Analyte.Range.High">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.SourceSampleType">
+                <source>Select Source Sample Type</source>
+                <target>Select Source Sample Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.TargetSampleType">
+                <source>Select Target Sample Type(s)</source>
+                <target>Select Target Sample Type(s)</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.CorrectValidationErrors">
+                <source>Check Range Entries</source>
+                <target>Check Range Entries</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientRanges.EditReportable">
+                <source>Edit Reportable Ranges</source>
+                <target>Edit Reportable Ranges</target>
+            </trans-unit>
+
+            <!-- UI: TEST SELECTION -->
+            <trans-unit id="DeviceConfigurations.Epoc.TestSelection.Title">
+                <source>Test Type</source>
+                <target>Test Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.TestSelection.TestSelectionTitle">
+                <source>Measured and Calculated Parameters Selection</source>
+                <target>Measured and Calculated Parameters Selection</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.TestSelection.MeasuredAnalytes.Title">
+                <source>Measured Parameters</source>
+                <target>Measured Parameters</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.TestSelection.CalculatedAnalytes.Title">
+                <source>Calculated Parameters</source>
+                <target>Calculated Parameters</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.TestSelection.Headers.Analyte">
+                <source>Parameter</source>
+                <target>Parameter</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.TestSelection.Headers.Enabled">
+                <source>Enabled</source>
+                <target>Enabled</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.TestSelection.Headers.Selected">
+                <source>Selected</source>
+                <target>Selected</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.TestSelection.AnalyteDependenciesTooltip">
+                <source>{{0}} requires {{1}} to be enabled</source>
+                <target>{{0}} requires {{1}} to be enabled</target>
+            </trans-unit>
+
+            <!-- UI: PATIENT ID -->
+            <trans-unit id="DeviceConfigurations.Epoc.PatientId.Title">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientId.PatientSettings.Title">
+                <source>Patient Settings</source>
+                <target>Patient Settings</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientId.RetainPatientId">
+                <source>Retain Patient ID between tests</source>
+                <target>Retain Patient ID Between Tests</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientId.FixedLengthPatientId">
+                <source>Fixed length patient ID</source>
+                <target>Fixed Length Patient ID</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientId.PatientIdLength">
+                <source>Patient ID maximum length</source>
+                <target>Patient ID Maximum Length</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.PatientId.PatientQueryEnabled">
+                <source>Real-time Patient Query Enabled</source>
+                <target>Real-time Patient Query Enabled</target>
+            </trans-unit>
+
+            <!-- UI: SAMPLE TYPES -->
+            <trans-unit id="DeviceConfigurations.Epoc.SampleTypes.Title">
+                <source>Sample Type</source>
+                <target>Sample Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.SampleTypeRequirements.Title">
+                <source>Sample type requirements</source>
+                <target>Sample Type Requirements</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.SupportedSampleTypes.Title">
+                <source>Supported sample types</source>
+                <target>Supported Sample Types</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.SampleTypes.RequireSelection">
+                <source>Require sample type selection</source>
+                <target>Require Sample Type Selection</target>
+            </trans-unit>
+
+            <!-- UI: PRINTERS -->
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.Title">
+                <source>Printer</source>
+                <target>Printer</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printer">
+                <source>Printer</source>
+                <target>Printer</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.Lower">
+                <source>printers</source>
+                <target>printers</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printer.Lower">
+                <source>printer</source>
+                <target>printer</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers">
+                <source>Printers</source>
+                <target>Printers</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.NoPrinters">
+                <source>No Printers Added</source>
+                <target>No Printers Added</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.AddPrinter.Title">
+                <source>Add Printer</source>
+                <target>Add Printer</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.EditPrinter.Title">
+                <source>Edit Printer</source>
+                <target>Edit Printer</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.PrinterName">
+                <source>Printer Name</source>
+                <target>Printer Name</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.DefaultPrinter">
+                <source>Default</source>
+                <target>Default</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.ConnectionType">
+                <source>Connection Type</source>
+                <target>Connection Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.Address">
+                <source>Address</source>
+                <target>Address</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.Address.Error.Ip">
+                <source>Enter in format nnn.nnn.nnn.nnn</source>
+                <target>Enter in format nnn.nnn.nnn.nnn</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.Address.Error.Bluetooth">
+                <source>Enter in format XX:XX:XX:XX:XX:XX</source>
+                <target>Enter in format XX:XX:XX:XX:XX:XX</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.PrintCalculated">
+                <source>Print Calculated</source>
+                <target>Print Calculated</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.PrintCorrected">
+                <source>Print Corrected</source>
+                <target>Print Corrected</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.PrintTestInfo">
+                <source>Print Test Info</source>
+                <target>Print Test Info</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.PrinterType">
+                <source>Print Type</source>
+                <target>Print Type</target>
+            </trans-unit>
+
+            <!-- UI: BARCODESYMBOLOGY -->
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.Title">
+                <source>Barcode Symbology</source>
+                <target>Barcode Symbology</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlType">
+                <source>Control Type</source>
+                <target>Control Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.CropBegin">
+                <source>Crop Begin</source>
+                <target>Crop Begin</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.CropEnd">
+                <source>Crop End</source>
+                <target>Crop End</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.Crop.Error">
+                <source>Enter a value between 0 and 99</source>
+                <target>Enter a value between 0 and 99</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.UserID_1D.Title">
+                <source>User ID 1D</source>
+                <target>User ID 1D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.UserID_2D.Title">
+                <source>User ID 2D</source>
+                <target>User ID 2D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.Password_1D.Title">
+                <source>Password 1D</source>
+                <target>Password 1D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.Password_2D.Title">
+                <source>Password 2D</source>
+                <target>Password 2D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ID2_1D.Title">
+                <source>ID2 1D</source>
+                <target>ID2 1D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ID2_2D.Title">
+                <source>ID2 2D</source>
+                <target>ID2 2D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.Comments_1D.Title">
+                <source>Comments 1D</source>
+                <target>Comments 1D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.Comments_2D.Title">
+                <source>Comments 2D</source>
+                <target>Comments 2D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.Other_1D.Title">
+                <source>Other 1D</source>
+                <target>Other 1D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.Other_2D.Title">
+                <source>Other 2D</source>
+                <target>Other 2D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.PatientID_1D.Title">
+                <source>Patient ID 1D</source>
+                <target>Patient ID 1D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.PatientID_2D.Title">
+                <source>Patient ID 2D</source>
+                <target>Patient ID 2D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.LotNumber_1D.Title">
+                <source>Lot Number 1D</source>
+                <target>Lot Number 1D</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.LotNumber_2D.Title">
+                <source>Lot Number 2D</source>
+                <target>Lot Number 2D</target>
+            </trans-unit>
+
+            <!-- UI: QCSCHEDULES -->
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.Title">
+                <source>QC Schedule</source>
+                <target>QC Schedule</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QualityControl.Title">
+                <source>Quality Control</source>
+                <target>Quality Control</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.CalibrationVerification.Title">
+                <source>Calibration Verification</source>
+                <target>Calibration Verification</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.ElectronicQC.Title">
+                <source>Electronic QC</source>
+                <target>Electronic QC</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.ThermalQA.Title">
+                <source>Thermal QA</source>
+                <target>Thermal QA</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.ScheduleType">
+                <source>Schedule Type</source>
+                <target>Schedule Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.VerificationType">
+                <source>Verification Type</source>
+                <target>Verification Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.VerificationType.Lock.Tooltip">
+                <source>Device will lock out if QC testing requirements not fulfilled.</source>
+                <target>Device will lock out if QC testing requirements not fulfilled.</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.VerificationType.Ask.Tooltip">
+                <source>Device will ask whether or not to proceed if QC testing requirements are not fulfilled.</source>
+                <target>Device will ask whether or not to proceed if QC testing requirements are not fulfilled.</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.VerificationType.Disabled.Tooltip">
+                <source>Device will not verify QC testing requirements.</source>
+                <target>Device will not verify QC testing requirements.</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.Title">
+                <source>Schedule Period</source>
+                <target>Schedule Period</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod">
+                <source>Schedule Period</source>
+                <target>Schedule Period</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.Hours">
+                <source>Hours</source>
+                <target>Hours</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.Week">
+                <source>Week</source>
+                <target>Week</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.MonthlyWeekDay">
+                <source>Day of Week</source>
+                <target>Day of Week</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.MonthlyPeriodType">
+                <source>Monthly Period Type</source>
+                <target>Monthly Period Type</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.TimePeriod.Every">
+                <source>Every</source>
+                <target>Every</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.TimePeriod.Hour">
+                <source>Hour</source>
+                <target>Hour</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.TimePeriod.DayOfMonth">
+                <source>Day of Month</source>
+                <target>Day of Month</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.TimePeriod.LastMonthDay">
+                <source>Last Day of the Month</source>
+                <target>Last Day of the Month</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.TimePeriod.TimeOfDay">
+                <source>Time of Day</source>
+                <target>Time of Day</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriod.ElectronicQc.Invalid">
+                <source>Electronic QC can only be set to Fixed</source>
+                <target>Electronic QC can only be set to Fixed</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.FixedPeriod.Hours.Invalid">
+                <source>Enter a value between 1 and 4368</source>
+                <target>Enter a value between 1 and 4368</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.FixedPeriod.ElectronicQc.Hours.Invalid">
+                <source>Enter a value between 1 and 8</source>
+                <target>Enter a value between 1 and 8</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.FixedPeriod.Days.Invalid">
+                <source>Enter a value between 1 and 365</source>
+                <target>Enter a value between 1 and 365</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.FixedPeriod.ThermalQa.Days.Invalid">
+                <source>Enter a value between 1 and 182</source>
+                <target>Enter a value between 1 and 182</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.FixedPeriod.Weeks.Invalid">
+                <source>Enter a value between 1 and 26</source>
+                <target>Enter a value between 1 and 26</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.GraceTimePeriod">
+                <source>Grace Time Period</source>
+                <target>Grace Time Period</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.GraceTimePeriod.Invalid">
+                <source>Grace period must be less than the schedule period</source>
+                <target>Grace period must be less than the schedule period</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.GraceTimePeriod.Tooltip">
+                <source>Allows testing for a period of time after QA schedule requirements expire.</source>
+                <target>Allows testing for a period of time after QA schedule requirements expire.</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WarningTimePeriod">
+                <source>Warning Time Period</source>
+                <target>Warning Time Period</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WarningPeriod.Invalid">
+                <source>Warning period must be less than the schedule period</source>
+                <target>Warning period must be less than the schedule period</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WarningTimePeriod.Tooltip">
+                <source>Warns the user for a period of time before QA Schedule requirements expire.</source>
+                <target>Warns the user for a period of time before QA Schedule requirements expire.</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.Title">
+                <source>Required Fluids</source>
+                <target>Required Fluids</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids">
+                <source>Required Fluids</source>
+                <target>Required Fluids</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.Levels">
+                <source>Levels</source>
+                <target>Levels</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.Levels.Invalid">
+                <source>Specific levels do not match the enabled measured parameter.</source>
+                <target>Specific levels do not match the enabled measured parameter.</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.Levels.QualityControl.Invalid">
+                <source>Only levels 1 through 3 are available for Quality Control.</source>
+                <target>Only levels 1 through 3 are available for Quality Control.</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.AllowTestWhenFailed">
+                <source>Allow Test on Expired Schedule</source>
+                <target>Allow Test on Expired Schedule</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.AllowTestWhenFailed.Yes.Tooltip">
+                <source>Allow test to continue with only parameters that meet the QC testing requirements.</source>
+                <target>Allow test to continue with only parameters that meet the QC testing requirements.</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.AllowTestWhenFailed.No.Tooltip">
+                <source>Do not allow test to continue if parameters do not meet QC testing requirements.</source>
+                <target>Do not allow test to continue if parameters do not meet QC testing requirements.</target>
+            </trans-unit>
+
+            <!-- API: ADMINCONFIG -->
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.AuthLevelLoginOption.IdAndPassword">
+                <source>ID and Password</source>
+                <target>ID and Password</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.AuthLevelLoginOption.IdOnly">
+                <source>ID Only</source>
+                <target>ID Only</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.AuthLevelLoginOption.None">
+                <source>None</source>
+                <target>None</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.AuthLevelViewTestsOption.IdAndPassword">
+                <source>ID and Password</source>
+                <target>ID and Password</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.AuthLevelViewTestsOption.IdOnly">
+                <source>ID Only</source>
+                <target>ID Only</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.AuthLevelViewTestsOption.None">
+                <source>None</source>
+                <target>None</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.ApplyHemodilutionOption.AlwaysApplyHCF">
+                <source>Always Apply HCF</source>
+                <target>Always Apply HCF</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.ApplyHemodilutionOption.NeverApplyHCF">
+                <source>Never Apply HCF</source>
+                <target>Never Apply HCF</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.ApplyHemodilutionOption.ForceSelection">
+                <source>Force Selection</source>
+                <target>Force Selection</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.ApplyHemodilutionOption.UseHostSetting">
+                <source>Use Host Setting</source>
+                <target>Use Host Setting</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.ActionWhenClosingTestOption.NoAction">
+                <source>No Action</source>
+                <target>No Action</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.ActionWhenClosingTestOption.SynchronizeTestResults">
+                <source>Synchronize Test Results</source>
+                <target>Synchronize Test Results</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.ActionWhenClosingTestOption.SyncAndLogout">
+                <source>Sync and Logout</source>
+                <target>Sync and Logout</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.ActionWhenClosingTestOption.UseHostSetting">
+                <source>Use Host Setting</source>
+                <target>Use Host Setting</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.SaveRawDataOption.Never">
+                <source>Never</source>
+                <target>Never</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.SaveRawDataOption.Always">
+                <source>Always</source>
+                <target>Always</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.SaveRawDataOption.OnFailure">
+                <source>On Failure</source>
+                <target>On Failure</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.TemperatureUnitOption.Fahrenheit">
+                <source>Fahrenheit</source>
+                <target>ºF</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.TemperatureUnitOption.Celsius">
+                <source>Celsius</source>
+                <target>ºC</target>
+            </trans-unit>
+            
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.HeightUnitOption.Centimeter">
+                <source>cm</source>
+                <target>cm</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.HeightUnitOption.Inch">
+                <source>inches</source>
+                <target>inches</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.BloodTestRetentionPeriodOption.KeepIndefinitely">
+                <source>Keep indefinitely</source>
+                <target>Keep indefinitely</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.BloodTestRetentionPeriodOption.OneDay">
+                <source>1 day</source>
+                <target>1 day</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.BloodTestRetentionPeriodOption.OneWeek">
+                <source>1 week</source>
+                <target>1 week</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.BloodTestRetentionPeriodOption.OneMonth">
+                <source>1 month</source>
+                <target>1 month</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.BloodTestRetentionPeriodOption.SixMonths">
+                <source>6 months</source>
+                <target>6 months</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.AdminConfig.BloodTestRetentionPeriodOption.OneYear">
+                <source>1 year</source>
+                <target>1 year</target>
+            </trans-unit>
+
+            <!-- API: PATIENT RANGES -->
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.RangeTypeOption.Reference">
+                <source>Reference Range</source>
+                <target>Reference Range</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.RangeTypeOption.Critical">
+                <source>Critical Range</source>
+                <target>Critical Range</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.RangeTypeOption.Reportable">
+                <source>Reportable Range</source>
+                <target>Reportable Range</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.RangeTypeOption.CustomReportable">
+                <source>Custom Reportable Range</source>
+                <target>Custom Reportable Range</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.TestModeOption.Blood">
+                <source>Blood</source>
+                <target>Blood</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.TestModeOption.QA">
+                <source>QA</source>
+                <target>QA</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Arterial">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Capillary">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Cord">
+                <source>Cord</source>
+                <target>Cord</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Cord-Arterial">
+                <source>Cord-Arterial</source>
+                <target>Cord-Arterial</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Cord-Venous">
+                <source>Cord-Venous</source>
+                <target>Cord-Venous</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Mixed-Venous">
+                <source>Mixed-Venous</source>
+                <target>Mixed-Venous</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Unknown">
+                <source>Unknown</source>
+                <target>Unknown</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Unspecified">
+                <source>Unspecified</source>
+                <target>Unspecified</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Ranges.SampleTypeOption.Venous">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+
+            <!-- API: PRINTERS -->
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.PrinterTypeOption.Zebra">
+                <source>Zebra ZQ110</source>
+                <target>Zebra ZQ110</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.PrinterTypeOption.Martel">
+                <source>Martel LLP1880B-391</source>
+                <target>Martel LLP1880B-391</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.PrinterTypeOption.Other">
+                <source>Other</source>
+                <target>Other</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.ConnectionTypeOption.IP">
+                <source>IP</source>
+                <target>IP</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.Printers.ConnectionTypeOption.Bluetooth">
+                <source>Bluetooth</source>
+                <target>Bluetooth</target>
+            </trans-unit>
+
+            <!-- API: BARCODESYMBOLOGY -->
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlTypeOption.UserId">
+                <source>User ID</source>
+                <target>User ID</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlTypeOption.Password">
+                <source>Password</source>
+                <target>Password</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlTypeOption.PatientID_Deprecated">
+                <source>Patient ID (Deprecated)</source>
+                <target>Patient ID (Deprecated)</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlTypeOption.ID2">
+                <source>ID2</source>
+                <target>ID2</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlTypeOption.Comment">
+                <source>Comment</source>
+                <target>Comment</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlTypeOption.Other">
+                <source>Other</source>
+                <target>Other</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlTypeOption.PatientID">
+                <source>Patient ID</source>
+                <target>Patient ID</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.ControlTypeOption.LotNumber">
+                <source>Lot Number</source>
+                <target>Lot Number</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.UPC-A">
+                <source>UPC-A</source>
+                <target>UPC-A</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.UPC-E">
+                <source>UPC-E</source>
+                <target>UPC-E</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.UPC-E1">
+                <source>UPC-E1</source>
+                <target>UPC-E1</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.EAN-8">
+                <source>EAN-8</source>
+                <target>EAN-8</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.EAN-13">
+                <source>EAN-13</source>
+                <target>EAN-13</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.BooklandEAN">
+                <source>Bookland EAN</source>
+                <target>Bookland EAN</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.Code-128">
+                <source>Code-128</source>
+                <target>Code-128</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.UCCEAN-128">
+                <source>UCC EAN-128</source>
+                <target>UCC EAN-128</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.ISBT-1281">
+                <source>ISBT-1281</source>
+                <target>ISBT-1281</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.Code-39">
+                <source>Code-39</source>
+                <target>Code-39</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.TriopticCode-39">
+                <source>Trioptic code-39</source>
+                <target>Trioptic code-39</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.Code39FullAsciiConversion">
+                <source>Code 39 full ASCII Conversion</source>
+                <target>Code 39 full ASCII Conversion</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.Code-93">
+                <source>Code-93</source>
+                <target>Code-93</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.Interleaved2of5">
+                <source>Interleaved 2 of 5</source>
+                <target>Interleaved 2 of 5</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.Discrete2of5">
+                <source>Discrete 2 of 5</source>
+                <target>Discrete 2 of 5</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.Codabar">
+                <source>Codabar</source>
+                <target>Codabar</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.MSI">
+                <source>MSI</source>
+                <target>MSI</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.PDF417">
+                <source>PDF 417</source>
+                <target>PDF 417</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.MicroPDF">
+                <source>Micro PDF</source>
+                <target>Micro PDF</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.MacroPDF">
+                <source>Macro PDF</source>
+                <target>Macro PDF</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.MaxiCode">
+                <source>Maxi Code</source>
+                <target>Maxi Code</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.DataMatrix">
+                <source>Data Matrix</source>
+                <target>Data Matrix</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.QRCode">
+                <source>QR Code</source>
+                <target>QR Code</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.MacroMicroPDF">
+                <source>Macro-Micro PDF</source>
+                <target>Macro-Micro PDF</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.CompositeAB">
+                <source>Composite AB</source>
+                <target>Composite AB</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.CompositeC">
+                <source>Composite C</source>
+                <target>Composite C</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.TLC39">
+                <source>TLC 39</source>
+                <target>TLC 39</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.Aztec">
+                <source>Aztec</source>
+                <target>Aztec</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.BarcodeSymbology.SymbologyMask.MicroQR">
+                <source>Micro QR</source>
+                <target>Micro QR</target>
+            </trans-unit>
+
+            <!-- API: QCSCHEDULES -->
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.ScheduleType.ElectronicQC">
+                <source>Electronic QC</source>
+                <target>Electronic QC</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.ScheduleType.ThermalQA">
+                <source>Thermal QA</source>
+                <target>Thermal QA</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.ScheduleType.CalibrationVerification">
+                <source>Calibration Verification</source>
+                <target>Calibration Verification</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.ScheduleType.QualityControl">
+                <source>Quality Control</source>
+                <target>Quality Control</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.VerificationType.Lock">
+                <source>Lock</source>
+                <target>Lock</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.VerificationType.Ask">
+                <source>Ask</source>
+                <target>Ask</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.VerificationType.Disabled">
+                <source>Disabled</source>
+                <target>Disabled</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriodTimeType.Fixed">
+                <source>Fixed</source>
+                <target>Fixed</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriodTimeType.Weekly">
+                <source>Weekly</source>
+                <target>Weekly</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriodTimeType.Monthly">
+                <source>Monthly</source>
+                <target>Monthly</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.SchedulePeriodTimeType.BiAnnual">
+                <source>Bi-annual</source>
+                <target>Bi-annual</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.FixedPeriodType.Hours">
+                <source>Hours</source>
+                <target>Hours</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.FixedPeriodType.Days">
+                <source>Days</source>
+                <target>Days</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.FixedPeriodType.Weeks">
+                <source>Weeks</source>
+                <target>Weeks</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WeeklyScheduleDay.Sunday">
+                <source>Sunday</source>
+                <target>Sunday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WeeklyScheduleDay.Monday">
+                <source>Monday</source>
+                <target>Monday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WeeklyScheduleDay.Tuesday">
+                <source>Tuesday</source>
+                <target>Tuesday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WeeklyScheduleDay.Wednesday">
+                <source>Wednesday</source>
+                <target>Wednesday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WeeklyScheduleDay.Thursday">
+                <source>Thursday</source>
+                <target>Thursday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WeeklyScheduleDay.Friday">
+                <source>Friday</source>
+                <target>Friday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WeeklyScheduleDay.Saturday">
+                <source>Saturday</source>
+                <target>Saturday</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyPeriodType.SpecificDate">
+                <source>Monthly on Specific Date</source>
+                <target>Monthly on Specific Date</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyPeriodType.SpecificDay">
+                <source>Specific Week Day</source>
+                <target>Specific Week Day</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyDayType.First">
+                <source>First</source>
+                <target>First</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyDayType.Second">
+                <source>Second</source>
+                <target>Second</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyDayType.Third">
+                <source>Third</source>
+                <target>Third</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyDayType.Last">
+                <source>Last</source>
+                <target>Last</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyWeekDay.Sunday">
+                <source>Sunday</source>
+                <target>Sunday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyWeekDay.Monday">
+                <source>Monday</source>
+                <target>Monday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyWeekDay.Tuesday">
+                <source>Tuesday</source>
+                <target>Tuesday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyWeekDay.Wednesday">
+                <source>Wednesday</source>
+                <target>Wednesday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyWeekDay.Thursday">
+                <source>Thursday</source>
+                <target>Thursday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyWeekDay.Friday">
+                <source>Friday</source>
+                <target>Friday</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.MonthlyWeekDay.Saturday">
+                <source>Saturday</source>
+                <target>Saturday</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.GracePeriodTimeType.Hours">
+                <source>Hours</source>
+                <target>Hours</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.GracePeriodTimeType.Days">
+                <source>Days</source>
+                <target>Days</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.GracePeriodTimeType.Weeks">
+                <source>Weeks</source>
+                <target>Weeks</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WarningPeriodTimeType.Hours">
+                <source>Hours</source>
+                <target>Hours</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WarningPeriodTimeType.Days">
+                <source>Days</source>
+                <target>Days</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.WarningPeriodTimeType.Weeks">
+                <source>Weeks</source>
+                <target>Weeks</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.Minimum">
+                <source>Require Minimum Levels</source>
+                <target>Require Minimum Levels</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.RequiredFluids.Specific">
+                <source>Require Specific Levels</source>
+                <target>Require Specific Levels</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.BiAnnualMonths.JanJul">
+                <source>January and July</source>
+                <target>January and July</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.BiAnnualMonths.FebAug">
+                <source>February and August</source>
+                <target>February and August</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.BiAnnualMonths.MarSep">
+                <source>March and September</source>
+                <target>March and September</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.BiAnnualMonths.AprOct">
+                <source>April and October</source>
+                <target>April and October</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.BiAnnualMonths.MayNov">
+                <source>May and November</source>
+                <target>May and November</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.BiAnnualMonths.JunDec">
+                <source>June and December</source>
+                <target>June and December</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.Levels.1">
+                <source>1</source>
+                <target>1</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.Levels.2">
+                <source>2</source>
+                <target>2</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.Levels.3">
+                <source>3</source>
+                <target>3</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.Levels.4">
+                <source>4</source>
+                <target>4</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.Levels.5">
+                <source>5</source>
+                <target>5</target>
+            </trans-unit>
+
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.CV1L1">
+                <source>CV1/L1</source>
+                <target>CV1/L1</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.CV2L2">
+                <source>CV2/L2</source>
+                <target>CV2/L2</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.CV3L3">
+                <source>CV3/L3</source>
+                <target>CV3/L3</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.CV4">
+                <source>CV4</source>
+                <target>CV4</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.CV5">
+                <source>CV5</source>
+                <target>CV5</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.H2HA">
+                <source>H2/HA</source>
+                <target>H2/HA</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.H3HC">
+                <source>H3/HC</source>
+                <target>H3/HC</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.H4HB">
+                <source>H4/HB</source>
+                <target>H4/HB</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.H1">
+                <source>H1</source>
+                <target>H1</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.H5">
+                <source>H5</source>
+                <target>H5</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.HPB">
+                <source>HPB</source>
+                <target>HPB</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.HPX">
+                <source>HPX</source>
+                <target>HPX</target>
+            </trans-unit>
+            <trans-unit id="DeviceConfigurations.Epoc.QcSchedules.QAFluidLevelMask.L6">
+                <source>L6</source>
+                <target>L6</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

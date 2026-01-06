@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.Digival.DeviceSettings">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Connectivity">
+        <source>Connectivity</source>
+        <target>Connectivity</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.TestSettings">
+        <source>Test Settings</source>
+        <target>Test Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.AccessControl">
+        <source>Access Control</source>
+        <target>Access Control</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.AssaySettings">
+        <source>Assay</source>
+        <target>Assay</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.AutoUploadResults">
+        <source>Auto Upload Results</source>
+        <target>Auto Upload Results</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.PositivePatientId">
+        <source>Positive Patient ID</source>
+        <target>Positive Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.PurgeTestResults">
+        <source>Purge Test Results</source>
+        <target>Purge Test Results</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.PatientTestOptions">
+        <source>Patient Test Options</source>
+        <target>Patient Test Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.QcLotManagement">
+        <source>QC Lot Management</source>
+        <target>QC Lot Management</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.OperatorPassword">
+        <source>Operator Password</source>
+        <target>Operator Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.AutoLogoutMinutes">
+        <source>Auto Log Out Minutes</source>
+        <target>Auto Log Out Minutes</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Disabled">
+        <source>Disabled</source>
+        <target>Disabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Enabled">
+        <source>Enabled</source>
+        <target>Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.AfterUpload">
+        <source>After Upload</source>
+        <target>After Upload</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.3Days">
+        <source>3 Days</source>
+        <target>3 Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Warn">
+        <source>Warn</source>
+        <target>Warn</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Lockout">
+        <source>Lockout</source>
+        <target>Lockout</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.15">
+        <source>15</source>
+        <target>15</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.30">
+        <source>30</source>
+        <target>30</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.60">
+        <source>60</source>
+        <target>60</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.180">
+        <source>180</source>
+        <target>180</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.PatientName">
+        <source>Patient Name</source>
+        <target>Patient Name</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.PatientDob">
+        <source>Patient DOB</source>
+        <target>Patient DOB</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Assay">
+        <source>Assay</source>
+        <target>Assay</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.WalkAwayMode">
+        <source>Walk Away Mode</source>
+        <target>Walk Away Mode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.QcSchedule">
+        <source>QC Schedule</source>
+        <target>QC Schedule</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.QcScheduleUnits">
+        <source>Schedule Unit</source>
+        <target>Schedule Unit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.QcScheduleLimit">
+        <source>Schedule Limit</source>
+        <target>Schedule Limit</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.ReadNow">
+        <source>Read Now</source>
+        <target>Read Now</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.WalkAway">
+        <source>Walk Away</source>
+        <target>Walk Away</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Enforce">
+        <source>Enforce</source>
+        <target>Enforce</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Tests">
+        <source>Tests</source>
+        <target>Tests</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.Days">
+        <source>Days</source>
+        <target>Days</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Digival.ScheduleLimit.ToolTip">
+        <source># of days or tests between required QC tests</source>
+        <target># of days or tests between required QC tests</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" datatype="plaintext" original="ng2.template">
+		<body>
+			<trans-unit id="RALS.SampleTypes.Arterial" datatype="html">
+				<source>Arterial</source>
+				<target>Arterial</target>
+			</trans-unit>
+			<trans-unit id="RALS.SampleTypes.Capillary" datatype="html">
+				<source>Capillary</source>
+				<target>Capillary</target>
+			</trans-unit>
+			<trans-unit id="RALS.SampleTypes.Cord" datatype="html">
+				<source>Cord</source>
+				<target>Cord</target>
+			</trans-unit>
+			<trans-unit id="RALS.SampleTypes.CordArterial" datatype="html">
+				<source>Cord Arterial</source>
+				<target>Cord-Arterial</target>
+			</trans-unit>
+			<trans-unit id="RALS.SampleTypes.CordVenous" datatype="html">
+				<source>Cord Venous</source>
+				<target>Cord-Venous</target>
+			</trans-unit>
+			<trans-unit id="RALS.SampleTypes.MixedVenous" datatype="html">
+				<source>Mixed Venous</source>
+				<target>Mixed-Venous</target>
+			</trans-unit>
+			<trans-unit id="RALS.SampleTypes.Unknown" datatype="html">
+				<source>Unknown</source>
+				<target>Unknown</target>
+			</trans-unit>
+			<trans-unit id="RALS.SampleTypes.Unspecified" datatype="html">
+				<source>Unspecified</source>
+				<target>Unspecified</target>
+			</trans-unit>			
+			<trans-unit id="RALS.SampleTypes.Venous" datatype="html">
+				<source>Venous</source>
+				<target>Venous</target>
+			</trans-unit>	
+         <trans-unit id="RALS.SampleTypes.CapillaryArterial" datatype="html">
+				<source>Capillary/Arterial</source>
+				<target>Capillary/Arterial</target>
+			</trans-unit>
+      <trans-unit id="RALS.SampleTypes.CapillaryFingerstick" datatype="html">
+        <source>Capillary Fingerstick</source>
+        <target>Capillary Fingerstick</target>
+      </trans-unit>
+      <trans-unit id="RALS.SampleTypes.CapillaryHeelstick" datatype="html">
+        <source>Capillary Heelstick</source>
+        <target>Capillary Heelstick</target>
+      </trans-unit>
+		</body>
+	</file>
+</xliff>

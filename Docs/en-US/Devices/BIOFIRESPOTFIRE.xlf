@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.10241">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.10242">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.10201">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10202">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10203">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10204">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10241">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10291">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.10201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10240">
+                <source>QC - Unknown</source>
+                <target>QC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10241">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10242">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10291">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.10201">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.10202">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.10203">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.10201">
+                <source>Nasopharyngeal Swab</source>
+                <target>Nasopharyngeal Swab</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10202">
+                <source>Throat Swab</source>
+                <target>Throat Swab</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.10201">
+                <source>R/ST Panel</source>
+                <target>R/ST Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.10202">
+                <source>R Panel</source>
+                <target>R Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.10203">
+                <source>R Panel Mini</source>
+                <target>R Panel Mini</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.10204">
+                <source>R/ST Panel Mini</source>
+                <target>R/ST Panel Mini</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.102001">
+                <source>Adenovirus</source>
+                <target>Adenovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102002">
+                <source>Coronavirus SARS-CoV-2</source>
+                <target>Coronavirus SARS-CoV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102003">
+                <source>Coronavirus (seasonal)</source>
+                <target>Coronavirus (seasonal)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102004">
+                <source>Human metapneumovirus</source>
+                <target>Human metapneumovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102005">
+                <source>Human rhinovirus/enterovirus</source>
+                <target>Human rhinovirus/enterovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102006">
+                <source>Influenza A virus</source>
+                <target>Influenza A virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102007">
+                <source>Influenza A virus A/H1-2009</source>
+                <target>Influenza A virus A/H1-2009</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102008">
+                <source>Influenza A virus A/H3</source>
+                <target>Influenza A virus A/H3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102009">
+                <source>Influenza B virus</source>
+                <target>Influenza B virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102010">
+                <source>Parainfluenza virus</source>
+                <target>Parainfluenza virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102011">
+                <source>Respiratory syncytial virus</source>
+                <target>Respiratory syncytial virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102021">
+                <source>Bordetella parapertussis</source>
+                <target>Bordetella parapertussis</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102022">
+                <source>Bordetella pertussis</source>
+                <target>Bordetella pertussis</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102023">
+                <source>Chlamydia pneumoniae</source>
+                <target>Chlamydia pneumoniae</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102024">
+                <source>Mycoplasma pneumoniae</source>
+                <target>Mycoplasma pneumoniae</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102025">
+                <source>Streptococcus dysgalactiae (group C/G Strep)</source>
+                <target>Streptococcus dysgalactiae (group C/G Strep)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102026">
+                <source>Streptococcus pyogenes (group A Strep)</source>
+                <target>Streptococcus pyogenes (group A Strep)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102101">
+                <source>Adenovirus</source>
+                <target>Adenovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102102">
+                <source>Coronavirus SARS-CoV-2</source>
+                <target>Coronavirus SARS-CoV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102103">
+                <source>Coronavirus (seasonal)</source>
+                <target>Coronavirus (seasonal)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102104">
+                <source>Human metapneumovirus</source>
+                <target>Human metapneumovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102105">
+                <source>Human rhinovirus/enterovirus</source>
+                <target>Human rhinovirus/enterovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102106">
+                <source>Influenza A virus</source>
+                <target>Influenza A virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102107">
+                <source>Influenza A virus A/H1-2009</source>
+                <target>Influenza A virus A/H1-2009</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102108">
+                <source>Influenza A virus A/H3</source>
+                <target>Influenza A virus A/H3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102109">
+                <source>Influenza B virus</source>
+                <target>Influenza B virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102110">
+                <source>Parainfluenza virus</source>
+                <target>Parainfluenza virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102111">
+                <source>Respiratory syncytial virus</source>
+                <target>Respiratory syncytial virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102121">
+                <source>Bordetella parapertussis</source>
+                <target>Bordetella parapertussis</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102122">
+                <source>Bordetella pertussis</source>
+                <target>Bordetella pertussis</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102123">
+                <source>Chlamydia pneumoniae</source>
+                <target>Chlamydia pneumoniae</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102124">
+                <source>Mycoplasma pneumoniae</source>
+                <target>Mycoplasma pneumoniae</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102125">
+                <source>Streptococcus dysgalactiae (group C/G Strep)</source>
+                <target>Streptococcus dysgalactiae (group C/G Strep)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102126">
+                <source>Streptococcus pyogenes (group A Strep)</source>
+                <target>Streptococcus pyogenes (group A Strep)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102201">
+                <source>Adenovirus</source>
+                <target>Adenovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102202">
+                <source>Coronavirus SARS-CoV-2</source>
+                <target>Coronavirus SARS-CoV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102203">
+                <source>Coronavirus (seasonal)</source>
+                <target>Coronavirus (seasonal)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102204">
+                <source>Human metapneumovirus</source>
+                <target>Human metapneumovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102205">
+                <source>Human rhinovirus/enterovirus</source>
+                <target>Human rhinovirus/enterovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102206">
+                <source>Influenza A virus</source>
+                <target>Influenza A virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102207">
+                <source>Influenza A virus A/H1-2009</source>
+                <target>Influenza A virus A/H1-2009</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102208">
+                <source>Influenza A virus A/H3</source>
+                <target>Influenza A virus A/H3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102209">
+                <source>Influenza B virus</source>
+                <target>Influenza B virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102210">
+                <source>Parainfluenza virus</source>
+                <target>Parainfluenza virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102211">
+                <source>Respiratory syncytial virus</source>
+                <target>Respiratory syncytial virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102221">
+                <source>Bordetella parapertussis</source>
+                <target>Bordetella parapertussis</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102222">
+                <source>Bordetella pertussis</source>
+                <target>Bordetella pertussis</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102223">
+                <source>Chlamydia pneumoniae</source>
+                <target>Chlamydia pneumoniae</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102224">
+                <source>Mycoplasma pneumoniae</source>
+                <target>Mycoplasma pneumoniae</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102301">
+                <source>Coronavirus SARS-CoV-2</source>
+                <target>Coronavirus SARS-CoV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102302">
+                <source>Human rhinovirus</source>
+                <target>Human rhinovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102303">
+                <source>Influenza A virus</source>
+                <target>Influenza A virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102304">
+                <source>Influenza B virus</source>
+                <target>Influenza B virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102305">
+                <source>Respiratory syncytial virus</source>
+                <target>Respiratory syncytial virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102401">
+                <source>Coronavirus SARS-CoV-2</source>
+                <target>Coronavirus SARS-CoV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102402">
+                <source>Human rhinovirus</source>
+                <target>Human rhinovirus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102403">
+                <source>Influenza A virus</source>
+                <target>Influenza A virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102404">
+                <source>Influenza B virus</source>
+                <target>Influenza B virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102405">
+                <source>Respiratory syncytial virus</source>
+                <target>Respiratory syncytial virus</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102421">
+                <source>Streptococcus pyogenes (group A Strep)</source>
+                <target>Streptococcus pyogenes (group A Strep)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102501">
+                <source>Run Status</source>
+                <target>Run Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102502">
+                <source>QC Result</source>
+                <target>QC Result</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102601">
+                <source>PCR2 Control</source>
+                <target>PCR2 Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102602">
+                <source>PCR2 Control Tm Value A</source>
+                <target>PCR2 Control Tm Value A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102603">
+                <source>PCR2 Control Tm Value B</source>
+                <target>PCR2 Control Tm Value B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102604">
+                <source>PCR2 Control Tm Value C</source>
+                <target>PCR2 Control Tm Value C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102605">
+                <source>RNA Process Control </source>
+                <target>RNA Process Control </target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102606">
+                <source>RNA Process Control Tm Value A</source>
+                <target>RNA Process Control Tm Value A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102607">
+                <source>RNA Process Control Tm Value B</source>
+                <target>RNA Process Control Tm Value B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102608">
+                <source>RNA Process Control Tm Value C</source>
+                <target>RNA Process Control Tm Value C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102701">
+                <source>Pouch S/N</source>
+                <target>Pouch S/N</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.102702">
+                <source>Module S/N</source>
+                <target>Module S/N</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

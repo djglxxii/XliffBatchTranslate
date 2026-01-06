@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.3901">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3902">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3903">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3904">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3905">
+                <source>HTC</source>
+                <target>HTC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3906">
+                <source>Abnormal</source>
+                <target>Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3907">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3909">
+                <source>98-102</source>
+                <target>98-102</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3910">
+                <source>190-204</source>
+                <target>190-204</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3911">
+                <source>490-510</source>
+                <target>490-510</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.3901">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3902">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3903">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3904">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3905">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3910">
+                <source>HR Normal</source>
+                <target>HR Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3911">
+                <source>HR Abnormal</source>
+                <target>HR Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3912">
+                <source>CWB (LRACT)</source>
+                <target>CWB (LRACT)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3913">
+                <source>LR Abnormal</source>
+                <target>LR Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3914">
+                <source>HTC</source>
+                <target>HTC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3915">
+                <source>RACT Abnormal</source>
+                <target>RACT Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3916">
+                <source>CWB (RACT)</source>
+                <target>CWB (RACT)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3920">
+                <source>ACTtrac</source>
+                <target>ACTtrac</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.3901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3902">
+                <source>QC - HR Normal</source>
+                <target>QC - HR Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3903">
+                <source>QC - HR Abnormal</source>
+                <target>QC - HR Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3904">
+                <source>QC - CWB (LRACT)</source>
+                <target>QC - CWB (LRACT)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3905">
+                <source>QC - LR Abnormal</source>
+                <target>QC - LR Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3906">
+                <source>QC - HTC</source>
+                <target>QC - HTC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3907">
+                <source>QC - RACT Abnormal</source>
+                <target>QC - RACT Abnormal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3908">
+                <source>QC - CWB (RACT)</source>
+                <target>QC - CWB (RACT)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3910">
+                <source>EQC 98-102</source>
+                <target>EQC 98-102</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3911">
+                <source>EQC 190-204</source>
+                <target>EQC 190-204</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3912">
+                <source>EQC 490-510</source>
+                <target>EQC 490-510</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3913">
+                <source>EQC Unknown</source>
+                <target>EQC Unknown</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.3901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.3902">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.3903">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.3901">
+                <source>HR-ACT</source>
+                <target>HR-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.3902">
+                <source>LR-ACT</source>
+                <target>LR-ACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.3903">
+                <source>HTC</source>
+                <target>HTC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.3904">
+                <source>RACT</source>
+                <target>RACT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.3905">
+                <source>GPC</source>
+                <target>GPC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.3906">
+                <source>ACTtrac</source>
+                <target>ACTtrac</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.39001">
+                <source>ACT 1</source>
+                <target>ACT 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.39002">
+                <source>ACT 2</source>
+                <target>ACT 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.39003">
+                <source>ACT Average</source>
+                <target>ACT Average</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.39004">
+                <source>Difference</source>
+                <target>Difference</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.39005">
+                <source>Spread</source>
+                <target>Spread</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.39006">
+                <source>Temp</source>
+                <target>Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.39007">
+                <source>Control Status</source>
+                <target>Control Status</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

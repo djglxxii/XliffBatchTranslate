@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.Page">
+        <source>Page</source>
+        <target>Page</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.PatientIdSettings">
+        <source>Patient ID Settings</source>
+        <target>Patient ID Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.OperatorIdSettings">
+        <source>Operator ID Settings</source>
+        <target>Operator ID Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.OperatorIdNotRequired">
+        <source>No Operator ID Required</source>
+        <target>No Operator ID Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.OperatorIdRequired">
+        <source>Require Operator ID</source>
+        <target>Require Operator ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.OperatorIdRequiredFromOperatorTable">
+        <source>Require a Valid Operator ID from Operator Table</source>
+        <target>Require a Valid Operator ID from Operator Table</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.NormalDateFormat">
+        <source>MM/DD/YYYY</source>
+        <target>MM/DD/YYYY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.AlternateDateFormat">
+        <source>DD/MM/YYYY</source>
+        <target>DD/MM/YYYY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.InstrumentOptions">
+        <source>Instrument Options</source>
+        <target>Instrument Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.RequirePatientId">
+        <source>Require Patient ID</source>
+        <target>Require Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.PatientIdLength">
+        <source>Patient ID Length</source>
+        <target>Patient ID Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.ReusePatientId">
+        <source>Re-Use Patient ID</source>
+        <target>Re-Use Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.RequireOperatorId">
+        <source>Operator ID Required</source>
+        <target>Operator ID Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.ReuseOperatorId">
+        <source>Re-Use Operator ID</source>
+        <target>Re-Use Operator ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.SignaturePlus.UsePatientIdLengthLimit">
+        <source>Limit Patient ID Length</source>
+        <target>Limit Patient ID Length</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

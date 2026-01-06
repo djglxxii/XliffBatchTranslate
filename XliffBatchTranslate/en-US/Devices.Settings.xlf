@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+   <file source-language="en" datatype="plaintext" original="ng2.template">
+      <body>
+        <trans-unit id="Devices.Settings.SettingsDialog.Title" datatype="html">
+          <source>{{resourceName}} Device Settings</source>
+          <target>{{resourceName}} Device Settings</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.ClinitekStatus.RequireQCStrip" datatype="html">
+          <source>Require QC Strip</source>
+          <target>Require QC Strip</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.ClinitekStatus.RequireQCCassette" datatype="html">
+          <source>Require QC Cassette</source>
+          <target>Require QC Cassette</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Signature.D911LimitReset" datatype="html">
+          <source>911 Limit Reset</source>
+          <target>911 Limit Reset</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Test" datatype="html">
+          <source>Test</source>
+          <target>Test</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Signature.Normal" datatype="html">
+          <source>Normal</source>
+          <target>Normal</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Signature.Abnormal" datatype="html">
+          <source>Abnormal</source>
+          <target>Abnormal</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Rapidpoint.Analyte" datatype="html">
+          <source>Analyte</source>
+          <target>Analyte</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Rapidpoint.Action" datatype="html">
+          <source>Action</source>
+          <target>Action</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Rapidpoint.OverrideQC" datatype="html">
+          <source>Override QC</source>
+          <target>Override QC</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Rapidpoint.NoAction" datatype="html">
+          <source>No Action</source>
+          <target>No Action</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Rapidpoint.Enable" datatype="html">
+          <source>Enable</source>
+          <target>Enable</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Rapidpoint.Disable" datatype="html">
+          <source>Disable</source>
+          <target>Disable</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Rapidpoint.LockDevice" datatype="html">
+          <source>Lock Device</source>
+          <target>Lock Device</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Rapidpoint.UnlockDevice" datatype="html">
+          <source>Unlock Device</source>
+          <target>Unlock Device</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Rapidpoint.Initiate1PointCalibration" datatype="html">
+          <source>Initiate 1-Point Calibration</source>
+          <target>Initiate 1-Point Calibration</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Rapidpoint.Initiate2PointCalibration" datatype="html">
+          <source>Initiate 2-Point Calibration</source>
+          <target>Initiate 2-Point Calibration</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Hemochron.LockPatientTests" datatype="html">
+          <source>Lock Patient Tests</source>
+          <target>Lock Patient Tests</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Hemochron.Level1EQCFailures" datatype="html">
+          <source>Level 1/EQC Failures</source>
+          <target>Level 1/EQC Failures</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.Columns.Hemochron.Level2Failures" datatype="html">
+          <source>Level 2 Failures</source>
+          <target>Level 2 Failures</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.SettingsDialog.DeviceCommands.Title" datatype="html">
+          <source>Device Commands</source>
+          <target>Device Commands</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.SettingsDialog.ClearCounts.Title" datatype="html">
+          <source>Clear Counts</source>
+          <target>Clear Counts</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.SettingsDialog.DeviceParameterControls.Title" datatype="html">
+          <source>Device Parameter Controls</source>
+          <target>Device Parameter Controls</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.SettingsDialog.GeneralSettings.Title" datatype="html">
+          <source>General Settings</source>
+          <target>General Settings</target>
+        </trans-unit>
+        <trans-unit id="Devices.Settings.SettingsDialog.FailedQCTestReset.Title" datatype="html">
+          <source>Failed QC Test Reset</source>
+          <target>Failed QC Test Reset</target>
+        </trans-unit>
+      </body>
+   </file>
+</xliff>

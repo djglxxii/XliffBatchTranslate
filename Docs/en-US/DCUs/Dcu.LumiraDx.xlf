@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <!-- Device Configuration: Afinion -->
+
+      <trans-unit id="DeviceConfigurations.LumiraDx.QualityControl">
+          <source>Quality Control</source>
+          <target>Quality Control</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Off">
+          <source>Off</source>
+          <target>Off</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Advisory">
+          <source>Advisory</source>
+          <target>Advisory</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Mandatory">
+          <source>Mandatory</source>
+          <target>Mandatory</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.MandatoryWithOverride">
+          <source>Mandatory with Override</source>
+          <target>Mandatory with Override</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.ByType">
+          <source>By Type</source>
+          <target>By Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.ByLot">
+          <source>By Lot</source>
+          <target>By Lot</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.QualityControlPolicy">
+          <source>Quality Control Policy</source>
+          <target>Quality Control Policy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.PolicyInterval">
+          <source>Policy Interval</source>
+          <target>Policy Interval</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.RequireForEachNewLot">
+          <source>Require for Each New Lot</source>
+          <target>Require for Each New Lot</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Days">
+          <source>Day(s)</source>
+          <target>Day(s)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Tests">
+          <source>Test(s)</source>
+          <target>Test(s)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.MedicalRecord">
+          <source>Medical Record Number</source>
+          <target>Medical Record Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Account">
+          <source>Account Number</source>
+          <target>Account Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Episode">
+          <source>Episode Number</source>
+          <target>Episode Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Visit">
+          <source>Visit Number</source>
+          <target>Visit Number</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.PatientIDLookupBy">
+          <source>Lookup ID By</source>
+          <target>Lookup ID By</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.LumiraDx.Patient">
+          <source>Patient</source>
+          <target>Patient</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

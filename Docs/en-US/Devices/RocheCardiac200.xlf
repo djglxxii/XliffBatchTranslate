@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.60511">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60512">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60513">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60514">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60515">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60521">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60522">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60523">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60524">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60525">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60531">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60532">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60533">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60534">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60535">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60541">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60542">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60543">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60544">
+                <source>Level 4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60545">
+                <source>Level 5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.60501">
+                <source>CK-MB Cartridge</source>
+                <target>CK-MB Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60502">
+                <source>Myo Cartridge</source>
+                <target>Myo Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60503">
+                <source>NTpBNP Cartridge</source>
+                <target>NTpBNP Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60504">
+                <source>TnI Cartridge</source>
+                <target>TnI Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60511">
+                <source>CSN</source>
+                <target>CSN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60512">
+                <source>CSN</source>
+                <target>CSN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60513">
+                <source>CSN</source>
+                <target>CSN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60514">
+                <source>CSN</source>
+                <target>CSN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60521">
+                <source>LQC CK-MB</source>
+                <target>LQC CK-MB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60522">
+                <source>LQC Myo</source>
+                <target>LQC Myo</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60523">
+                <source>LQC NTpBNP</source>
+                <target>LQC NTpBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60524">
+                <source>LQC TnI</source>
+                <target>LQC TnI</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.60500">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60501">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60510">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60511">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60512">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60513">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60514">
+                <source>LQC - Level 4</source>
+                <target>LQC - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60515">
+                <source>LQC - Level 5</source>
+                <target>LQC - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60520">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60521">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60522">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60523">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60524">
+                <source>LQC - Level 4</source>
+                <target>LQC - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60525">
+                <source>LQC - Level 5</source>
+                <target>LQC - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60530">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60531">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60532">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60533">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60534">
+                <source>LQC - Level 4</source>
+                <target>LQC - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60535">
+                <source>LQC - Level 5</source>
+                <target>LQC - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60540">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60541">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60542">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60543">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60544">
+                <source>LQC - Level 4</source>
+                <target>LQC - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60545">
+                <source>LQC - Level 5</source>
+                <target>LQC - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60550">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.60501">
+                <source>OBS</source>
+                <target>OBS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60502">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60503">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.60501">
+                <source>CK-MB</source>
+                <target>CK-MB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60502">
+                <source>Myo</source>
+                <target>Myo</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60503">
+                <source>NTpBNP</source>
+                <target>NTpBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60504">
+                <source>TnI</source>
+                <target>TnI</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.605001">
+                <source>CK-MB</source>
+                <target>CK-MB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.605002">
+                <source>Myoglobin</source>
+                <target>Myoglobin</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.605003">
+                <source>NT-proBNP</source>
+                <target>NT-proBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.605004">
+                <source>Troponin I</source>
+                <target>Troponin I</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.605011">
+                <source>Power</source>
+                <target>Power</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.605012">
+                <source>Memory</source>
+                <target>Memory</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.605013">
+                <source>Transport</source>
+                <target>Transport</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.605014">
+                <source>Optics</source>
+                <target>Optics</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.605015">
+                <source>Sensor</source>
+                <target>Sensor</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.10011">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.10012">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.10013">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.10021">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.10022">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.10023">
+                <source>Level 3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.10001">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10011">
+                <source>GEM CVP 1 with CO-Ox</source>
+                <target>GEM CVP 1 with CO-Ox</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10012">
+                <source>GEM CVP 2 with CO-Ox</source>
+                <target>GEM CVP 2 with CO-Ox</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10015">
+                <source>GEM CVP 5 tBili</source>
+                <target>GEM CVP 5 tBili</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10021">
+                <source>GSE</source>
+                <target>GSE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10022">
+                <source>GHE</source>
+                <target>GHE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.10031">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.10001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10002">
+                <source>Calibration</source>
+                <target>Calibration</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10003">
+                <source>CVP Unknown</source>
+                <target>CVP Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10004">
+                <source>CVP 1</source>
+                <target>CVP 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10005">
+                <source>CVP 2</source>
+                <target>CVP 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10008">
+                <source>CVP 5</source>
+                <target>CVP 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10009">
+                <source>QC Unknown</source>
+                <target>QC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10010">
+                <source>GSE Unknown</source>
+                <target>GSE Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10011">
+                <source>GSE Level 1</source>
+                <target>GSE Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10012">
+                <source>GSE Level 2</source>
+                <target>GSE Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10013">
+                <source>GSE Level 3</source>
+                <target>GSE Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10020">
+                <source>GHE Unknown</source>
+                <target>GHE Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10021">
+                <source>GHE Level 1</source>
+                <target>GHE Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10022">
+                <source>GHE Level 2</source>
+                <target>GHE Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10023">
+                <source>GHE Level 3</source>
+                <target>GHE Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.10031">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.10001">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.10002">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.10003">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.10004">
+                <source>Calibration</source>
+                <target>Calibration</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.10005">
+                <source>CVP</source>
+                <target>CVP</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.10001">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10002">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10003">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10004">
+                <source>Mixed Venous</source>
+                <target>Mixed Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10005">
+                <source>Other</source>
+                <target>Other</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10011">
+                <source>Arterial - Micro</source>
+                <target>Arterial - Micro</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10012">
+                <source>Venous - Micro</source>
+                <target>Venous - Micro</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10013">
+                <source>Capillary - Micro</source>
+                <target>Capillary - Micro</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10014">
+                <source>Mixed Venous - Micro</source>
+                <target>Mixed Venous - Micro</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10015">
+                <source>Other - Micro</source>
+                <target>Other - Micro</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10021">
+                <source>Arterial - 100uL</source>
+                <target>Arterial - 100uL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10022">
+                <source>Venous - 100uL</source>
+                <target>Venous - 100uL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10023">
+                <source>Capillary - 100uL</source>
+                <target>Capillary - 100uL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10024">
+                <source>Mixed Venous - 100uL</source>
+                <target>Mixed Venous - 100uL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.10025">
+                <source>Other - 100uL</source>
+                <target>Other - 100uL</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.10001">
+                <source>CCal</source>
+                <target>CCal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.10002">
+                <source>BCal</source>
+                <target>BCal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.10003">
+                <source>DCal</source>
+                <target>DCal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.10004">
+                <source>FullCal</source>
+                <target>FullCal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.10005">
+                <source>ECal</source>
+                <target>ECal</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.100001">
+                <source>pH</source>
+                <target>pH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100002">
+                <source>cH</source>
+                <target>cH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100003">
+                <source>pCO2</source>
+                <target>pCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100004">
+                <source>Na+</source>
+                <target>Na+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100005">
+                <source>K+</source>
+                <target>K+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100006">
+                <source>Cl-</source>
+                <target>Cl-</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100007">
+                <source>Ca++</source>
+                <target>Ca++</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100008">
+                <source>Hct</source>
+                <target>Hct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100009">
+                <source>Glu</source>
+                <target>Glu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100010">
+                <source>Lac</source>
+                <target>Lac</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100011">
+                <source>BUN</source>
+                <target>BUN</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100012">
+                <source>Urea</source>
+                <target>Urea</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100013">
+                <source>Creat</source>
+                <target>Creat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100016">
+                <source>pH(T)</source>
+                <target>pH(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100017">
+                <source>pCO2(T)</source>
+                <target>pCO2(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100018">
+                <source>BEecf</source>
+                <target>BEecf</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100019">
+                <source>tHb(c)</source>
+                <target>tHb(c)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100020">
+                <source>BE(B)</source>
+                <target>BE(B)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100021">
+                <source>Ca++(7.4)</source>
+                <target>Ca++(7.4)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100022">
+                <source>AG</source>
+                <target>AG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100023">
+                <source>mOsm</source>
+                <target>mOsm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100024">
+                <source>BUN/Creat</source>
+                <target>BUN/Creat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100025">
+                <source>Urea/Creat</source>
+                <target>Urea/Creat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100031">
+                <source>HCO3-(c)</source>
+                <target>HCO3-(c)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100032">
+                <source>pO2</source>
+                <target>pO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100033">
+                <source>O2Hb</source>
+                <target>O2Hb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100034">
+                <source>COHb</source>
+                <target>COHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100035">
+                <source>MetHb</source>
+                <target>MetHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100036">
+                <source>HHb</source>
+                <target>HHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100037">
+                <source>sO2</source>
+                <target>sO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100038">
+                <source>tBili</source>
+                <target>tBili</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100039">
+                <source>pO2(T)</source>
+                <target>pO2(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100040">
+                <source>TCO2</source>
+                <target>TCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100041">
+                <source>P/F Ratio</source>
+                <target>P/F Ratio</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100042">
+                <source>pAO2</source>
+                <target>pAO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100043">
+                <source>CaO2</source>
+                <target>CaO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100044">
+                <source>CvO2</source>
+                <target>CvO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100045">
+                <source>p50</source>
+                <target>p50</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100046">
+                <source>O2cap</source>
+                <target>O2cap</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100047">
+                <source>sO2(c)</source>
+                <target>sO2(c)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100048">
+                <source>HCO3-std</source>
+                <target>HCO3-std</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100049">
+                <source>A-aDO2</source>
+                <target>A-aDO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100050">
+                <source>paO2/pAO2</source>
+                <target>paO2/pAO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100051">
+                <source>RI</source>
+                <target>RI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100052">
+                <source>CcO2</source>
+                <target>CcO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100053">
+                <source>Temp</source>
+                <target>Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100054">
+                <source>a-vDO2</source>
+                <target>a-vDO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100055">
+                <source>Qsp/Qt(est)</source>
+                <target>Qsp/Qt(est)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100056">
+                <source>Qsp/Qt</source>
+                <target>Qsp/Qt</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100057">
+                <source>Hct(c)</source>
+                <target>Hct(c)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100058">
+                <source>BP</source>
+                <target>BP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100059">
+                <source>O2</source>
+                <target>O2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100060">
+                <source>FIO2</source>
+                <target>FIO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100061">
+                <source>Mech VT</source>
+                <target>Mech VT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100062">
+                <source>Spont VT</source>
+                <target>Spont VT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100063">
+                <source>Set Minute Vol</source>
+                <target>Set Minute Vol</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100064">
+                <source>Total Minute Vol</source>
+                <target>Total Minute Vol</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100065">
+                <source>O2 Device #1</source>
+                <target>O2 Device #1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100066">
+                <source>O2 Device #2</source>
+                <target>O2 Device #2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100067">
+                <source>Mech Rate(bpm)</source>
+                <target>Mech Rate(bpm)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100068">
+                <source>Mech Rate(Hz)</source>
+                <target>Mech Rate(Hz)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100069">
+                <source>Spont Rate(bpm)</source>
+                <target>Spont Rate(bpm)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100070">
+                <source>Spont Rate(Hz)</source>
+                <target>Spont Rate(Hz)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100071">
+                <source>PIP</source>
+                <target>PIP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100072">
+                <source>MAP</source>
+                <target>MAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100073">
+                <source>Itime(sec)</source>
+                <target>Itime(sec)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100074">
+                <source>Itime(%)</source>
+                <target>Itime(%)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100075">
+                <source>PEEP</source>
+                <target>PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100076">
+                <source>CPAP</source>
+                <target>CPAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100077">
+                <source>BIPAP(I)</source>
+                <target>BIPAP(I)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100078">
+                <source>BIPAP(E)</source>
+                <target>BIPAP(E)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100079">
+                <source>PS</source>
+                <target>PS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100080">
+                <source>PC</source>
+                <target>PC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100081">
+                <source>Pulse Ox</source>
+                <target>Pulse Ox</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100082">
+                <source>Flow</source>
+                <target>Flow</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100083">
+                <source>Amplitude</source>
+                <target>Amplitude</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100084">
+                <source>Delta P</source>
+                <target>Delta P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100085">
+                <source>High PEEP</source>
+                <target>High PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100086">
+                <source>Low PEEP</source>
+                <target>Low PEEP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100087">
+                <source>IPAP</source>
+                <target>IPAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100088">
+                <source>EPAP</source>
+                <target>EPAP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100089">
+                <source>ASV</source>
+                <target>ASV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100090">
+                <source>PAV</source>
+                <target>PAV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100091">
+                <source>Nitric Oxide</source>
+                <target>Nitric Oxide</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100092">
+                <source>O2ct</source>
+                <target>O2ct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100093">
+                <source>tHb</source>
+                <target>tHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100094">
+                <source>OI</source>
+                <target>OI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100095">
+                <source>Mode #1</source>
+                <target>Mode #1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100096">
+                <source>Mode #2</source>
+                <target>Mode #2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100097">
+                <source>Hemolysis Index</source>
+                <target>Hemolysis Index</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100098">
+                <source>K+ NoSup</source>
+                <target>K+ NoSup</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100100">
+                <source>Allen's Test</source>
+                <target>Allen's Test</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100101">
+                <source>ETime</source>
+                <target>ETime</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100102">
+                <source>preEmoc</source>
+                <target>preEmoc</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100110">
+                <source>Ca++ Slope</source>
+                <target>Ca++ Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100111">
+                <source>Ca++ Drift A</source>
+                <target>Ca++ Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100112">
+                <source>Ca++ Measured A</source>
+                <target>Ca++ Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100113">
+                <source>Ca++ Drift B</source>
+                <target>Ca++ Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100114">
+                <source>Ca++ Measured B</source>
+                <target>Ca++ Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100115">
+                <source>Ca++ Drift D</source>
+                <target>Ca++ Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100116">
+                <source>Ca++ Measured D</source>
+                <target>Ca++ Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100117">
+                <source>Ca++ Drift E</source>
+                <target>Ca++ Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100118">
+                <source>Ca++ Measured E</source>
+                <target>Ca++ Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100120">
+                <source>Cl- Slope</source>
+                <target>Cl- Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100121">
+                <source>Cl- Drift A</source>
+                <target>Cl- Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100122">
+                <source>Cl- Measured A</source>
+                <target>Cl- Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100123">
+                <source>Cl- Drift B</source>
+                <target>Cl- Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100124">
+                <source>Cl- Measured B</source>
+                <target>Cl- Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100125">
+                <source>Cl- Drift D</source>
+                <target>Cl- Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100126">
+                <source>Cl- Measured D</source>
+                <target>Cl- Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100127">
+                <source>Cl- Drift E</source>
+                <target>Cl- Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100128">
+                <source>Cl- Measured E</source>
+                <target>Cl- Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100140">
+                <source>Glu Slope</source>
+                <target>Glu Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100141">
+                <source>Glu Drift A</source>
+                <target>Glu Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100142">
+                <source>Glu Measured A</source>
+                <target>Glu Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100143">
+                <source>Glu Drift B</source>
+                <target>Glu Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100144">
+                <source>Glu Measured B</source>
+                <target>Glu Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100145">
+                <source>Glu Drift D</source>
+                <target>Glu Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100146">
+                <source>Glu Measured D</source>
+                <target>Glu Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100147">
+                <source>Glu Drift E</source>
+                <target>Glu Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100148">
+                <source>Glu Measured E</source>
+                <target>Glu Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100150">
+                <source>Hct Slope</source>
+                <target>Hct Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100151">
+                <source>Hct Drift A</source>
+                <target>Hct Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100152">
+                <source>Hct Measured A</source>
+                <target>Hct Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100153">
+                <source>Hct Drift B</source>
+                <target>Hct Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100154">
+                <source>Hct Measured B</source>
+                <target>Hct Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100155">
+                <source>Hct Drift C</source>
+                <target>Hct Drift C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100156">
+                <source>Hct Measured C</source>
+                <target>Hct Measured C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100157">
+                <source>Hct Drift D</source>
+                <target>Hct Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100158">
+                <source>Hct Measured D</source>
+                <target>Hct Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100159">
+                <source>Hct Drift E</source>
+                <target>Hct Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100160">
+                <source>Hct Measured E</source>
+                <target>Hct Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100170">
+                <source>K+ Slope</source>
+                <target>K+ Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100171">
+                <source>K+ Drift A</source>
+                <target>K+ Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100172">
+                <source>K+ Measured A</source>
+                <target>K+ Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100173">
+                <source>K+ Drift B</source>
+                <target>K+ Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100174">
+                <source>K+ Measured B</source>
+                <target>K+ Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100175">
+                <source>K+ Drift D</source>
+                <target>K+ Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100176">
+                <source>K+ Measured D</source>
+                <target>K+ Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100177">
+                <source>K+ Drift E</source>
+                <target>K+ Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100178">
+                <source>K+ Measured E</source>
+                <target>K+ Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100180">
+                <source>Lac Slope</source>
+                <target>Lac Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100181">
+                <source>Lac Drift A</source>
+                <target>Lac Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100182">
+                <source>Lac Measured A</source>
+                <target>Lac Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100183">
+                <source>Lac Drift B</source>
+                <target>Lac Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100184">
+                <source>Lac Measured B</source>
+                <target>Lac Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100185">
+                <source>Lac Drift D</source>
+                <target>Lac Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100186">
+                <source>Lac Measured D</source>
+                <target>Lac Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100187">
+                <source>Lac Drift E</source>
+                <target>Lac Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100188">
+                <source>Lac Measured E</source>
+                <target>Lac Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100190">
+                <source>Na+ Slope</source>
+                <target>Na+ Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100191">
+                <source>Na+ Drift A</source>
+                <target>Na+ Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100192">
+                <source>Na+ Measured A</source>
+                <target>Na+ Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100193">
+                <source>Na+ Drift B</source>
+                <target>Na+ Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100194">
+                <source>Na+ Measured B</source>
+                <target>Na+ Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100195">
+                <source>Na+ Drift D</source>
+                <target>Na+ Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100196">
+                <source>Na+ Measured D</source>
+                <target>Na+ Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100197">
+                <source>Na+ Drift E</source>
+                <target>Na+ Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100198">
+                <source>Na+ Measured E</source>
+                <target>Na+ Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100200">
+                <source>pCO2 Slope</source>
+                <target>pCO2 Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100201">
+                <source>pCO2 Drift A</source>
+                <target>pCO2 Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100202">
+                <source>pCO2 Measured A</source>
+                <target>pCO2 Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100203">
+                <source>pCO2 Drift B</source>
+                <target>pCO2 Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100204">
+                <source>pCO2 Measured B</source>
+                <target>pCO2 Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100205">
+                <source>pCO2 Drift C</source>
+                <target>pCO2 Drift C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100206">
+                <source>pCO2 Measured C</source>
+                <target>pCO2 Measured C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100207">
+                <source>pCO2 Drift D</source>
+                <target>pCO2 Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100208">
+                <source>pCO2 Measured D</source>
+                <target>pCO2 Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100209">
+                <source>pCO2 Drift E</source>
+                <target>pCO2 Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100210">
+                <source>pCO2 Measured E</source>
+                <target>pCO2 Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100220">
+                <source>pH Slope</source>
+                <target>pH Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100221">
+                <source>pH Drift A</source>
+                <target>pH Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100222">
+                <source>pH Measured A</source>
+                <target>pH Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100223">
+                <source>pH Drift B</source>
+                <target>pH Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100224">
+                <source>pH Measured B</source>
+                <target>pH Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100225">
+                <source>pH Drift C</source>
+                <target>pH Drift C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100226">
+                <source>pH Measured C</source>
+                <target>pH Measured C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100227">
+                <source>pH Drift D</source>
+                <target>pH Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100228">
+                <source>pH Measured D</source>
+                <target>pH Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100229">
+                <source>pH Drift E</source>
+                <target>pH Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100230">
+                <source>pH Measured E</source>
+                <target>pH Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100240">
+                <source>pO2 Slope</source>
+                <target>pO2 Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100241">
+                <source>pO2 Drift A</source>
+                <target>pO2 Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100242">
+                <source>pO2 Measured A</source>
+                <target>pO2 Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100243">
+                <source>pO2 Drift B</source>
+                <target>pO2 Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100244">
+                <source>pO2 Measured B</source>
+                <target>pO2 Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100245">
+                <source>pO2 Drift C</source>
+                <target>pO2 Drift C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100246">
+                <source>pO2 Measured C</source>
+                <target>pO2 Measured C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100247">
+                <source>pO2 Drift D</source>
+                <target>pO2 Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100248">
+                <source>pO2 Measured D</source>
+                <target>pO2 Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100249">
+                <source>pO2 Drift E</source>
+                <target>pO2 Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100250">
+                <source>pO2 Measured E</source>
+                <target>pO2 Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100300">
+                <source>Container</source>
+                <target>Container</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100301">
+                <source>Drawn Date</source>
+                <target>Drawn Date</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100302">
+                <source>Drawn Time</source>
+                <target>Drawn Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100303">
+                <source>LOINC</source>
+                <target>LOINC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100304">
+                <source>Panel</source>
+                <target>Panel</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100305">
+                <source>Clinician Id</source>
+                <target>Clinician Id</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100306">
+                <source>Patient Age</source>
+                <target>Patient Age</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100310">
+                <source>O2Hb Slope</source>
+                <target>O2Hb Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100311">
+                <source>O2Hb Drift A</source>
+                <target>O2Hb Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100312">
+                <source>O2Hb Measured A</source>
+                <target>O2Hb Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100313">
+                <source>O2Hb Drift D</source>
+                <target>O2Hb Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100314">
+                <source>O2Hb Measured D</source>
+                <target>O2Hb Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100315">
+                <source>O2Hb Drift E</source>
+                <target>O2Hb Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100316">
+                <source>O2Hb Measured E</source>
+                <target>O2Hb Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100320">
+                <source>COHb Slope</source>
+                <target>COHb Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100321">
+                <source>COHb Drift A</source>
+                <target>COHb Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100322">
+                <source>COHb Measured A</source>
+                <target>COHb Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100323">
+                <source>COHb Drift D</source>
+                <target>COHb Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100324">
+                <source>COHb Measured D</source>
+                <target>COHb Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100325">
+                <source>COHb Drift E</source>
+                <target>COHb Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100326">
+                <source>COHb Measured E</source>
+                <target>COHb Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100330">
+                <source>MetHb Slope</source>
+                <target>MetHb Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100331">
+                <source>MetHb Drift A</source>
+                <target>MetHb Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100332">
+                <source>MetHb Measured A</source>
+                <target>MetHb Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100333">
+                <source>MetHb Drift D</source>
+                <target>MetHb Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100334">
+                <source>MetHb Measured D</source>
+                <target>MetHb Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100335">
+                <source>MetHb Drift E</source>
+                <target>MetHb Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100336">
+                <source>MetHb Measured E</source>
+                <target>MetHb Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100340">
+                <source>HHb Slope</source>
+                <target>HHb Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100341">
+                <source>HHb Drift A</source>
+                <target>HHb Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100342">
+                <source>HHb Measured A</source>
+                <target>HHb Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100343">
+                <source>HHb Drift D</source>
+                <target>HHb Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100344">
+                <source>HHb Measured D</source>
+                <target>HHb Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100345">
+                <source>HHb Drift E</source>
+                <target>HHb Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100346">
+                <source>HHb Measured E</source>
+                <target>HHb Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100350">
+                <source>tBili Slope</source>
+                <target>tBili Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100351">
+                <source>tBili Drift A</source>
+                <target>tBili Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100352">
+                <source>tBili Measured A</source>
+                <target>tBili Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100353">
+                <source>tBili Drift B</source>
+                <target>tBili Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100354">
+                <source>tBili Measured B</source>
+                <target>tBili Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100355">
+                <source>tBili Drift D</source>
+                <target>tBili Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100356">
+                <source>tBili Measured D</source>
+                <target>tBili Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100357">
+                <source>tBili Drift E</source>
+                <target>tBili Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100358">
+                <source>tBili Measured E</source>
+                <target>tBili Measured E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100360">
+                <source>tHb Slope</source>
+                <target>tHb Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100361">
+                <source>tHb Drift A</source>
+                <target>tHb Drift A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100362">
+                <source>tHb Measured A</source>
+                <target>tHb Measured A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100363">
+                <source>tHb Drift B</source>
+                <target>tHb Drift B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100364">
+                <source>tHb Measured B</source>
+                <target>tHb Measured B</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100365">
+                <source>tHb Drift D</source>
+                <target>tHb Drift D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100366">
+                <source>tHb Measured D</source>
+                <target>tHb Measured D</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100367">
+                <source>tHb Drift E</source>
+                <target>tHb Drift E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.100368">
+                <source>tHb Measured E</source>
+                <target>tHb Measured E</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

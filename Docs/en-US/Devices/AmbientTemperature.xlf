@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.42801">
+                <source>None</source>
+                <target>None</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.42801">
+                <source>Thermometer</source>
+                <target>Thermometer</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.42802">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.42802">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.428001">
+                <source>Current Temperature</source>
+                <target>Current Temperature</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.428002">
+                <source>Minimum Temperature</source>
+                <target>Minimum Temperature</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.428003">
+                <source>Maximum Temperature</source>
+                <target>Maximum Temperature</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.428004">
+                <source>Humidity</source>
+                <target>Humidity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.428005">
+                <source>Location</source>
+                <target>Location</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.428006">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

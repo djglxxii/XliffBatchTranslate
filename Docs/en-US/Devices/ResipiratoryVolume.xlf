@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3004001">
+                <source>Vt</source>
+                <target>Vt</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004002">
+                <source>Vt low</source>
+                <target>Vt low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004003">
+                <source>Vt high</source>
+                <target>Vt high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004004">
+                <source>Vt insp</source>
+                <target>Vt insp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004005">
+                <source>Vt exp</source>
+                <target>Vt exp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004006">
+                <source>Vt insp spont</source>
+                <target>Vt insp spont</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004007">
+                <source>Vt exp spont</source>
+                <target>Vt exp spont</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004008">
+                <source>Vt alv</source>
+                <target>Vt alv</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004009">
+                <source>Vt leak</source>
+                <target>Vt leak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004010">
+                <source>Vt supp</source>
+                <target>Vt supp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004011">
+                <source>Vd</source>
+                <target>Vd</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004012">
+                <source>Vd alv</source>
+                <target>Vd alv</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004013">
+                <source>Vd aw</source>
+                <target>Vd aw</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004014">
+                <source>Vd ana</source>
+                <target>Vd ana</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004015">
+                <source>Vd phy</source>
+                <target>Vd phy</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004016">
+                <source>Vd/Vt</source>
+                <target>Vd/Vt</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004017">
+                <source>Vd/Vt ana</source>
+                <target>Vd/Vt ana</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004018">
+                <source>Vd/Vt phy</source>
+                <target>Vd/Vt phy</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004019">
+                <source>Vt/kg</source>
+                <target>Vt/kg</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004020">
+                <source>Vt/PBW</source>
+                <target>Vt/PBW</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004021">
+                <source>Vol. Assist</source>
+                <target>Vol. Assist</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004022">
+                <source>MV tot</source>
+                <target>MV tot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004023">
+                <source>MV mand</source>
+                <target>MV mand</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004024">
+                <source>MV spont</source>
+                <target>MV spont</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004025">
+                <source>MV exp</source>
+                <target>MV exp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004026">
+                <source>MV exp spont</source>
+                <target>MV exp spont</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004027">
+                <source>MV alv</source>
+                <target>MV alv</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004028">
+                <source>MV leak</source>
+                <target>MV leak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004029">
+                <source>V leak</source>
+                <target>V leak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004030">
+                <source>Leak</source>
+                <target>Leak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004031">
+                <source>Leak %</source>
+                <target>Leak %</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004032">
+                <source>VG</source>
+                <target>VG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3004033">
+                <source>Sigh</source>
+                <target>Sigh</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

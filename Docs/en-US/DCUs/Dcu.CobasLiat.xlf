@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Off">
+        <source>Off</source>
+        <target>Off</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Beep2">
+        <source>Beep2</source>
+        <target>Beep2</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Beep3">
+        <source>Beep3</source>
+        <target>Beep3</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Beep4">
+        <source>Beep4</source>
+        <target>Beep4</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BUSY">
+        <source>BUSY</source>
+        <target>BUSY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BUZZER">
+        <source>BUZZER</source>
+        <target>BUZZER</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.CRITICAL">
+        <source>CRITICAL</source>
+        <target>CRITICAL</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DEFAULT">
+        <source>DEFAULT</source>
+        <target>DEFAULT</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DTMF1">
+        <source>DTMF1</source>
+        <target>DTMF1</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.EMPTY">
+        <source>EMPTY</source>
+        <target>EMPTY</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.EXCLAM">
+        <source>EXCLAM</source>
+        <target>EXCLAM</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.INFEND">
+        <source>INFEND</source>
+        <target>INFEND</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.LATCHED">
+        <source>LATCHED</source>
+        <target>LATCHED</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ONLINE">
+        <source>ONLINE</source>
+        <target>ONLINE</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Voicebeep">
+        <source>Voicebeep</source>
+        <target>Voicebeep</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PCLLaser">
+        <source>PCL Laser</source>
+        <target>PCL Laser</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PCLInkjet">
+        <source>PCL Inkjet</source>
+        <target>PCL Inkjet</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.NET0">
+        <source>NET0:</source>
+        <target>NET0:</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.LPT1">
+        <source>LPT1:</source>
+        <target>LPT1:</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Soft">
+        <source>Soft</source>
+        <target>Soft</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Loud">
+        <source>Loud</source>
+        <target>Loud</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.UserIDPassword">
+        <source>User ID &amp; Password</source>
+        <target>User ID &amp; Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Barcode">
+        <source>Barcode</source>
+        <target>Barcode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodePassword">
+        <source>Barcode &amp; Password</source>
+        <target>Barcode &amp; Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.GeneralTitle">
+        <source>Settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTimeOptions">
+        <source>Date and Time Options</source>
+        <target>Date and Time Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTimeSNTP">
+        <source>Use SNTP Protocol</source>
+        <target>Use SNTP Protocol</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTimeServer">
+        <source>SNTP Server IP</source>
+        <target>SNTP Server IP</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DisplayOptions">
+        <source>Display Options</source>
+        <target>Display Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DisplayBrightness">
+        <source>Display Brightness</source>
+        <target>Display Brightness</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SoundOptions">
+        <source>Sound Options</source>
+        <target>Sound Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SoundInitialization">
+        <source>Initialization</source>
+        <target>Initialization</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SoundBarcodeScan">
+        <source>Barcode Scan</source>
+        <target>Barcode Scan</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SoundTubeInsert">
+        <source>Tube Insert</source>
+        <target>Tube Insert</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SoundAssayFinish">
+        <source>Assay Finish</source>
+        <target>Assay Finish</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SoundTouchScreen">
+        <source>Touch Screen</source>
+        <target>Touch Screen</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SoundKeyClicks">
+        <source>Key Clicks</source>
+        <target>Key Clicks</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SoundVolume">
+        <source>Volume</source>
+        <target>Volume</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.SecurityOptions">
+        <source>Security Options</source>
+        <target>Security Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.TubeInsertTime">
+        <source>Tube Insert Time (Seconds)</source>
+        <target>Tube Insert Time (Seconds)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.AutoLockTime">
+        <source>Autolock Time (Minutes)</source>
+        <target>Autolock Time (Minutes)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.AuthenticationType">
+        <source>Authentication Type</source>
+        <target>Authentication Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.OtherOptions">
+        <source>Other Options</source>
+        <target>Other Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectivityTitle">
+        <source>Connectivity</source>
+        <target>Connectivity</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectivityOptions">
+        <source>Connectivity Options</source>
+        <target>Connectivity Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectivityTimeout">
+        <source>Connectivity Timeout (Minutes)</source>
+        <target>Connectivity Timeout (Minutes)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ResultAutoRelease">
+        <source>Enable Auto Release</source>
+        <target>Enable Auto Release</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectivityDataSyncUsers">
+        <source>Synchronize Operators with RALS</source>
+        <target>Synchronize Operators with RALS</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectivityDataSyncAssayLots">
+        <source>Synchronize Assay Lots with RALS</source>
+        <target>Synchronize Assay Lots with RALS</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectivityDataSyncLogEvents">
+        <source>Synchronize Log Events with RALS</source>
+        <target>Synchronize Log Events with RALS</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectivityDataSyncInformation">
+        <source>Synchronize Information Events with RALS</source>
+        <target>Synchronize Information Events with RALS</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectivityDataSyncErrors">
+        <source>Synchronize Error and Warning Events with RALS</source>
+        <target>Synchronize Error and Warning Events with RALS</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.ConnectionInterval">
+        <source>Connection Interval (Minutes)</source>
+        <target>Connection Interval (Minutes)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.DateFormat">
+        <source>Date Format</source>
+        <target>Date Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.DateFormat0">
+        <source>dd.mm.yyyy</source>
+        <target>dd.mm.yyyy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.DateFormat1">
+        <source>dd/mm/yyyy</source>
+        <target>dd/mm/yyyy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.DateFormat2">
+        <source>dd-mm-yyyy</source>
+        <target>dd-mm-yyyy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.DateFormat3">
+        <source>mm-dd-yyyy</source>
+        <target>mm-dd-yyyy</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.DateFormat4">
+        <source>yyyy-mm-dd</source>
+        <target>yyyy-mm-dd</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.TimeFormat">
+        <source>Time Format</source>
+        <target>Time Format</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.TimeFormat12">
+        <source>12 Hour</source>
+        <target>12 Hour</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.DateTime.TimeFormat24">
+        <source>24 Hour</source>
+        <target>24 Hour</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language">
+        <source>Language</source>
+        <target>Language</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.enUS">
+        <source>en-US</source>
+        <target>en-US</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.deDE">
+        <source>de-DE</source>
+        <target>de-DE</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.frFR">
+        <source>fr-FR</source>
+        <target>fr-FR</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.itIT">
+        <source>it-IT</source>
+        <target>it-IT</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.esES">
+        <source>es-ES</source>
+        <target>es-ES</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.daDK">
+        <source>da-DK</source>
+        <target>da-DK</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.nlNL">
+        <source>nl-NL</source>
+        <target>nl-NL</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.huHU">
+        <source>hu-HU</source>
+        <target>hu-HU</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.nbNO">
+        <source>nb-NO</source>
+        <target>nb-NO</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.plPL">
+        <source>pl-PL</source>
+        <target>pl-PL</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.ptPT">
+        <source>pt-PT</source>
+        <target>pt-PT</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.svSE">
+        <source>sv-SE</source>
+        <target>sv-SE</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.Languages.Language.csCZ">
+        <source>cs-CZ</source>
+        <target>cs-CZ</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.AutoReboot.Time">
+        <source>Auto Reboot Time</source>
+        <target>Auto Reboot Time</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.Verification">
+        <source>Patient Verification</source>
+        <target>Patient Verification</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PatientVerificationTitle">
+        <source>#[DeviceConfigurations.CobasLiat.PV.Verification]</source>
+        <target>#[DeviceConfigurations.CobasLiat.PV.Verification]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PatientVerificationOptions">
+        <source>#[DeviceConfigurations.CobasLiat.PV.Verification] Options</source>
+        <target>#[DeviceConfigurations.CobasLiat.PV.Verification] Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.VerificationType">
+        <source>Type</source>
+        <target>Type</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.Mismatch">
+        <source>Mismatch</source>
+        <target>Mismatch</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.DisplayedData">
+        <source>Displayed Data</source>
+        <target>Displayed Data</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.ManualConfirmation">
+        <source>Manual Confirmation</source>
+        <target>Manual Confirmation</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.Verification.PriorRun">
+        <source>Prior run</source>
+        <target>Prior run</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.Verification.NoVerification">
+        <source>No verification</source>
+        <target>No verification</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.VerificationType.PatientID">
+        <source>Patient ID</source>
+        <target>Patient ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.VerificationType.SampleID">
+        <source>Sample ID</source>
+        <target>Sample ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.VerificationType.OrderID">
+        <source>Order ID</source>
+        <target>Order ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.VerificationType.VisitID">
+        <source>Visit ID</source>
+        <target>Visit ID</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.PatientMismatch.RunAllowed">
+        <source>Run allowed</source>
+        <target>Run allowed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.PatientMismatch.RunNotAllowed">
+        <source>Run not allowed</source>
+        <target>Run not allowed</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.DisplayedData.NoData">
+        <source>None (no data)</source>
+        <target>None (no data)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.DisplayedData.Name">
+        <source>Partial (name)</source>
+        <target>Partial (name)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.DisplayedData.Verbose">
+        <source>Verbose (name, sex, date of birth)</source>
+        <target>Verbose (name, sex, date of birth)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.ManualConfirmation.NotRequired">
+        <source>Not required</source>
+        <target>Not required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.PV.ManualConfirmation.Required">
+        <source>Required</source>
+        <target>Required</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteServiceTitle">
+        <source>Remote Service</source>
+        <target>Remote Service</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.InfinityEdgeGateway">
+        <source>Infinity Edge Gateway</source>
+        <target>Infinity Edge Gateway</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.Server">
+        <source>Server</source>
+        <target>Server</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Liat.PatternError">
+        <source>Cannot contain "'`</source>
+        <target>Cannot contain "'`</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.Port">
+        <source>Port</source>
+        <target>Port</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.Timeout">
+        <source>Timeout (Seconds)</source>
+        <target>Timeout (Seconds)</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.CustomerCity">
+        <source>City</source>
+        <target>City</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.CustomerCountry">
+        <source>Country</source>
+        <target>Country</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.Location">
+        <source>Location</source>
+        <target>Location</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.CustomerSite">
+        <source>Site</source>
+        <target>Site</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.HttpProxy">
+        <source>HTTP Proxy</source>
+        <target>HTTP Proxy</target>
+      </trans-unit>
+     <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.HttpProxyEnabled">
+        <source>#[DeviceConfigurations.CobasLiat.HttpProxy] Enabled</source>
+        <target>#[DeviceConfigurations.CobasLiat.HttpProxy] Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.Server">
+        <source>Server</source>
+        <target>Server</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.Port">
+        <source>#[DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.Port]</source>
+        <target>#[DeviceConfigurations.CobasLiat.RemoteService.InfinityEdgeGateway.Port]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.Authentication">
+        <source>Authentication Enabled</source>
+        <target>Authentication Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.UserName">
+        <source>User Name</source>
+        <target>User Name</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.RemoteService.Password">
+        <source>Password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Liat.Settings.Password.Validation.Error">
+        <source>#[DeviceConfigurations.Liat.PatternError]</source>
+        <target>#[DeviceConfigurations.Liat.PatternError]</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.Liat.Settings.Password.Confirm">
+        <source>Confirm Password</source>
+        <target>Confirm Password</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeTitle">
+        <source>Barcode</source>
+        <target>Barcode</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeOptions">
+        <source>#[DeviceConfigurations.CobasLiat.BarcodeTitle] Options</source>
+        <target>#[DeviceConfigurations.CobasLiat.BarcodeTitle] Options</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeITF.Enabled">
+        <source>ITF Enabled</source>
+        <target>ITF Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeITF.Checksum">
+        <source>ITF Checksum</source>
+        <target>ITF Checksum</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeITF.FixLength">
+        <source>ITF Fixed Length</source>
+        <target>ITF Fixed Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeITF.BarcodeLength">
+        <source>ITF Barcode Length</source>
+        <target>ITF Barcode Length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeCodabar.Enabled">
+        <source>Codabar Enabled</source>
+        <target>Codabar Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeCodabar.TransmitStartStopChar">
+        <source>Codabar Transmit Start/Stop Characters</source>
+        <target>Codabar Transmit Start/Stop Characters</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeCode39.Enabled">
+        <source>Code 39 Enabled</source>
+        <target>Code 39 Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeCode39.Checksum">
+        <source>Code 39 Checksum</source>
+        <target>Code 39 Checksum</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeCode93.Enabled">
+        <source>Code 93 Enabled</source>
+        <target>Code 93 Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeEAN8.Enabled">
+        <source>EAN-8 Enabled</source>
+        <target>EAN-8 Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeEAN13.Enabled">
+        <source>EAN-13 Enabled</source>
+        <target>EAN-13 Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeGS1Databar14.Enabled">
+        <source>GS1 Databar Enabled</source>
+        <target>GS1 Databar Enabled</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeITF.FixLength.OneDiscreteLength">
+        <source>One discrete length</source>
+        <target>One discrete length</target>
+      </trans-unit>
+      <trans-unit id="DeviceConfigurations.CobasLiat.BarcodeITF.FixLength.Disabled">
+        <source>Disabled</source>
+        <target>Disabled</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

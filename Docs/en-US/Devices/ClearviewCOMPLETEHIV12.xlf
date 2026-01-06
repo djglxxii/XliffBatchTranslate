@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.50501">
+                <source>Reactive HIV-1</source>
+                <target>Reactive HIV-1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.50502">
+                <source>Reactive HIV-2</source>
+                <target>Reactive HIV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.50503">
+                <source>Nonreactive</source>
+                <target>Nonreactive</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.50501">
+                <source>Test Device</source>
+                <target>Test Device</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.50502">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.50501">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.50502">
+                <source>QC - Reactive HIV-1</source>
+                <target>QC - Reactive HIV-1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.50503">
+                <source>QC - Reactive HIV-2</source>
+                <target>QC - Reactive HIV-2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.50504">
+                <source>QC - Nonreactive</source>
+                <target>QC - Nonreactive</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.50501">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.50502">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.50501">
+                <source>Whole Blood</source>
+                <target>Whole Blood</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.50502">
+                <source>Plasma</source>
+                <target>Plasma</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.50503">
+                <source>Serum</source>
+                <target>Serum</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.505001">
+                <source>HIV 1/2</source>
+                <target>HIV 1/2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.505002">
+                <source>Control Line</source>
+                <target>Control Line</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.505003">
+                <source>Kit Lot</source>
+                <target>Kit Lot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.505004">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

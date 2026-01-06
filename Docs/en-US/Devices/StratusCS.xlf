@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.1901">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1902">
+                <source>Misc</source>
+                <target>Misc</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.1903">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.1901">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1930">
+                <source>TestPak</source>
+                <target>TestPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1931">
+                <source>TestPak</source>
+                <target>TestPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1932">
+                <source>TestPak</source>
+                <target>TestPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1933">
+                <source>TestPak</source>
+                <target>TestPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1934">
+                <source>TestPak</source>
+                <target>TestPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1935">
+                <source>TestPak</source>
+                <target>TestPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1936">
+                <source>TestPak</source>
+                <target>TestPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1940">
+                <source>DilPak</source>
+                <target>DilPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1941">
+                <source>DilPak</source>
+                <target>DilPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1942">
+                <source>DilPak</source>
+                <target>DilPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1943">
+                <source>DilPak</source>
+                <target>DilPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1944">
+                <source>DilPak</source>
+                <target>DilPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1945">
+                <source>DilPak</source>
+                <target>DilPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1946">
+                <source>DilPak</source>
+                <target>DilPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1950">
+                <source>CalPak</source>
+                <target>CalPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1951">
+                <source>CalPak</source>
+                <target>CalPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1952">
+                <source>CalPak</source>
+                <target>CalPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1953">
+                <source>CalPak</source>
+                <target>CalPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1954">
+                <source>CalPak</source>
+                <target>CalPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1955">
+                <source>CalPak</source>
+                <target>CalPak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.1956">
+                <source>CalPak</source>
+                <target>CalPak</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.1901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1902">
+                <source>QC - Low</source>
+                <target>QC - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1903">
+                <source>QC - Misc</source>
+                <target>QC - Misc</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.1904">
+                <source>QC - High</source>
+                <target>QC - High</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.1901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.1902">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.1901">
+                <source>Serum</source>
+                <target>Serum</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.1902">
+                <source>Plasma</source>
+                <target>Plasma</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.1903">
+                <source>Urine</source>
+                <target>Urine</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.1901">
+                <source>CKMB</source>
+                <target>CKMB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1902">
+                <source>MYO</source>
+                <target>MYO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1903">
+                <source>cTnI</source>
+                <target>cTnI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1904">
+                <source>bhCG</source>
+                <target>bhCG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1905">
+                <source>DDMR</source>
+                <target>DDMR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1906">
+                <source>pBNP</source>
+                <target>pBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.1909">
+                <source>hs-CRP</source>
+                <target>hs-CRP</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.19001">
+                <source>CKMB</source>
+                <target>CKMB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19002">
+                <source>cTnI</source>
+                <target>cTnI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19003">
+                <source>MYO</source>
+                <target>MYO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19004">
+                <source>D-dimer</source>
+                <target>D-dimer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19005">
+                <source>B-hCG</source>
+                <target>B-hCG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19006">
+                <source>NT-proBNP</source>
+                <target>NT-proBNP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19007">
+                <source>Manual Dilution</source>
+                <target>Manual Dilution</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19008">
+                <source>Last TestPak Cal</source>
+                <target>Last TestPak Cal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.19009">
+                <source>hs-CRP</source>
+                <target>hs-CRP</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

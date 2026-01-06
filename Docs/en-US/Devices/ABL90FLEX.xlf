@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.5711">
+                <source>S9030 Level 1</source>
+                <target>S9030 Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5712">
+                <source>S9040 Level 2</source>
+                <target>S9040 Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5713">
+                <source>S9050 Level 3</source>
+                <target>S9050 Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5721">
+                <source>S7730 Level 1-RED</source>
+                <target>S7730 Level 1-RED</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5722">
+                <source>S7740 Level 2-YELLOW</source>
+                <target>S7740 Level 2-YELLOW</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5723">
+                <source>S7750 Level 3-BLUE</source>
+                <target>S7750 Level 3-BLUE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.5724">
+                <source>S7760 Level 4-GREEN</source>
+                <target>S7760 Level 4-GREEN</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.5701">
+                <source>Auto QC</source>
+                <target>Auto QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.5702">
+                <source>QUALICHECK5+</source>
+                <target>QUALICHECK5+</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.5700">
+                <source>QC Unknown</source>
+                <target>QC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5702">
+                <source>Calibration</source>
+                <target>Calibration</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5703">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5710">
+                <source>AQC Unknown</source>
+                <target>AQC Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5711">
+                <source>AQC S9030 Level 1</source>
+                <target>AQC S9030 Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5712">
+                <source>AQC S9040 Level 2</source>
+                <target>AQC S9040 Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5713">
+                <source>AQC S9050 Level 3</source>
+                <target>AQC S9050 Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5720">
+                <source>QC5+ Unknown</source>
+                <target>QC5+ Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5721">
+                <source>QC5+ S7730 Level 1-RED</source>
+                <target>QC5+ S7730 Level 1-RED</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5722">
+                <source>QC5+ S7740 Level 2-YELLOW</source>
+                <target>QC5+ S7740 Level 2-YELLOW</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5723">
+                <source>QC5+ S7750 Level 3-BLUE</source>
+                <target>QC5+ S7750 Level 3-BLUE</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.5724">
+                <source>QC5+ S7760 Level 4-GREEN</source>
+                <target>QC5+ S7760 Level 4-GREEN</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.5701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5702">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5703">
+                <source>Calibration</source>
+                <target>Calibration</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.5704">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.5701">
+                <source>Not specified</source>
+                <target>Not specified</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5702">
+                <source>Arterial</source>
+                <target>Arterial</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5703">
+                <source>Venous</source>
+                <target>Venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5704">
+                <source>Capillary</source>
+                <target>Capillary</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5705">
+                <source>Mixed venous</source>
+                <target>Mixed venous</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5706">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5707">
+                <source>Cord Blood</source>
+                <target>Cord Blood</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.5708">
+                <source>Fetal Scalp</source>
+                <target>Fetal Scalp</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.5701">
+                <source>AGGR_CAL</source>
+                <target>AGGR_CAL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.5702">
+                <source>tHb Calibration</source>
+                <target>tHb Calibration</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.57001">
+                <source>pH</source>
+                <target>pH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57002">
+                <source>cH+</source>
+                <target>cH+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57003">
+                <source>pCO2</source>
+                <target>pCO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57004">
+                <source>pO2</source>
+                <target>pO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57005">
+                <source>Baro</source>
+                <target>Baro</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57006">
+                <source>ctHb</source>
+                <target>ctHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57007">
+                <source>sO2</source>
+                <target>sO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57008">
+                <source>FO2Hb</source>
+                <target>FO2Hb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57009">
+                <source>FCOHb</source>
+                <target>FCOHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57010">
+                <source>FMetHb</source>
+                <target>FMetHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57011">
+                <source>FHHb</source>
+                <target>FHHb</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57012">
+                <source>FHbF</source>
+                <target>FHbF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57013">
+                <source>cK+</source>
+                <target>cK+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57014">
+                <source>cNa+</source>
+                <target>cNa+</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57015">
+                <source>cCa++</source>
+                <target>cCa++</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57016">
+                <source>cCl-</source>
+                <target>cCl-</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57017">
+                <source>cGlu</source>
+                <target>cGlu</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57018">
+                <source>cLac</source>
+                <target>cLac</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57019">
+                <source>ctBil</source>
+                <target>ctBil</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57100">
+                <source>T</source>
+                <target>T</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57101">
+                <source>FO2(I)</source>
+                <target>FO2(I)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57102">
+                <source>RQ</source>
+                <target>RQ</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57103">
+                <source>pO2(v)</source>
+                <target>pO2(v)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57104">
+                <source>sO2(v)</source>
+                <target>sO2(v)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57105">
+                <source>Qt</source>
+                <target>Qt</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57106">
+                <source>VO2</source>
+                <target>VO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57107">
+                <source>VCO</source>
+                <target>VCO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57108">
+                <source>FCOHb(1)</source>
+                <target>FCOHb(1)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57109">
+                <source>FCOHb(2)</source>
+                <target>FCOHb(2)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57200">
+                <source>pH(T)</source>
+                <target>pH(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57201">
+                <source>cH+(T)</source>
+                <target>cH+(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57202">
+                <source>pCO2(T)</source>
+                <target>pCO2(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57203">
+                <source>cHCO3-(P)</source>
+                <target>cHCO3-(P)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57204">
+                <source>cBase(B)</source>
+                <target>cBase(B)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57205">
+                <source>cBase(B,ox)</source>
+                <target>cBase(B,ox)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57206">
+                <source>cBase(Ecf)</source>
+                <target>cBase(Ecf)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57207">
+                <source>cBase(Ecf,ox)</source>
+                <target>cBase(Ecf,ox)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57208">
+                <source>cHCO3-(P,st)</source>
+                <target>cHCO3-(P,st)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57209">
+                <source>ctCO2(P)</source>
+                <target>ctCO2(P)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57210">
+                <source>ctCO2(B)</source>
+                <target>ctCO2(B)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57211">
+                <source>pH(st)</source>
+                <target>pH(st)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57212">
+                <source>VCO2/V(dry air)</source>
+                <target>VCO2/V(dry air)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57213">
+                <source>tO2</source>
+                <target>tO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57214">
+                <source>SBC</source>
+                <target>SBC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57300">
+                <source>Hct</source>
+                <target>Hct</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57400">
+                <source>pO2(T)</source>
+                <target>pO2(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57401">
+                <source>pO2(A)</source>
+                <target>pO2(A)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57402">
+                <source>pO2(A,T)</source>
+                <target>pO2(A,T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57403">
+                <source>pO2(a)/FO2(I)</source>
+                <target>pO2(a)/FO2(I)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57404">
+                <source>pO2(a,T)/FO2(I)</source>
+                <target>pO2(a,T)/FO2(I)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57405">
+                <source>p50</source>
+                <target>p50</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57406">
+                <source>p50(T)</source>
+                <target>p50(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57407">
+                <source>p50(st)</source>
+                <target>p50(st)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57408">
+                <source>pO2(A-a)</source>
+                <target>pO2(A-a)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57409">
+                <source>pO2(A-a,T)</source>
+                <target>pO2(A-a,T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57410">
+                <source>pO2(a/A)</source>
+                <target>pO2(a/A)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57411">
+                <source>pO2(a/A,T)</source>
+                <target>pO2(a/A,T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57412">
+                <source>pO2(x)</source>
+                <target>pO2(x)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57413">
+                <source>pO2(x,T)</source>
+                <target>pO2(x,T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57414">
+                <source>ctO2(B)</source>
+                <target>ctO2(B)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57415">
+                <source>ctO2(a-v)</source>
+                <target>ctO2(a-v)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57416">
+                <source>BO2</source>
+                <target>BO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57417">
+                <source>ctO2(x)</source>
+                <target>ctO2(x)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57418">
+                <source>DO2</source>
+                <target>DO2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57419">
+                <source>FShunt</source>
+                <target>FShunt</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57420">
+                <source>FShunt(T)</source>
+                <target>FShunt(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57421">
+                <source>RI</source>
+                <target>RI</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57422">
+                <source>RI(T)</source>
+                <target>RI(T)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57423">
+                <source>Qx</source>
+                <target>Qx</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57424">
+                <source>V(B)</source>
+                <target>V(B)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57500">
+                <source>Anion gap (K+)</source>
+                <target>Anion gap (K+)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57501">
+                <source>Anion gap</source>
+                <target>Anion gap</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57502">
+                <source>cCa++(7.4)</source>
+                <target>cCa++(7.4)</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57503">
+                <source>mOsm</source>
+                <target>mOsm</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57600">
+                <source>Specimen Source</source>
+                <target>Specimen Source</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57601">
+                <source>Specimen Type</source>
+                <target>Specimen Type</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57602">
+                <source>Measuring Mode</source>
+                <target>Measuring Mode</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57603">
+                <source>Notified by</source>
+                <target>Notified by</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57604">
+                <source>Notified whom</source>
+                <target>Notified whom</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57605">
+                <source>Date/Time notified</source>
+                <target>Date/Time notified</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57606">
+                <source>Specimen sites</source>
+                <target>Specimen sites</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57607">
+                <source>Sample sites</source>
+                <target>Sample sites</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57700">
+                <source>pH 1</source>
+                <target>pH 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57701">
+                <source>pH 2</source>
+                <target>pH 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57702">
+                <source>pH Status</source>
+                <target>pH Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57703">
+                <source>pH Sens</source>
+                <target>pH Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57704">
+                <source>pCO2 1</source>
+                <target>pCO2 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57705">
+                <source>pCO2 2</source>
+                <target>pCO2 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57706">
+                <source>pCO2 Status</source>
+                <target>pCO2 Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57707">
+                <source>pCO2 Sens</source>
+                <target>pCO2 Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57708">
+                <source>pO2 1</source>
+                <target>pO2 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57709">
+                <source>pO2 2</source>
+                <target>pO2 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57710">
+                <source>pO2 Zero</source>
+                <target>pO2 Zero</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57711">
+                <source>pO2 Sens</source>
+                <target>pO2 Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57712">
+                <source>tHb Status</source>
+                <target>tHb Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57713">
+                <source>tHb Sens</source>
+                <target>tHb Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57714">
+                <source>K+ 1</source>
+                <target>K+ 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57715">
+                <source>K+ 2</source>
+                <target>K+ 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57716">
+                <source>K+ Status</source>
+                <target>K+ Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57717">
+                <source>K+ Sens</source>
+                <target>K+ Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57718">
+                <source>Na+ 1</source>
+                <target>Na+ 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57719">
+                <source>Na+ 2</source>
+                <target>Na+ 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57720">
+                <source>Na+ Status</source>
+                <target>Na+ Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57721">
+                <source>Na+ Sens</source>
+                <target>Na+ Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57722">
+                <source>Ca++ 1</source>
+                <target>Ca++ 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57723">
+                <source>Ca++ 2</source>
+                <target>Ca++ 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57724">
+                <source>Ca++ Status</source>
+                <target>Ca++ Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57725">
+                <source>Ca++ Sens</source>
+                <target>Ca++ Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57726">
+                <source>Cl- 1</source>
+                <target>Cl- 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57727">
+                <source>Cl- 2</source>
+                <target>Cl- 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57728">
+                <source>Cl- Status</source>
+                <target>Cl- Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57729">
+                <source>Cl- Sens</source>
+                <target>Cl- Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57730">
+                <source>Glu 0</source>
+                <target>Glu 0</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57731">
+                <source>Glu 1</source>
+                <target>Glu 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57732">
+                <source>Glu Status</source>
+                <target>Glu Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57733">
+                <source>Glu Sens</source>
+                <target>Glu Sens</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57734">
+                <source>Lac 0</source>
+                <target>Lac 0</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57735">
+                <source>Lac 1</source>
+                <target>Lac 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57736">
+                <source>Lac Status</source>
+                <target>Lac Status</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.57737">
+                <source>Lac Sens</source>
+                <target>Lac Sens</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

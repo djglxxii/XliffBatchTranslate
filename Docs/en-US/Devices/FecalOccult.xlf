@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.3101">
+                <source>Positive</source>
+                <target>Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.3102">
+                <source>Negative</source>
+                <target>Negative</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.3101">
+                <source>Card</source>
+                <target>Card</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3102">
+                <source>Developer</source>
+                <target>Developer</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.3103">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.3101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3102">
+                <source>QC - Positive</source>
+                <target>QC - Positive</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.3103">
+                <source>QC - Negative</source>
+                <target>QC - Negative</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.3101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.3102">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.3101">
+                <source>Stool Sample</source>
+                <target>Stool Sample</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.31001">
+                <source>Fecal Occult</source>
+                <target>Fecal Occult</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31002">
+                <source>Positive Control</source>
+                <target>Positive Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31003">
+                <source>Negative Control</source>
+                <target>Negative Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31004">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31005">
+                <source>Developer QC</source>
+                <target>Developer QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31006">
+                <source>Slide QC</source>
+                <target>Slide QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31007">
+                <source>Kit Lot</source>
+                <target>Kit Lot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31008">
+                <source>Fecal Occult 2</source>
+                <target>Fecal Occult 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31009">
+                <source>Fecal Occult 3</source>
+                <target>Fecal Occult 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31010">
+                <source>Control Line</source>
+                <target>Control Line</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31011">
+                <source>Control Line 2</source>
+                <target>Control Line 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31012">
+                <source>Control Line 3</source>
+                <target>Control Line 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31013">
+                <source>Positive Control 2</source>
+                <target>Positive Control 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31014">
+                <source>Positive Control 3</source>
+                <target>Positive Control 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31015">
+                <source>Negative Control 2</source>
+                <target>Negative Control 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31016">
+                <source>Negative Control 3</source>
+                <target>Negative Control 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31017">
+                <source>Developer QC 2</source>
+                <target>Developer QC 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31018">
+                <source>Developer QC 3</source>
+                <target>Developer QC 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31019">
+                <source>Card Lot</source>
+                <target>Card Lot</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31020">
+                <source>Card Lot 2</source>
+                <target>Card Lot 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31021">
+                <source>Card Lot 3</source>
+                <target>Card Lot 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31022">
+                <source>Collection Date/Time</source>
+                <target>Collection Date/Time</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31023">
+                <source>Collection Date/Time 2</source>
+                <target>Collection Date/Time 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.31024">
+                <source>Collection Date/Time 3</source>
+                <target>Collection Date/Time 3</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

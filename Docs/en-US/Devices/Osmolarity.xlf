@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.42901">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.42902">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.42901">
+                <source>Card</source>
+                <target>Card</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.42902">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.42901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.42902">
+                <source>QC - Normal</source>
+                <target>QC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.42903">
+                <source>QC - High</source>
+                <target>QC - High</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.42901">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.42902">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.42901">
+                <source>Ocular Fluid</source>
+                <target>Ocular Fluid</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.429001">
+                <source>Osmolarity</source>
+                <target>Osmolarity</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429002">
+                <source>Control - Normal</source>
+                <target>Control - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429003">
+                <source>Control - High</source>
+                <target>Control - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429004">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429005">
+                <source>Room Temp</source>
+                <target>Room Temp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429006">
+                <source>Test Card Batch #</source>
+                <target>Test Card Batch #</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429007">
+                <source>Calibration Code</source>
+                <target>Calibration Code</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429008">
+                <source>Reader ID</source>
+                <target>Reader ID</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429009">
+                <source>Device ID</source>
+                <target>Device ID</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.429010">
+                <source>Test Time</source>
+                <target>Test Time</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

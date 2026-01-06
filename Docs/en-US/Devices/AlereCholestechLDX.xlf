@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.6101">
+                <source>Level 1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.6102">
+                <source>Level 2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.6101">
+                <source>Cassette</source>
+                <target>Cassette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6102">
+                <source>Cassette</source>
+                <target>Cassette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6103">
+                <source>Cassette</source>
+                <target>Cassette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6104">
+                <source>Cassette</source>
+                <target>Cassette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6105">
+                <source>Cassette</source>
+                <target>Cassette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6106">
+                <source>Cassette</source>
+                <target>Cassette</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6110">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.6120">
+                <source>Optics Cassette</source>
+                <target>Optics Cassette</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.6101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6110">
+                <source>QC - Level 1</source>
+                <target>QC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6111">
+                <source>QC - Level 1</source>
+                <target>QC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6112">
+                <source>QC - Level 2</source>
+                <target>QC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6113">
+                <source>QC - Level 2</source>
+                <target>QC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6120">
+                <source>Optics Check</source>
+                <target>Optics Check</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6121">
+                <source>Optics Check</source>
+                <target>Optics Check</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6130">
+                <source>Unknown</source>
+                <target>Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.6131">
+                <source>Unknown</source>
+                <target>Unknown</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.6100">
+                <source>Unknown</source>
+                <target>Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6101">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6102">
+                <source>QC</source>
+                <target>QC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.6103">
+                <source>Optics Check</source>
+                <target>Optics Check</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.6101">
+                <source>Serum</source>
+                <target>Serum</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.6102">
+                <source>Blood</source>
+                <target>Blood</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.6100">
+                <source>Unknown</source>
+                <target>Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6101">
+                <source>TC</source>
+                <target>TC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6102">
+                <source>TC-HDL</source>
+                <target>TC-HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6103">
+                <source>TC-GLU</source>
+                <target>TC-GLU</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6104">
+                <source>TC-HDL-GLU</source>
+                <target>TC-HDL-GLU</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6105">
+                <source>Lipid Profile</source>
+                <target>Lipid Profile</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6106">
+                <source>Lipid-GLU</source>
+                <target>Lipid-GLU</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.6110">
+                <source>Optics Check</source>
+                <target>Optics Check</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.61001">
+                <source>TC</source>
+                <target>TC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61002">
+                <source>GLU</source>
+                <target>GLU</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61003">
+                <source>HDL</source>
+                <target>HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61004">
+                <source>TRG</source>
+                <target>TRG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61005">
+                <source>TC/HDL</source>
+                <target>TC/HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61006">
+                <source>Non-HDL</source>
+                <target>Non-HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61007">
+                <source>LDL</source>
+                <target>LDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61008">
+                <source>LDL/HDL</source>
+                <target>LDL/HDL</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61020">
+                <source>Channel 1</source>
+                <target>Channel 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61021">
+                <source>Channel 2</source>
+                <target>Channel 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61022">
+                <source>Channel 3</source>
+                <target>Channel 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61023">
+                <source>Channel 4</source>
+                <target>Channel 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.61030">
+                <source>Optics Check</source>
+                <target>Optics Check</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

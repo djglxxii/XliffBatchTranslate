@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.60611">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60612">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60613">
+                <source>3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60614">
+                <source>4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60615">
+                <source>5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60616">
+                <source>6</source>
+                <target>Level 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60617">
+                <source>7</source>
+                <target>Level 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60618">
+                <source>8</source>
+                <target>Level 8</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60619">
+                <source>9</source>
+                <target>Level 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60620">
+                <source>L</source>
+                <target>Level L</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60621">
+                <source>H</source>
+                <target>Level H</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60622">
+                <source>A</source>
+                <target>Level A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60623">
+                <source>N</source>
+                <target>Level N</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60631">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60632">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60633">
+                <source>3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60634">
+                <source>4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60635">
+                <source>5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60636">
+                <source>6</source>
+                <target>Level 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60637">
+                <source>7</source>
+                <target>Level 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60638">
+                <source>8</source>
+                <target>Level 8</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60639">
+                <source>9</source>
+                <target>Level 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60640">
+                <source>L</source>
+                <target>Level L</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60641">
+                <source>H</source>
+                <target>Level H</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60642">
+                <source>A</source>
+                <target>Level A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60643">
+                <source>N</source>
+                <target>Level N</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60651">
+                <source>1</source>
+                <target>Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60652">
+                <source>2</source>
+                <target>Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60653">
+                <source>3</source>
+                <target>Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60654">
+                <source>4</source>
+                <target>Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60655">
+                <source>5</source>
+                <target>Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60656">
+                <source>6</source>
+                <target>Level 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60657">
+                <source>7</source>
+                <target>Level 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60658">
+                <source>8</source>
+                <target>Level 8</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60659">
+                <source>9</source>
+                <target>Level 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60660">
+                <source>L</source>
+                <target>Level L</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60661">
+                <source>H</source>
+                <target>Level H</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60662">
+                <source>A</source>
+                <target>Level A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.60663">
+                <source>N</source>
+                <target>Level N</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.60601">
+                <source>HbA1c Cartridge</source>
+                <target>HbA1c Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60602">
+                <source>A/C Cartridge</source>
+                <target>A/C Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60611">
+                <source>LQC HbA1c</source>
+                <target>LQC HbA1c</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60612">
+                <source>LQC A/C</source>
+                <target>LQC A/C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60613">
+                <source>LQC Other</source>
+                <target>LQC Other</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.60621">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.60600">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60610">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60611">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60612">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60613">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60614">
+                <source>LQC - Level 4</source>
+                <target>LQC - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60615">
+                <source>LQC - Level 5</source>
+                <target>LQC - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60616">
+                <source>LQC - Level 6</source>
+                <target>LQC - Level 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60617">
+                <source>LQC - Level 7</source>
+                <target>LQC - Level 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60618">
+                <source>LQC - Level 8</source>
+                <target>LQC - Level 8</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60619">
+                <source>LQC - Level 9</source>
+                <target>LQC - Level 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60620">
+                <source>LQC - Level L</source>
+                <target>LQC - Level L</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60621">
+                <source>LQC - Level H</source>
+                <target>LQC - Level H</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60622">
+                <source>LQC - Level A</source>
+                <target>LQC - Level A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60623">
+                <source>LQC - Level N</source>
+                <target>LQC - Level N</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60630">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60631">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60632">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60633">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60634">
+                <source>LQC - Level 4</source>
+                <target>LQC - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60635">
+                <source>LQC - Level 5</source>
+                <target>LQC - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60636">
+                <source>LQC - Level 6</source>
+                <target>LQC - Level 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60637">
+                <source>LQC - Level 7</source>
+                <target>LQC - Level 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60638">
+                <source>LQC - Level 8</source>
+                <target>LQC - Level 8</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60639">
+                <source>LQC - Level 9</source>
+                <target>LQC - Level 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60640">
+                <source>LQC - Level L</source>
+                <target>LQC - Level L</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60641">
+                <source>LQC - Level H</source>
+                <target>LQC - Level H</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60642">
+                <source>LQC - Level A</source>
+                <target>LQC - Level A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60643">
+                <source>LQC - Level N</source>
+                <target>LQC - Level N</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60650">
+                <source>LQC - Unknown</source>
+                <target>LQC - Unknown</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60651">
+                <source>LQC - Level 1</source>
+                <target>LQC - Level 1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60652">
+                <source>LQC - Level 2</source>
+                <target>LQC - Level 2</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60653">
+                <source>LQC - Level 3</source>
+                <target>LQC - Level 3</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60654">
+                <source>LQC - Level 4</source>
+                <target>LQC - Level 4</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60655">
+                <source>LQC - Level 5</source>
+                <target>LQC - Level 5</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60660">
+                <source>LQC - Level L</source>
+                <target>LQC - Level L</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60661">
+                <source>LQC - Level H</source>
+                <target>LQC - Level H</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60662">
+                <source>LQC - Level A</source>
+                <target>LQC - Level A</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60663">
+                <source>LQC - Level N</source>
+                <target>LQC - Level N</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60666">
+                <source>LQC - Level 6</source>
+                <target>LQC - Level 6</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60667">
+                <source>LQC - Level 7</source>
+                <target>LQC - Level 7</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60668">
+                <source>LQC - Level 8</source>
+                <target>LQC - Level 8</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60669">
+                <source>LQC - Level 9</source>
+                <target>LQC - Level 9</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.60691">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.60601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60602">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.60603">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.60601">
+                <source>DCA HbA1c</source>
+                <target>DCA HbA1c</target>
+            </trans-unit>
+            <trans-unit id="StaticData.TestTypes.60602">
+                <source>DCA A/C</source>
+                <target>DCA A/C</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.606001">
+                <source>ALB</source>
+                <target>ALB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606002">
+                <source>CRT</source>
+                <target>CRT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606003">
+                <source>Ratio</source>
+                <target>Ratio</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606004">
+                <source>HbA1c</source>
+                <target>HbA1c</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606005">
+                <source>eAG</source>
+                <target>eAG</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606006">
+                <source>GFR</source>
+                <target>GFR</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606100">
+                <source>ALB Slope</source>
+                <target>ALB Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606101">
+                <source>ALB Offset</source>
+                <target>ALB Offset</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606102">
+                <source>ALB Reporting Units</source>
+                <target>ALB Reporting Units</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606110">
+                <source>CRT Slope</source>
+                <target>CRT Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606111">
+                <source>CRT Offset</source>
+                <target>CRT Offset</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606112">
+                <source>CRT Reporting Units</source>
+                <target>CRT Reporting Units</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606120">
+                <source>HbA1c Slope</source>
+                <target>HbA1c Slope</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606121">
+                <source>HbA1c Offset</source>
+                <target>HbA1c Offset</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606122">
+                <source>HbA1c Reporting Units</source>
+                <target>HbA1c Reporting Units</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606200">
+                <source>Age</source>
+                <target>Age</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606201">
+                <source>Gender</source>
+                <target>Gender</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606202">
+                <source>Race</source>
+                <target>Race</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606203">
+                <source>Plasma Creatinine</source>
+                <target>Plasma Creatinine</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.606300">
+                <source>QC Result</source>
+                <target>QC Result</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

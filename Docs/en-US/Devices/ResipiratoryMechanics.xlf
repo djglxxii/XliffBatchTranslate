@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3008001">
+                <source>UIP</source>
+                <target>UIP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008002">
+                <source>LIP</source>
+                <target>LIP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008003">
+                <source>Cstat</source>
+                <target>Cstat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008004">
+                <source>Cdyn</source>
+                <target>Cdyn</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008005">
+                <source>Cstat/kg</source>
+                <target>Cstat/kg</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008006">
+                <source>Cdyn/kg</source>
+                <target>Cdyn/kg</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008007">
+                <source>Ccw</source>
+                <target>Ccw</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008008">
+                <source>Clung</source>
+                <target>Clung</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008009">
+                <source>C20/C</source>
+                <target>C20/C</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008010">
+                <source>R insp</source>
+                <target>R insp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008011">
+                <source>R exp</source>
+                <target>R exp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008012">
+                <source>R aw</source>
+                <target>R aw</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008013">
+                <source>R peak</source>
+                <target>R peak</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008014">
+                <source>R rs</source>
+                <target>R rs</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008015">
+                <source>R imp</source>
+                <target>R imp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008016">
+                <source>R lung</source>
+                <target>R lung</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008017">
+                <source>R stat</source>
+                <target>R stat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008018">
+                <source>R dyn</source>
+                <target>R dyn</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008019">
+                <source>E</source>
+                <target>E</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008020">
+                <source>PTP</source>
+                <target>PTP</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008021">
+                <source>NIF</source>
+                <target>NIF</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008022">
+                <source>WOB</source>
+                <target>WOB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008023">
+                <source>WOB pat</source>
+                <target>WOB pat</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008024">
+                <source>WOB vent</source>
+                <target>WOB vent</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008025">
+                <source>WOB imp</source>
+                <target>WOB imp</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008026">
+                <source>P0.1</source>
+                <target>P0.1</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3008027">
+                <source>MIP</source>
+                <target>MIP</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

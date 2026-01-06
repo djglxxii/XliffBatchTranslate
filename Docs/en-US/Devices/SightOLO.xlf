@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Product Levels -->
+            <!-- Format = StaticData.ProductLevels.ProductLevelNo -->
+            <trans-unit id="StaticData.ProductLevels.9601">
+                <source>Low</source>
+                <target>Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.9602">
+                <source>Normal</source>
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductLevels.9603">
+                <source>High</source>
+                <target>High</target>
+            </trans-unit>
+            <!-- Product Types -->
+            <!-- Format = StaticData.ProductTypes.ProductNo -->
+            <trans-unit id="StaticData.ProductTypes.9601">
+                <source>Cartridge</source>
+                <target>Cartridge</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9602">
+                <source>Control</source>
+                <target>Control</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ProductTypes.9603">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <!-- Sample Type Defs -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.9601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9602">
+                <source>LQC - Low</source>
+                <target>LQC - Low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9603">
+                <source>LQC - Normal</source>
+                <target>LQC - Normal</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9604">
+                <source>LQC - High</source>
+                <target>LQC - High</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9605">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypeDefs.9606">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.9601">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.9602">
+                <source>LQC</source>
+                <target>LQC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.9603">
+                <source>Proficiency</source>
+                <target>Proficiency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SampleTypes.9604">
+                <source>EQC</source>
+                <target>EQC</target>
+            </trans-unit>
+            <!-- Specimen Types -->
+            <!-- Format = StaticData.SpecimenTypes.SpecimenDescNo -->
+            <trans-unit id="StaticData.SpecimenTypes.9601">
+                <source>Blood Tube</source>
+                <target>Blood Tube</target>
+            </trans-unit>
+            <trans-unit id="StaticData.SpecimenTypes.9602">
+                <source>Finger Prick</source>
+                <target>Finger Prick</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.9601">
+                <source>CBC</source>
+                <target>CBC</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.96001">
+                <source>WBC</source>
+                <target>WBC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96002">
+                <source>RBC</source>
+                <target>RBC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96003">
+                <source>PLT</source>
+                <target>PLT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96004">
+                <source>HGB</source>
+                <target>HGB</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96005">
+                <source>HCT</source>
+                <target>HCT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96006">
+                <source>MCV</source>
+                <target>MCV</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96007">
+                <source>MCH</source>
+                <target>MCH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96008">
+                <source>MCHC</source>
+                <target>MCHC</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96009">
+                <source>RDW</source>
+                <target>RDW</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96010">
+                <source>NEUT</source>
+                <target>NEUT</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96011">
+                <source>NEUT_P</source>
+                <target>NEUT_P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96012">
+                <source>LYMPH</source>
+                <target>LYMPH</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96013">
+                <source>LYMPH_P</source>
+                <target>LYMPH_P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96014">
+                <source>MONO</source>
+                <target>MONO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96015">
+                <source>MONO_P</source>
+                <target>MONO_P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96016">
+                <source>EOS</source>
+                <target>EOS</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96017">
+                <source>EOS_P</source>
+                <target>EOS_P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96018">
+                <source>BASO</source>
+                <target>BASO</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96019">
+                <source>BASO_P</source>
+                <target>BASO_P</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.96020">
+                <source>ELECTRONIC_QC</source>
+                <target>ELECTRONIC_QC</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

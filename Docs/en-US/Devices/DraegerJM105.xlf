@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Sample Type Defs  -->
+            <!-- Format = StaticData.SampleTypeDefs.SampleTypeDefNo -->
+            <trans-unit id="StaticData.SampleTypeDefs.8701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Sample Types -->
+            <!-- Format = StaticData.SampleTypes.SampleTypeNo -->
+            <trans-unit id="StaticData.SampleTypes.8701">
+                <source>Patient</source>
+                <target>Patient</target>
+            </trans-unit>
+            <!-- Test Types -->
+            <!-- Format = StaticData.TestTypes.TestTypeNo -->
+            <trans-unit id="StaticData.TestTypes.8701">
+                <source>Jaundice</source>
+                <target>Jaundice</target>
+            </trans-unit>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.87001">
+                <source>Bili</source>
+                <target>Bili</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.87002">
+                <source>Priority</source>
+                <target>Priority</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.87003">
+                <source>Phototherapy</source>
+                <target>Phototherapy</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

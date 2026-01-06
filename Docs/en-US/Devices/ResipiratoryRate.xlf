@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" 
+    xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="ng2.template">
+        <body>
+            <!-- Value Types -->
+            <!--Format = StaticData.ValueTypes.ValueTypeNo -->
+            <trans-unit id="StaticData.ValueTypes.3003001">
+                <source>Frequency</source>
+                <target>Frequency</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3003002">
+                <source>Rate</source>
+                <target>Rate</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3003003">
+                <source>Rate total</source>
+                <target>Rate total</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3003004">
+                <source>Rate low</source>
+                <target>Rate low</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3003005">
+                <source>Rate high</source>
+                <target>Rate high</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3003006">
+                <source>Rate spont</source>
+                <target>Rate spont</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3003007">
+                <source>Rate mand</source>
+                <target>Rate mand</target>
+            </trans-unit>
+            <trans-unit id="StaticData.ValueTypes.3003008">
+                <source>Pulse Rate</source>
+                <target>Pulse Rate</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
