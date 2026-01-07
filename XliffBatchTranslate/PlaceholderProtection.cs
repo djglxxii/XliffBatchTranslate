@@ -43,7 +43,9 @@ public static class PlaceholderProtection
         for (int i = 0; i < count; i++)
         {
             if (!s.Contains(Token(i), StringComparison.Ordinal))
+            {
                 return false;
+            }
         }
         return true;
     }

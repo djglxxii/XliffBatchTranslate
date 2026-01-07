@@ -11,7 +11,11 @@ namespace XliffBatchTranslate
         /// </summary>
         private static string NormalizeName(string lang)
         {
-            if (string.IsNullOrWhiteSpace(lang)) return lang;
+            if (string.IsNullOrWhiteSpace(lang))
+            {
+                return lang;
+            }
+
             switch (lang.Trim().ToLowerInvariant())
             {
                 case "es":
@@ -62,7 +66,11 @@ namespace XliffBatchTranslate
         /// </summary>
         private static string NormalizeCode(string lang)
         {
-            if (string.IsNullOrWhiteSpace(lang)) return lang;
+            if (string.IsNullOrWhiteSpace(lang))
+            {
+                return lang;
+            }
+
             switch (lang.Trim().ToLowerInvariant())
             {
                 case "spanish":
@@ -157,7 +165,9 @@ namespace XliffBatchTranslate
                     UseCache = true
                 };
 
-                var translator = new XliffTranslator(lm, options);
+                var logger = new FileTranslationLogger(
+                    Path.Combine(outputFolder, "translation.log"));
+                var translator = new XliffTranslator(lm, options, logger);
 
                 var files = EnumerateXliffFiles(inputFolder).ToList();
                 if (files.Count == 0)
@@ -181,7 +191,9 @@ namespace XliffBatchTranslate
 
                 Console.WriteLine($"Files: {files.Count}");
                 if (doPrecount)
+                {
                     Console.WriteLine($"Total trans‑units: {totalUnits}");
+                }
 
                 var sw = Stopwatch.StartNew();
 

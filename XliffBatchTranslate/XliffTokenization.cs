@@ -33,7 +33,9 @@ public static class XliffTokenization
     public static IEnumerable<XNode> RehydrateNodesFromTokens(string translatedText, IReadOnlyList<XNode> tokenNodes)
     {
         if (tokenNodes.Count == 0)
+        {
             return new XNode[] { new XText(translatedText) };
+        }
 
         var nodes = new List<XNode>();
         var remaining = translatedText;
@@ -50,14 +52,18 @@ public static class XliffTokenization
 
             var before = remaining.Substring(0, idx);
             if (before.Length > 0)
+            {
                 nodes.Add(new XText(before));
+            }
 
             nodes.Add(CloneNode(tokenNodes[i]));
             remaining = remaining.Substring(idx + token.Length);
         }
 
         if (remaining.Length > 0)
+        {
             nodes.Add(new XText(remaining));
+        }
 
         return nodes;
     }

@@ -5,6 +5,8 @@ namespace XliffBatchTranslate;
 
 public sealed class XliffTranslator
 {
+    private readonly ITranslationLogger _logger;
+
     private static readonly XNamespace XliffNs = "urn:oasis:names:tc:xliff:document:1.2";
 
     private readonly LmStudioClient _lm;
@@ -12,10 +14,14 @@ public sealed class XliffTranslator
 
     private readonly ConcurrentDictionary<string, string> _cache = new(StringComparer.Ordinal);
 
-    public XliffTranslator(LmStudioClient lm, XliffTranslateOptions options)
+    public XliffTranslator(
+        LmStudioClient lm,
+        XliffTranslateOptions options,
+        ITranslationLogger? logger = null)
     {
         _lm = lm ?? throw new ArgumentNullException(nameof(lm));
         _options = options ?? throw new ArgumentNullException(nameof(options));
+        _logger = logger ?? NullTranslationLogger.Instance;
     }
 
     public int CountTransUnits(string inputPath)
@@ -24,28 +30,39 @@ public sealed class XliffTranslator
         return doc.Descendants(XliffNs + "trans-unit").Count();
     }
 
-    public async Task<XliffTranslateStats> TranslateFileAsync(string inputPath, string outputPath, IProgress<FileProgress>? progress = null, CancellationToken ct = default)
+    public async Task<XliffTranslateStats> TranslateFileAsync(
+        string inputPath,
+        string outputPath,
+        IProgress<FileProgress>? progress = null,
+        CancellationToken ct = default)
     {
         var doc = XDocument.Load(inputPath, LoadOptions.PreserveWhitespace);
 
         var fileEl = doc.Descendants(XliffNs + "file").FirstOrDefault();
         if (fileEl is not null)
+        {
             fileEl.SetAttributeValue("target-language", _options.TargetLanguage);
+        }
 
         var transUnits = doc.Descendants(XliffNs + "trans-unit").ToList();
         var totalUnits = transUnits.Count;
-        var processed = 0;
 
         var stats = new XliffTranslateStats { TotalTransUnits = totalUnits };
+
+        var processed = 0;
 
         foreach (var tu in transUnits)
         {
             ct.ThrowIfCancellationRequested();
 
+            var unitId = tu.Attribute("id")?.Value;
+
             var sourceEl = tu.Element(XliffNs + "source");
             if (sourceEl is null)
             {
                 stats.SkippedCount++;
+                _logger.Skipped(inputPath, unitId, "Missing <source> element", string.Empty);
+
                 processed++;
                 progress?.Report(new FileProgress(processed, totalUnits));
                 continue;
@@ -62,7 +79,10 @@ public sealed class XliffTranslator
             var targetPlain = targetEl.Value ?? string.Empty;
 
             var targetMissing = string.IsNullOrWhiteSpace(targetPlain);
-            var targetSameAsSource = string.Equals(NormalizeWs(targetPlain), NormalizeWs(sourcePlain), StringComparison.Ordinal);
+            var targetSameAsSource = string.Equals(
+                NormalizeWs(targetPlain),
+                NormalizeWs(sourcePlain),
+                StringComparison.Ordinal);
 
             var shouldTranslate =
                 targetMissing ||
@@ -71,6 +91,12 @@ public sealed class XliffTranslator
             if (!shouldTranslate || string.IsNullOrWhiteSpace(sourcePlain))
             {
                 stats.SkippedCount++;
+
+                var reason =
+                    !shouldTranslate ? "Target present (translation not required)" : "Source empty/whitespace";
+
+                _logger.Skipped(inputPath, unitId, reason, sourcePlain);
+
                 processed++;
                 progress?.Report(new FileProgress(processed, totalUnits));
                 continue;
@@ -83,24 +109,36 @@ public sealed class XliffTranslator
             var (textWithAllTokens, phOriginals) = PlaceholderProtection.Protect(textWithTagTokens);
 
             // 3) Translate with cache + strict prompt
-            string translated;
+            string? translated;
             if (_options.UseCache && _cache.TryGetValue(textWithAllTokens, out var cached))
             {
                 translated = cached;
                 stats.CacheHitCount++;
+                _logger.Cached(inputPath, unitId, sourcePlain);
             }
             else
             {
                 translated = await TranslateStrictWithValidationAsync(
-                                source: textWithAllTokens,
-                                targetLanguage: _options.TargetLanguage,
-                                phTokenCount: phOriginals.Count,
-                                tagTokenCount: tagNodes.Count,
-                                ct: ct).ConfigureAwait(false)
-                             ?? textWithAllTokens;
+                    source: textWithAllTokens,
+                    targetLanguage: _options.TargetLanguage,
+                    phTokenCount: phOriginals.Count,
+                    tagTokenCount: tagNodes.Count,
+                    ct: ct).ConfigureAwait(false);
+
+                if (translated is null)
+                {
+                    stats.FailureCount++;
+                    _logger.Failed(inputPath, unitId, "LM validation failed after retries", sourcePlain);
+
+                    processed++;
+                    progress?.Report(new FileProgress(processed, totalUnits));
+                    continue;
+                }
 
                 if (_options.UseCache)
+                {
                     _cache[textWithAllTokens] = translated;
+                }
             }
 
             // 4) Restore placeholders
@@ -109,9 +147,12 @@ public sealed class XliffTranslator
             // 5) Write target, rehydrating inline XLIFF nodes
             targetEl.RemoveNodes();
             foreach (var node in XliffTokenization.RehydrateNodesFromTokens(translated, tagNodes))
+            {
                 targetEl.Add(node);
+            }
 
             stats.TranslatedCount++;
+
             processed++;
             progress?.Report(new FileProgress(processed, totalUnits));
         }
@@ -119,23 +160,30 @@ public sealed class XliffTranslator
         doc.Save(outputPath, SaveOptions.DisableFormatting);
         return stats;
     }
-
-    private async Task<string?> TranslateStrictWithValidationAsync(string source, string targetLanguage, int phTokenCount, int tagTokenCount, CancellationToken ct)
+    
+    private async Task<string?> TranslateStrictWithValidationAsync(string source, string targetLanguage,
+        int phTokenCount, int tagTokenCount, CancellationToken ct)
     {
         // Attempt 1
-        var first = await SafeLmCallAsync(source, targetLanguage, maxTokens: _options.MaxTokens, ct).ConfigureAwait(false);
+        var first = await SafeLmCallAsync(source, targetLanguage, maxTokens: _options.MaxTokens, ct)
+            .ConfigureAwait(false);
         if (!LooksBad(source, first, phTokenCount, tagTokenCount))
+        {
             return first;
+        }
 
         // Attempt 2 (tighter)
         var second = await SafeLmCallAsync(source, targetLanguage, maxTokens: 64, ct).ConfigureAwait(false);
         if (!LooksBad(source, second, phTokenCount, tagTokenCount))
+        {
             return second;
+        }
 
         return null;
     }
 
-    private async Task<string?> SafeLmCallAsync(string source, string targetLanguage, int maxTokens, CancellationToken ct)
+    private async Task<string?> SafeLmCallAsync(string source, string targetLanguage, int maxTokens,
+        CancellationToken ct)
     {
         try
         {
@@ -150,18 +198,24 @@ public sealed class XliffTranslator
     private static bool LooksBad(string source, string? candidate, int phTokenCount, int tagTokenCount)
     {
         if (string.IsNullOrWhiteSpace(candidate))
+        {
             return true;
+        }
 
         var c = candidate.Trim();
 
         // Token survival checks
         if (!PlaceholderProtection.AllTokensPresent(c, phTokenCount))
+        {
             return true;
+        }
 
         for (int i = 0; i < tagTokenCount; i++)
         {
             if (!c.Contains($"__XLF_TAG_{i}__", StringComparison.Ordinal))
+            {
                 return true;
+            }
         }
 
         // Prompt leakage markers (keep short and specific)
@@ -174,12 +228,16 @@ public sealed class XliffTranslator
         foreach (var m in badMarkers)
         {
             if (c.Contains(m, StringComparison.OrdinalIgnoreCase))
+            {
                 return true;
+            }
         }
 
         // Explosion on tiny inputs
         if (source.Length <= 20 && c.Length > 80)
+        {
             return true;
+        }
 
         return false;
     }
