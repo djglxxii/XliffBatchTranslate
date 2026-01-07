@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using System.Text;
 
 namespace XliffBatchTranslate
@@ -199,7 +199,18 @@ namespace XliffBatchTranslate
                     Console.WriteLine();
                     Console.WriteLine($"[{i + 1}/{files.Count}] {rel}");
 
-                    var perFileStats = await translator.TranslateFileAsync(inFile, outFile);
+                    // Create a progress reporter to display per‑file progress.
+                    var fileProgress = new Progress<FileProgress>(p =>
+                    {
+                        var pct = (double)p.ProcessedUnits / p.TotalUnits * 100.0;
+                        // \r to overwrite the same line. The two spaces indent the progress below the file header.
+                        Console.Write($"\r  progress: {p.ProcessedUnits}/{p.TotalUnits} units ({pct:0.0}%)");
+                    });
+
+                    var perFileStats = await translator.TranslateFileAsync(inFile, outFile, fileProgress);
+
+                    // Write a newline after the progress bar so subsequent output starts on a new line.
+                    Console.WriteLine();
 
                     overall.TotalTransUnits += perFileStats.TotalTransUnits;
                     overall.TranslatedCount += perFileStats.TranslatedCount;

@@ -24,17 +24,19 @@ public sealed class XliffTranslator
         return doc.Descendants(XliffNs + "trans-unit").Count();
     }
 
-    public async Task<XliffTranslateStats> TranslateFileAsync(string inputPath, string outputPath, CancellationToken ct = default)
+    public async Task<XliffTranslateStats> TranslateFileAsync(string inputPath, string outputPath, IProgress<FileProgress>? progress = null, CancellationToken ct = default)
     {
         var doc = XDocument.Load(inputPath, LoadOptions.PreserveWhitespace);
 
         var fileEl = doc.Descendants(XliffNs + "file").FirstOrDefault();
         if (fileEl is not null)
             fileEl.SetAttributeValue("target-language", _options.TargetLanguage);
-        
-        var transUnits = doc.Descendants(XliffNs + "trans-unit").ToList();
 
-        var stats = new XliffTranslateStats { TotalTransUnits = transUnits.Count };
+        var transUnits = doc.Descendants(XliffNs + "trans-unit").ToList();
+        var totalUnits = transUnits.Count;
+        var processed = 0;
+
+        var stats = new XliffTranslateStats { TotalTransUnits = totalUnits };
 
         foreach (var tu in transUnits)
         {
@@ -44,6 +46,8 @@ public sealed class XliffTranslator
             if (sourceEl is null)
             {
                 stats.SkippedCount++;
+                processed++;
+                progress?.Report(new FileProgress(processed, totalUnits));
                 continue;
             }
 
@@ -67,6 +71,8 @@ public sealed class XliffTranslator
             if (!shouldTranslate || string.IsNullOrWhiteSpace(sourcePlain))
             {
                 stats.SkippedCount++;
+                processed++;
+                progress?.Report(new FileProgress(processed, totalUnits));
                 continue;
             }
 
@@ -106,6 +112,8 @@ public sealed class XliffTranslator
                 targetEl.Add(node);
 
             stats.TranslatedCount++;
+            processed++;
+            progress?.Report(new FileProgress(processed, totalUnits));
         }
 
         doc.Save(outputPath, SaveOptions.DisableFormatting);
@@ -187,4 +195,26 @@ public sealed record XliffTranslateStats
     public int SkippedCount { get; set; }
     public int CacheHitCount { get; set; }
     public int FailureCount { get; set; }
+}
+
+/// <summary>
+/// Represents progress information for a single XLIFF file translation.
+/// </summary>
+public sealed record FileProgress
+{
+    /// <summary>
+    /// Gets the number of units that have been processed (translated or skipped).
+    /// </summary>
+    public int ProcessedUnits { get; init; }
+
+    /// <summary>
+    /// Gets the total number of translation units in the file.
+    /// </summary>
+    public int TotalUnits { get; init; }
+
+    public FileProgress(int processedUnits, int totalUnits)
+    {
+        ProcessedUnits = processedUnits;
+        TotalUnits = totalUnits;
+    }
 }
