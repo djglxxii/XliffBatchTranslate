@@ -57,4 +57,5 @@ public sealed record XliffTranslateOptions
     public int MaxTokens { get; init; } = 512;
 
     public bool UseCache { get; init; } = true;
+    public string TargetLanguageCode { get; set; }
 }

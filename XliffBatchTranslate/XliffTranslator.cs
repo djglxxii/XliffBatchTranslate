@@ -31,7 +31,7 @@ public sealed class XliffTranslator
         var fileEl = doc.Descendants(XliffNs + "file").FirstOrDefault();
         if (fileEl is not null)
             fileEl.SetAttributeValue("target-language", _options.TargetLanguage);
-
+        
         var transUnits = doc.Descendants(XliffNs + "trans-unit").ToList();
 
         var stats = new XliffTranslateStats { TotalTransUnits = transUnits.Count };

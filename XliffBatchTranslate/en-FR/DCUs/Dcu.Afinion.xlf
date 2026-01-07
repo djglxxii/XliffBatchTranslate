@@ -1,124 +1,124 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="es">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="French">
     <body>
       <!-- Device Configuration: Afinion -->
 
       <trans-unit id="DeviceConfigurations.Afinion.DeviceSettingsTitle">
           <source>Settings</source>
-          <target>Configuración</target>
+          <target>Paramètres</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.AllowLocal">
           <source>Allow Local</source>
-          <target>Permitir Local</target>
+          <target>Autoriser le local</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Operator.AllowLocal.Tooltip">
           <source>Allow local operator lockout configuration</source>
-          <target>Permite la configuración de desbloqueo del operador local</target>
+          <target>Autoriser la configuration de verrouillage des opérateurs locaux</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.AssayLockout.Tooltip">
           <source>If checked, will block the instrument from performing patient tests for the assay type</source>
-          <target>Si se selecciona, bloqueará al instrumento para realizar pruebas a pacientes del tipo de ensayo</target>
+          <target>Si elle est cochée, l'instrument ne pourra plus effectuer d'analyses sur le type de prélèvement en question</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Assay.LockoutInterval.TooltipTime">
           <source>Number of hours between required control runs</source>
-          <target>Número de horas entre las ejecuciones de control requeridas</target>
+          <target>Nombre d'heures entre les passages aux contrôles requis</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Assay.LockoutInterval.TooltipRuns">
           <source>Number of runs between required control runs</source>
-          <target>Número de series entre las series de control requeridas</target>
+          <target>Nombre de passages entre les passages de contrôle requis</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Assay.WarningPeriod.TooltipTime">
           <source>Number of hours remaining to show warning</source>
-          <target>Número de horas restantes para mostrar la advertencia</target>
+          <target>Nombre d'heures restantes avant l'affichage de l'avertissement</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Assay.WarningPeriod.TooltipRuns">
           <source>Number of runs remaining to show warning</source>
-          <target>Número de carreras restantes para mostrar la advertencia</target>
+          <target>Nombre de tours restants pour afficher l'avertissement</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.QC.AllowLocal.Tooltip">
           <source>Allow local QC lockout configuration</source>
-          <target>Permitir configuración de bloqueo de calidad en el lugar</target>
+          <target>Autoriser la configuration locale du verrouillage de contrôle qualité</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.SessionDuration">
           <source>Session Duration</source>
-          <target>Duración de la sesión</target>
+          <target>Durée de la session</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.LockoutLevel">
           <source>Lockout Level</source>
-          <target>Nivel de Bloqueo</target>
+          <target>Niveau de verrouillage</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.OperatorLockoutTitle">
           <source>Operator Lockout</source>
-          <target>Bloqueo del operador</target>
+          <target>Verrouillage de l'opérateur</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.QCLockoutTitle">
           <source>QC Lockout</source>
-          <target>Bloqueo de QC</target>
+          <target>QC Lockout</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.LockoutLevel.Disabled">
           <source>Disabled</source>
-          <target>Inhabilitado</target>
+          <target>Handicapés</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.LockoutLevel.Required">
           <source>Required</source>
-          <target>Obligatorio</target>
+          <target>Requis</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.LockoutLevel.IdVerification">
           <source>Required with ID Verification</source>
-          <target>Requisito con verificación de ID</target>
+          <target>Exigé avec vérification d'identité</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutBy.Time">
           <source>Time</source>
-          <target>Tiempo</target>
+          <target>Temps</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutBy.Run">
           <source>Runs</source>
-          <target>Carreras</target>
+          <target>Exécute des tâches</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutLevel.Off">
           <source>Off</source>
-          <target>Desactivado</target>
+          <target>Éteint</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutLevel.CIOrCII">
           <source>CI or CII</source>
-          <target>CI o CII</target>
+          <target>CI ou CII</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutLevel.CIAndCII">
           <source>CI and CII</source>
-          <target>CI y CII</target>
+          <target>CI et CII</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.AssayLockout">
           <source>Assay Lockout</source>
-          <target>Bloqueo de ensayos</target>
+          <target>Verrouillage de l'essai</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.AssayName">
           <source>Assay Name</source>
-          <target>Nombre del ensayo</target>
+          <target>Nom de l'essai</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.LockoutBy">
           <source>Lockout By</source>
-          <target>Bloqueo Por</target>
+          <target>Lockout Par</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.LockoutInterval">
           <source>Lockout Interval</source>
-          <target>Intervalo de bloqueo</target>
+          <target>Intervalle de verrouillage</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.WarningPeriod">
           <source>Warning Period</source>
-          <target>Período de Advertencia</target>
+          <target>Période d'alerte</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.LockoutLevel">
           <source>Lockout Level</source>
-          <target>Nivel de Bloqueo</target>
+          <target>Niveau de verrouillage</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.OperatorCapabilitiesTitle">
           <source>Operator Capabilities</source>
-          <target>Habilidades del operador</target>
+          <target>Fonctionnalités de l'opérateur</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.AllowDiscard">
           <source>Allow Discard</source>
-          <target>Permitir Descartar</target>
+          <target>Autoriser Supprimer</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Operator.AllowDiscard.Tooltip">
           <source>Tooltip for Afinion Allow Discard checkbox</source>
@@ -126,11 +126,11 @@
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.FirmwareOptionsTitle">
           <source>Firmware Update Options</source>
-          <target>Opciones de actualización del firmware</target>
+          <target>Options de mise à jour du microprogramme</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.AutoUpdate">
           <source>Automatic Update</source>
-          <target>Actualización automática</target>
+          <target>Mise à jour automatique</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.AutoUpdate.Tooltip">
           <source>Tooltip for Afinion Automatic Update checkbox</source>
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.AutoRestart">
           <source>Automatic Restart</source>
-          <target>Restauración automática</target>
+          <target>Redémarrage automatique</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.AutoRestart.Tooltip">
           <source>Tooltip for Afinion Automatic Restart checkbox</source>

@@ -1,106 +1,106 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-   <file source-language="en" datatype="plaintext" original="ng2.template" target-language="es">
+   <file source-language="en" datatype="plaintext" original="ng2.template" target-language="French">
       <body>
         <trans-unit id="Devices.Settings.SettingsDialog.Title" datatype="html">
           <source>{{resourceName}} Device Settings</source>
-          <target>{{resourceName}} Configuración del dispositivo</target>
+          <target>{{resourceName}} Paramètres de l'appareil</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.ClinitekStatus.RequireQCStrip" datatype="html">
           <source>Require QC Strip</source>
-          <target>Requisito para el Desprendimiento de la CQ</target>
+          <target>Exiger le démontage de la QC</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.ClinitekStatus.RequireQCCassette" datatype="html">
           <source>Require QC Cassette</source>
-          <target>Requisito para la cassete de QC</target>
+          <target>Exiger la cassette de contrôle qualité</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Signature.D911LimitReset" datatype="html">
           <source>911 Limit Reset</source>
-          <target>Restablecimiento del Límite de 911</target>
+          <target>Réinitialisation des limites du 911</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Test" datatype="html">
           <source>Test</source>
-          <target>Prueba</target>
+          <target>Test</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Signature.Normal" datatype="html">
           <source>Normal</source>
-          <target>Norma</target>
+          <target>Normal</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Signature.Abnormal" datatype="html">
           <source>Abnormal</source>
-          <target>Anoormal</target>
+          <target>Anormale</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Rapidpoint.Analyte" datatype="html">
           <source>Analyte</source>
-          <target>Analito</target>
+          <target>Analyse</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Rapidpoint.Action" datatype="html">
           <source>Action</source>
-          <target>Acción</target>
+          <target>Action</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Rapidpoint.OverrideQC" datatype="html">
           <source>Override QC</source>
-          <target>Sobrescribe el control de calidad</target>
+          <target>Annuler le contrôle qualité</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Rapidpoint.NoAction" datatype="html">
           <source>No Action</source>
-          <target>Sin Acción</target>
+          <target>Pas d'action</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Rapidpoint.Enable" datatype="html">
           <source>Enable</source>
-          <target>Habilitar</target>
+          <target>Activer</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Rapidpoint.Disable" datatype="html">
           <source>Disable</source>
-          <target>Deshabilitar</target>
+          <target>Désactiver</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Rapidpoint.LockDevice" datatype="html">
           <source>Lock Device</source>
-          <target>Dispositivo de Bloqueo</target>
+          <target>Verrouiller l'appareil</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Rapidpoint.UnlockDevice" datatype="html">
           <source>Unlock Device</source>
-          <target>Desbloquear dispositivo</target>
+          <target>Débloquer l'appareil</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Rapidpoint.Initiate1PointCalibration" datatype="html">
           <source>Initiate 1-Point Calibration</source>
-          <target>Inicia la calibración de un punto</target>
+          <target>Initiation de l'étalonnage à un point</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Rapidpoint.Initiate2PointCalibration" datatype="html">
           <source>Initiate 2-Point Calibration</source>
-          <target>Inicia la calibración de dos puntos</target>
+          <target>Initiation de l'étalonnage à deux points</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Hemochron.LockPatientTests" datatype="html">
           <source>Lock Patient Tests</source>
-          <target>Probar la cerradura del paciente</target>
+          <target>Essais sur des patients verrouillés</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Hemochron.Level1EQCFailures" datatype="html">
           <source>Level 1/EQC Failures</source>
-          <target>Nivel 1/Fallos de EQC</target>
+          <target>Défaillances du niveau 1/du système de contrôle électronique (EC)</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.Columns.Hemochron.Level2Failures" datatype="html">
           <source>Level 2 Failures</source>
-          <target>Fallos de nivel 2</target>
+          <target>Défaillances de niveau 2</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.SettingsDialog.DeviceCommands.Title" datatype="html">
           <source>Device Commands</source>
-          <target>Comandos de dispositivo</target>
+          <target>Commandes de périphériques</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.SettingsDialog.ClearCounts.Title" datatype="html">
           <source>Clear Counts</source>
-          <target>Cómputos claros</target>
+          <target>Comptes clairs</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.SettingsDialog.DeviceParameterControls.Title" datatype="html">
           <source>Device Parameter Controls</source>
-          <target>Control de parámetros del dispositivo</target>
+          <target>Contrôle des paramètres de périphériques</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.SettingsDialog.GeneralSettings.Title" datatype="html">
           <source>General Settings</source>
-          <target>Configuración general</target>
+          <target>Paramètres généraux</target>
         </trans-unit>
         <trans-unit id="Devices.Settings.SettingsDialog.FailedQCTestReset.Title" datatype="html">
           <source>Failed QC Test Reset</source>
-          <target>Restablecer prueba de calidad fallada</target>
+          <target>Réinitialiser le test de contrôle qualité échoué</target>
         </trans-unit>
       </body>
    </file>

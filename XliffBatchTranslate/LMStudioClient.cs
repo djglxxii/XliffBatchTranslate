@@ -23,39 +23,31 @@ public sealed class LmStudioClient
     public async Task<string?> TranslateStrictAsync(string text, string targetLanguage, int maxTokens, CancellationToken ct)
     {
         if (string.IsNullOrWhiteSpace(text))
+        {
             return text;
-
-        // Never include <...> anywhere in the prompt.
-        // Never include examples that look like tags.
-        /*var userPrompt =
-            $"Translate from English to {targetLanguage}.\n" +
-            "Rules:\n" +
-            "- Output ONLY the translation.\n" +
-            "- Do NOT add markup, tags, or explanations.\n" +
-            "- Preserve any placeholder tokens exactly as-is.\n" +
-            "- If the input is short, keep the output short.\n\n" +
-            "INPUT_START\n" +
-            text + "\n" +
-            "INPUT_END";*/
+        }
         
-        //var userPrompt = text;
+        text = (text ?? string.Empty).Trim();
+        
         var userPrompt =
-            "Translate the following text from English into Spanish.\n\n" +
-            text + "\n\nSpanish:";
+            $"Translate the following text from English into {targetLanguage}.\n\n" +
+            text + $"\n\n{targetLanguage}:";
+        
+        var messages = new List<ChatMessage>();
+        if (!string.IsNullOrEmpty(_systemMessage))
+        {
+            messages.Add(new ChatMessage { Role = "system", Content = _systemMessage });
+        }
 
-
+        messages.Add(new ChatMessage { Role = "user", Content = userPrompt });
         var request = new ChatCompletionRequest
         {
             Model = _model,
-            Messages = new List<ChatMessage>
-            {
-                new() { Role = "system", Content = _systemMessage },
-                new() { Role = "user", Content = userPrompt }
-            },
+            Messages = messages,
             Temperature = 0.0,
             MaxTokens = maxTokens
         };
-
+        
         var body = JsonSerializer.Serialize(request, JsonOptions);
         using var content = new StringContent(body, Encoding.UTF8, "application/json");
 
@@ -63,7 +55,9 @@ public sealed class LmStudioClient
         var payload = await resp.Content.ReadAsStringAsync(ct).ConfigureAwait(false);
 
         if (!resp.IsSuccessStatusCode)
+        {
             return null;
+        }
 
         ChatCompletionResponse? parsed;
         try
@@ -77,15 +71,21 @@ public sealed class LmStudioClient
 
         var choice = parsed?.Choices?.FirstOrDefault();
         if (choice is null)
+        {
             return null;
+        }
 
         var msg = choice.Message?.Content;
         if (!string.IsNullOrWhiteSpace(msg))
+        {
             return msg.Trim();
+        }
 
         var txt = choice.Text;
         if (!string.IsNullOrWhiteSpace(txt))
+        {
             return txt.Trim();
+        }
 
         return null;
     }
