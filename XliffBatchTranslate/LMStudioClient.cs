@@ -28,10 +28,17 @@ public sealed class LmStudioClient
         }
         
         text = (text ?? string.Empty).Trim();
-        
+
         var userPrompt =
             $"Translate the following text from English into {targetLanguage}.\n\n" +
             text + $"\n\n{targetLanguage}:";
+        // var userPrompt =
+        //     $"Translate the following text from English into {targetLanguage}.\n" +
+        //     "The text is a short UI label. Translate concisely.\n" +
+        //     "Preserve placeholders exactly as written.\n\n" +
+        //     "English:\n" +
+        //     text + "\n\n" +
+        //     $"{targetLanguage}:\n";
         
         var messages = new List<ChatMessage>();
         if (!string.IsNullOrEmpty(_systemMessage))
