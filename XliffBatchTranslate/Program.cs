@@ -34,10 +34,9 @@ internal static class Program
         Directory.CreateDirectory(outputFolder);
 
         // Keep system message short to reduce instruction leakage.
-        var systemMessage =
-            "You translate UI strings for point-of-care (POC) medical software. " +
-            "Preserve tokens/placeholders exactly. Output only the translation.";
-
+        //var systemMessage = "Translate UI labels to Spanish for medical point-of-care software. Preserve placeholders exactly. Output only the translation. Keep it the same style and brevity as the input.  For ambiguous gender assume male";
+        string systemMessage = string.Empty;
+        
         try
         {
             using var http = new HttpClient { Timeout = TimeSpan.FromSeconds(60) };

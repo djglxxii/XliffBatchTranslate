@@ -25,16 +25,25 @@ public sealed class LmStudioClient
         if (string.IsNullOrWhiteSpace(text))
             return text;
 
-        var userPrompt =
-            $"Target language: {targetLanguage}\n" +
-            "Translate ONLY the text between the markers.\n" +
-            "Preserve tokens/placeholders exactly (e.g., __XLF_TAG_0__, __XLF_PH_0__).\n" +
-            "Do NOT add any markup/tags. If the source has no markup, output must be plain text.\n" +
-            "Output ONLY the translation.\n\n" +
-            "BEGIN_TEXT\n" +
+        // Never include <...> anywhere in the prompt.
+        // Never include examples that look like tags.
+        /*var userPrompt =
+            $"Translate from English to {targetLanguage}.\n" +
+            "Rules:\n" +
+            "- Output ONLY the translation.\n" +
+            "- Do NOT add markup, tags, or explanations.\n" +
+            "- Preserve any placeholder tokens exactly as-is.\n" +
+            "- If the input is short, keep the output short.\n\n" +
+            "INPUT_START\n" +
             text + "\n" +
-            "END_TEXT";
+            "INPUT_END";*/
         
+        //var userPrompt = text;
+        var userPrompt =
+            "Translate the following text from English into Spanish.\n\n" +
+            text + "\n\nSpanish:";
+
+
         var request = new ChatCompletionRequest
         {
             Model = _model,

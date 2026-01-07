@@ -10,9 +10,7 @@
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.AllowLocal">
           <source>Allow Local</source>
-          <target>Texto INICIO
-Permitir Local
-Texto FINAL</target>
+          <target>Permitir Local</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Operator.AllowLocal.Tooltip">
           <source>Allow local operator lockout configuration</source>
@@ -20,8 +18,7 @@ Texto FINAL</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.AssayLockout.Tooltip">
           <source>If checked, will block the instrument from performing patient tests for the assay type</source>
-          <target>Si se selecciona, bloqueará el instrumento para realizar pruebas a pacientes del tipo de ensayo
-FIN_TEXTO</target>
+          <target>Si se selecciona, bloqueará al instrumento para realizar pruebas a pacientes del tipo de ensayo</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Assay.LockoutInterval.TooltipTime">
           <source>Number of hours between required control runs</source>
@@ -29,13 +26,7 @@ FIN_TEXTO</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Assay.LockoutInterval.TooltipRuns">
           <source>Number of runs between required control runs</source>
-          <target>Número de series entre las series de control requeridas
-BEGIN_TEXT
-Clasificación de los resultados
-Clasificación de los resultados
-Clasificación de los resultados
-Clasificación de los resultados
-Clasificación de los resultados</target>
+          <target>Número de series entre las series de control requeridas</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Assay.WarningPeriod.TooltipTime">
           <source>Number of hours remaining to show warning</source>
@@ -43,34 +34,31 @@ Clasificación de los resultados</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Assay.WarningPeriod.TooltipRuns">
           <source>Number of runs remaining to show warning</source>
-          <target>Número de ejecuciones restantes para mostrar una advertencia
-BEGIN_TEXT
-Número de ejecuciones restantes para mostrar un mensaje
-END_TEXT</target>
+          <target>Número de carreras restantes para mostrar la advertencia</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.QC.AllowLocal.Tooltip">
           <source>Allow local QC lockout configuration</source>
-          <target>Permite la configuración de desbloqueo de calidad local</target>
+          <target>Permitir configuración de bloqueo de calidad en el lugar</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.SessionDuration">
           <source>Session Duration</source>
-          <target>Duración de la Sesión</target>
+          <target>Duración de la sesión</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.LockoutLevel">
           <source>Lockout Level</source>
-          <target>Nivel de bloqueo</target>
+          <target>Nivel de Bloqueo</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.OperatorLockoutTitle">
           <source>Operator Lockout</source>
-          <target>Cierre del operador</target>
+          <target>Bloqueo del operador</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.QCLockoutTitle">
           <source>QC Lockout</source>
-          <target>QC Lockout</target>
+          <target>Bloqueo de QC</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.LockoutLevel.Disabled">
           <source>Disabled</source>
-          <target>Desactivado</target>
+          <target>Inhabilitado</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.LockoutLevel.Required">
           <source>Required</source>
@@ -78,67 +66,59 @@ END_TEXT</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.LockoutLevel.IdVerification">
           <source>Required with ID Verification</source>
-          <target>Texto requerido con verificación de ID</target>
+          <target>Requisito con verificación de ID</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutBy.Time">
           <source>Time</source>
-          <target>Time</target>
+          <target>Tiempo</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutBy.Run">
           <source>Runs</source>
-          <target>Ejecutar</target>
+          <target>Carreras</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutLevel.Off">
           <source>Off</source>
-          <target>Off</target>
+          <target>Desactivado</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutLevel.CIOrCII">
           <source>CI or CII</source>
-          <target>Código I o código II</target>
+          <target>CI o CII</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.LockoutLevel.CIAndCII">
           <source>CI and CII</source>
-          <target>Código de Inmunización y Control (CIC)
-Código de Identificación Individual (CII)</target>
+          <target>CI y CII</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.AssayLockout">
           <source>Assay Lockout</source>
-          <target>Cierre de Análisis</target>
+          <target>Bloqueo de ensayos</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.AssayName">
           <source>Assay Name</source>
-          <target>Assay Name</target>
+          <target>Nombre del ensayo</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.LockoutBy">
           <source>Lockout By</source>
-          <target>Cerrado Por</target>
+          <target>Bloqueo Por</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.LockoutInterval">
           <source>Lockout Interval</source>
-          <target>Código de bloqueo
-Intervalo de bloqueo</target>
+          <target>Intervalo de bloqueo</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.WarningPeriod">
           <source>Warning Period</source>
-          <target>Aviso de período
-
-BEGIN_TEXT
-Clinical Decision Support
-END_TEXT</target>
+          <target>Período de Advertencia</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.Assay.Columns.LockoutLevel">
           <source>Lockout Level</source>
-          <target>Nivel de bloqueo</target>
+          <target>Nivel de Bloqueo</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.OperatorCapabilitiesTitle">
           <source>Operator Capabilities</source>
-          <target>Operator Capabilities</target>
+          <target>Habilidades del operador</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.AllowDiscard">
           <source>Allow Discard</source>
-          <target>Texto INICIO
-Permitir Descartar
-Texto FINAL</target>
+          <target>Permitir Descartar</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.Operator.AllowDiscard.Tooltip">
           <source>Tooltip for Afinion Allow Discard checkbox</source>
@@ -146,11 +126,7 @@ Texto FINAL</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.FirmwareOptionsTitle">
           <source>Firmware Update Options</source>
-          <target>Opciones de actualización de firmware
-BEGIN_TEXT
-Clasificación de la enfermedad
-Clasifica la enfermedad según el código ICD-10.
-Clasifica la enfermedad según el código ICD-10.</target>
+          <target>Opciones de actualización del firmware</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.AutoUpdate">
           <source>Automatic Update</source>
@@ -162,7 +138,7 @@ Clasifica la enfermedad según el código ICD-10.</target>
       </trans-unit>
       <trans-unit id="DeviceConfigurations.Afinion.AutoRestart">
           <source>Automatic Restart</source>
-          <target>Reinicio Automático</target>
+          <target>Restauración automática</target>
       </trans-unit>
       <trans-unit id="DeviceConfiguration.Afinion.AutoRestart.Tooltip">
           <source>Tooltip for Afinion Automatic Restart checkbox</source>
